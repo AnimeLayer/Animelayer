@@ -1,74 +1,75 @@
 <div align="center">
   <img src="https://i.imgur.com/r1gh8ZD.png" alt="AnimeLayer Logo" width="120" height="120" />
   <h1>AnimeLayer</h1>
-  <p><strong>Mais do que um Player. O seu novo universo Anime.</strong></p>
+  <p><strong>More than just a Player. Your new Anime universe.</strong></p>
 
   <p>
     <img src="https://img.shields.io/badge/Platform-Windows-0078d7?style=flat-square&logo=windows" alt="Platform" />
     <img src="https://img.shields.io/badge/Community-Active-ff69b4?style=flat-square" alt="Community" />
+    <img src="https://img.shields.io/badge/License-Proprietary-orange?style=flat-square" alt="License" />
   </p>
 
   <p>
-    <a href="#comunidade">Comunidade</a> •
-    <a href="#funcionalidades">Funcionalidades</a> •
-    <a href="#seguranca">Segurança & Legal</a> •
+    <a href="#community">Community</a> •
+    <a href="#features">Features</a> •
+    <a href="#security">Security & Legal</a> •
     <a href="#download">Download</a>
   </p>
 </div>
 
 ---
 
-## 🚀 O que é o AnimeLayer?
+## 🚀 What is AnimeLayer?
 
-O **AnimeLayer** nasceu do desejo de uma equipa jovem e amadora de criar a experiência definitiva para fãs de anime. Não somos apenas um software de streaming; somos uma **plataforma social nativa** para Windows que une tecnologia de ponta com a interatividade de uma comunidade vibrante.
+**AnimeLayer** was born from the vision of a young and independent team dedicated to creating the ultimate experience for anime fans. We are not just a streaming software; we are a **native social platform** for Windows that merges cutting-edge technology with the interactivity of a vibrant community.
 
 > [!NOTE]
-> **Sobre o Código Fonte**: Como somos uma equipa iniciante, optamos por manter o código privado nesta fase para garantir a máxima segurança dos nossos utilizadores e evitar ataques ou vulnerabilidades desnecessárias enquanto o projeto amadurece.
+> **About the Source Code**: As an independent team, we have chosen to keep the source code private at this stage to ensure maximum security for our users and prevent unnecessary vulnerabilities while the project matures.
 
 ---
 
-## 👥 Um Ecossistema Social Completo
+## 👥 A Complete Social Ecosystem
 
-Diferente de tudo o que já viu, o AnimeLayer foca-se na **interatividade**:
+Unlike anything you've seen before, AnimeLayer focuses on **interactivity**:
 
-- 💬 **Fóruns Ultra-Específicos**: Discussões dedicadas para cada Anime, Temporada ou até mesmo para aquele **episódio específico** que acabou de ver.
-- 👤 **Perfis Públicos Personalizáveis**: Crie a sua identidade, personalize o seu perfil e mostre ao mundo o seu gosto.
-- 🤝 **Conectividade**: Siga outros utilizadores, veja o que eles estão a assistir e descubra novas pérolas através das listas de amigos.
-- 📂 **Múltiplos Perfis por Conta**: Tal como nos grandes serviços de streaming, pode ter vários perfis na mesma conta, cada um com as suas próprias listas, histórico e preferências.
-- 🏆 **Sistema de Conquistas**: Ganhe *Milestone Badges* e emblemas exclusivos à medida que completa maratonas ou ajuda a comunidade.
-
----
-
-## ✨ Funcionalidades de Elite
-
-- 📺 **Integração com Addons Stremio**: Expanda o seu catálogo infinitamente através do ecossistema de extensões da comunidade.
-- 🎥 **Motor MPV Nativo**: Reprodução fluída com suporte a hardware, 4K e dual-audio.
-- 🔔 **Notificações de Atualização**: Embora não forçamos atualizações automáticas para respeitar a sua largura de banda, será sempre notificado assim que uma nova versão melhorada estiver disponível.
-- 🛡️ **Sistema de Suporte & Reports**: Temos ferramentas integradas para reportar problemas ou solicitar ajuda diretamente à nossa equipa.
+- 💬 **Hyper-Specific Forums**: Dedicated discussions for every Anime, Season, or even that **specific episode** you just finished watching.
+- 👤 **Customizable Public Profiles**: Create your identity, personalize your profile, and showcase your taste to the world.
+- 🤝 **Connectivity**: Follow other users, see what they are watching, and discover new gems through your friends' lists.
+- 📂 **Multi-Profiles per Account**: Just like major streaming services, you can have multiple profiles under the same account, each with its own lists, history, and preferences.
+- 🏆 **Achievement System**: Earn *Milestone Badges* and exclusive rewards as you complete marathons or contribute to the community.
 
 ---
 
-## ⚖️ Segurança, Privacidade e Legalidade
+## ✨ Elite Features
 
-Levamos a transparência muito a sério:
-- **Zero Hosting**: O AnimeLayer **não aloja, não distribui e não transmite** nenhum conteúdo audiovisual nos seus servidores. Funcionamos apenas como um motor de metadados e um cliente técnico de visualização.
-- **Privacidade Local**: Os seus dados de navegação são mantidos com o máximo de segurança.
-- **Legalidade**: Operamos dentro dos parâmetros de software de indexação e ferramentas P2P, garantindo que a plataforma seja uma ferramenta técnica para o utilizador.
+- 📺 **Stremio Addons Integration**: Expand your catalog infinitely through the community's extensive ecosystem of addons.
+- 🎥 **Native MPV Engine**: Ultra-smooth playback with hardware acceleration, 4K support, and dual-audio.
+- 🔔 **Update Notifications**: While we don't force automatic updates to respect your bandwidth, you will always be notified as soon as a new, improved version is available.
+- 🛡️ **Support & Report System**: Integrated tools to report issues or request help directly from our team.
 
 ---
 
-## 📥 Como Começar?
+## ⚖️ Security, Privacy and Legality
 
-1. Visite a nossa **Landing Page** oficial para uma visão detalhada: [animelayer.vercel.app](https://animelayer.vercel.app)
-2. Vá à seção de [Releases](https://github.com/AnimeLayer/Animelayer/releases/latest) e baixe o instalador para Windows.
-3. Instale e junte-se a milhares de outros fãs.
+We take transparency very seriously:
+- **Zero Hosting**: AnimeLayer **does not host, distribute, or transmit** any audiovisual content on its servers. We operate solely as a metadata engine and a technical viewing client.
+- **Local Privacy**: Your browsing data is handled with maximum security and kept local whenever possible.
+- **Legality**: We operate within the parameters of indexing software and P2P tools, ensuring the platform remains a technical utility for the user.
+
+---
+
+## 📥 How to Get Started?
+
+1. Visit our official **Landing Page** for a detailed overview: [animelayer.vercel.app](https://animelayer.vercel.app)
+2. Go to the [Releases](https://github.com/AnimeLayer/Animelayer/releases/latest) section and download the Windows installer.
+3. Install and join thousands of other fans.
 
 ---
 
 <div align="center">
-  <p>Desenvolvido com paixão pela Equipa AnimeLayer</p>
+  <p>Developed with passion by the AnimeLayer Team</p>
   <p>
-    <a href="https://github.com/AnimeLayer/Animelayer/issues">Reportar Bug / Suporte</a> •
-    <a href="https://animelayer.vercel.app">Site Oficial</a>
+    <a href="https://github.com/AnimeLayer/Animelayer/issues">Report Bug / Support</a> •
+    <a href="https://animelayer.vercel.app">Official Website</a>
   </p>
 </div>
