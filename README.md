@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/logo.png" alt="AnimeLayer Logo" width="120" height="120" />
+  <img src="https://i.imgur.com/r1gh8ZD.png" alt="AnimeLayer Logo" width="120" height="120" />
   <h1>AnimeLayer</h1>
   <p><strong>Mais do que um Player. O seu novo universo Anime.</strong></p>
 
