@@ -1,18 +1,19 @@
 <div align="center">
   <img src="public/logo.png" alt="AnimeLayer Logo" width="120" height="120" />
   <h1>AnimeLayer</h1>
-  <p><strong>A sua central de anime definitiva, nativa para Windows.</strong></p>
+  <p><strong>Mais do que um Player. O seu novo universo Anime.</strong></p>
 
   <p>
     <img src="https://img.shields.io/github/v/release/AnimeLayer/Animelayer?style=flat-square&color=2ecc71&label=versão" alt="Release" />
     <img src="https://img.shields.io/badge/Platform-Windows-0078d7?style=flat-square&logo=windows" alt="Platform" />
-    <img src="https://img.shields.io/badge/License-Proprietary-orange?style=flat-square" alt="License" />
+    <img src="https://img.shields.io/badge/Community-Active-ff69b4?style=flat-square" alt="Community" />
   </p>
 
   <p>
+    <a href="#comunidade">Comunidade</a> •
     <a href="#funcionalidades">Funcionalidades</a> •
-    <a href="#download">Download</a> •
-    <a href="#suporte">Suporte</a>
+    <a href="#seguranca">Segurança & Legal</a> •
+    <a href="#download">Download</a>
   </p>
 </div>
 
@@ -20,63 +21,55 @@
 
 ## 🚀 O que é o AnimeLayer?
 
-O **AnimeLayer** é um aplicativo desktop de alta performance projetado para oferecer a melhor experiência de streaming de anime diretamente no Windows. Chega de players de navegador lentos, anúncios invasivos e travamentos. O AnimeLayer utiliza tecnologia de ponta para entregar streaming instantâneo com a maior qualidade possível.
+O **AnimeLayer** nasceu do desejo de uma equipa jovem e amadora de criar a experiência definitiva para fãs de anime. Não somos apenas um software de streaming; somos uma **plataforma social nativa** para Windows que une tecnologia de ponta com a interatividade de uma comunidade vibrante.
 
-## ✨ Funcionalidades Principais
-
-- 🎥 **Player Nativo (MPV)**: Reprodução ultra-fluída com suporte a aceleração de hardware e 4K.
-- ⚡ **Streaming Instantâneo**: Assista enquanto baixa. O motor inteligente pré-carrega os episódios para você não esperar.
-- 🎨 **Interface Premium**: Design moderno, intuitivo e com transições suaves (Dark Mode nativo).
-- 🌍 **Multi-Idioma**: Suporte total a áudio dual e múltiplas legendas.
-- 🔄 **Atualizações Automáticas**: O app se mantém sempre atualizado com as últimas correções e novidades.
+> [!NOTE]
+> **Sobre o Código Fonte**: Como somos uma equipa iniciante, optamos por manter o código privado nesta fase para garantir a máxima segurança dos nossos utilizadores e evitar ataques ou vulnerabilidades desnecessárias enquanto o projeto amadurece.
 
 ---
 
-## 📥 Como Baixar e Instalar
+## 👥 Um Ecossistema Social Completo
 
-Para começar a usar o AnimeLayer, siga os passos abaixo:
+Diferente de tudo o que já viu, o AnimeLayer foca-se na **interatividade**:
 
-1. **Aceda às Releases**: Clique no botão abaixo ou vá à seção "Releases" do GitHub.
-2. **Baixe o Instalador**: Procure pelo arquivo `.exe` (ex: `AnimeLayer-Setup-1.0.4.exe`).
-3. **Instale**: Execute o instalador e siga as instruções no ecrã.
-4. **Divirta-se**: Abra o app e comece a sua maratona!
-
-<div align="center">
-  <br/>
-  <a href="https://github.com/AnimeLayer/Animelayer/releases/latest">
-    <img src="https://img.shields.io/badge/BAIXAR_AGORA_PARA_WINDOWS-white?style=for-the-badge&logo=windows&logoColor=0078d7" height="40" />
-  </a>
-  <br/>
-</div>
+- 💬 **Fóruns Ultra-Específicos**: Discussões dedicadas para cada Anime, Temporada ou até mesmo para aquele **episódio específico** que acabou de ver.
+- 👤 **Perfis Públicos Personalizáveis**: Crie a sua identidade, personalize o seu perfil e mostre ao mundo o seu gosto.
+- 🤝 **Conectividade**: Siga outros utilizadores, veja o que eles estão a assistir e descubra novas pérolas através das listas de amigos.
+- 📂 **Múltiplos Perfis por Conta**: Tal como nos grandes serviços de streaming, pode ter vários perfis na mesma conta, cada um com as suas próprias listas, histórico e preferências.
+- 🏆 **Sistema de Conquistas**: Ganhe *Milestone Badges* e emblemas exclusivos à medida que completa maratonas ou ajuda a comunidade.
 
 ---
 
-## 📸 Screenshots
+## ✨ Funcionalidades de Elite
 
-> [!TIP]
-> **Quer ver o app em ação?** Arraste algumas capturas de tela para a pasta `public/screenshots/` e elas aparecerão aqui para os seus utilizadores!
-
-<div align="center">
-  <p><em>Interface principal e Player nativo em ação</em></p>
-  <img src="https://via.placeholder.com/800x450.png?text=Preview+da+Interface+AnimeLayer" alt="Preview" width="800" />
-</div>
+- 📺 **Integração com Addons Stremio**: Expanda o seu catálogo infinitamente através do ecossistema de extensões da comunidade.
+- 🎥 **Motor MPV Nativo**: Reprodução fluída com suporte a hardware, 4K e dual-audio.
+- 🔔 **Notificações de Atualização**: Embora não forçamos atualizações automáticas para respeitar a sua largura de banda, será sempre notificado assim que uma nova versão melhorada estiver disponível.
+- 🛡️ **Sistema de Suporte & Reports**: Temos ferramentas integradas para reportar problemas ou solicitar ajuda diretamente à nossa equipa.
 
 ---
 
-## 🛠️ Tecnologia Utilizada
+## ⚖️ Segurança, Privacidade e Legalidade
 
-Embora não estejamos a partilhar o código fonte, o AnimeLayer é construído com o que há de melhor no mercado para garantir segurança e velocidade:
-- **Engine**: Electron (Integração total com Windows)
-- **Frontend**: Next.js & React 19
-- **Player**: MPV Nativo (O player mais leve e potente do mundo)
-- **Base de Dados**: Prisma & SQLite para rapidez extrema.
+Levamos a transparência muito a sério:
+- **Zero Hosting**: O AnimeLayer **não aloja, não distribui e não transmite** nenhum conteúdo audiovisual nos seus servidores. Funcionamos apenas como um motor de metadados e um cliente técnico de visualização.
+- **Privacidade Local**: Os seus dados de navegação são mantidos com o máximo de segurança.
+- **Legalidade**: Operamos dentro dos parâmetros de software de indexação e ferramentas P2P, garantindo que a plataforma seja uma ferramenta técnica para o utilizador.
+
+---
+
+## 📥 Como Começar?
+
+1. Visite a nossa **Landing Page** oficial para uma visão detalhada: [animelayer.vercel.app](https://animelayer.vercel.app)
+2. Vá à seção de [Releases](https://github.com/AnimeLayer/Animelayer/releases/latest) e baixe o instalador para Windows.
+3. Instale e junte-se a milhares de outros fãs.
 
 ---
 
 <div align="center">
-  <p>Feito com ❤️ pela equipe AnimeLayer</p>
+  <p>Desenvolvido com paixão pela Equipa AnimeLayer</p>
   <p>
-    <a href="https://github.com/AnimeLayer/Animelayer/issues">Reportar um Problema</a> •
-    <a href="https://github.com/AnimeLayer/Animelayer">Página Oficial</a>
+    <a href="https://github.com/AnimeLayer/Animelayer/issues">Reportar Bug / Suporte</a> •
+    <a href="https://animelayer.vercel.app">Site Oficial</a>
   </p>
 </div>
