@@ -4,7 +4,6 @@
   <p><strong>Mais do que um Player. O seu novo universo Anime.</strong></p>
 
   <p>
-    <img src="https://img.shields.io/github/v/release/AnimeLayer/Animelayer?style=flat-square&color=2ecc71&label=versão" alt="Release" />
     <img src="https://img.shields.io/badge/Platform-Windows-0078d7?style=flat-square&logo=windows" alt="Platform" />
     <img src="https://img.shields.io/badge/Community-Active-ff69b4?style=flat-square" alt="Community" />
   </p>
