@@ -1,7 +1,7 @@
 {
-  "enabled": false,
-  "versionCode": 0,
-  "versionName": "",
-  "url": "",
-  "notes": "Auto-update do Windows em standby de proposito — ver sistema_autoupdater.md secção 6 no repo de código. Quando ativado, aplicar aqui o mesmo esquema do android/manifest.json (versionCode próprio, independente do Android)."
+  "enabled": true,
+  "versionCode": 5,
+  "versionName": "1.0.0",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+5.zip",
+  "notes": "Primeira build de testes com auto-update ativo no Windows."
 }
