@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
+  "versionCode": 17,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+15.apk",
-  "notes": "Corrigido: o modo imersivo só estava a ser ativado num dos dois caminhos possíveis de escolha de perfil — faltava no caminho normal (tocar num perfil já existente)."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+17.apk",
+  "notes": "Ecrã de escolha de perfil redimensionado (sem overflow, avatares e espaçamentos menores, 3 por linha). Navbar (ícones, avatar, texto) ligeiramente maior."
 }
