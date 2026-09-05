@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
+  "versionCode": 19,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+18.apk",
-  "notes": "Corrigido overflow do popup de criar/editar perfil. Fontes da página de fontes disponíveis e ícones do player ligeiramente maiores."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+19.apk",
+  "notes": "Página de notificações reorganizada (agrupada por Hoje/Ontem/Esta semana/Mais antigas, ícones por tipo, marcar como lidas)."
 }

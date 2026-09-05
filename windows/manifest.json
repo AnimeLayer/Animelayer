@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "versionCode": 6,
+  "versionCode": 7,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+6.zip",
-  "notes": "Update silencioso: janela de linha de comandos escondida durante a substituição dos ficheiros (estilo Discord/Squirrel)."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+7.zip",
+  "notes": "Ícone oficial da app (janela/taskbar/tray), novo instalador (setup.exe, sem afetar o mecanismo de auto-update) e página de notificações reorganizada."
 }
