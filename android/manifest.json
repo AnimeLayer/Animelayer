@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
+  "versionCode": 14,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+13.apk",
-  "notes": "Escala global da UI outra vez, agora com OverflowBox (corrige o bug do 'canto' da tentativa anterior) — ecrã preenchido de ponta a ponta com elementos proporcionalmente mais pequenos."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+14.apk",
+  "notes": "Barra de estado do sistema escondida (immersive) para não se sobrepor ao navbar + navbar/ícones (pesquisa, sino, avatar) ligeiramente maiores."
 }
