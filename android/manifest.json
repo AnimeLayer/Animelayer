@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
+  "versionCode": 7,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+5.apk",
-  "notes": "Escala geral da UI para caber em ecrãs de telemóvel (todas as páginas) + orientação só muda para paisagem depois de escolher perfil + descrição do anime reposta no banner."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+7.apk",
+  "notes": "Corrigido download preso em 'a descarregar' para sempre — o DownloadManager nativo tinha problemas a seguir o redirecionamento do GitHub entre domínios; agora resolve-se o link final em Dart antes de o entregar."
 }
