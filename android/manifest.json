@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
+  "versionCode": 5,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+4.apk",
-  "notes": "Download via DownloadManager nativo (muito mais rápido) + corrigido flash de orientação no arranque + banner da home reposto no lugar certo."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+5.apk",
+  "notes": "Escala geral da UI para caber em ecrãs de telemóvel (todas as páginas) + orientação só muda para paisagem depois de escolher perfil + descrição do anime reposta no banner."
 }
