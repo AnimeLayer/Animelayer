@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
+  "versionCode": 4,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+3.apk",
-  "notes": "Ecrã de bloqueio inteiro (em vez de diálogo) + download retoma sem repetir se já estiver completo + progresso mais rápido."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+4.apk",
+  "notes": "Download via DownloadManager nativo (muito mais rápido) + corrigido flash de orientação no arranque + banner da home reposto no lugar certo."
 }
