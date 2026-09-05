@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
+  "versionCode": 13,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+12.apk",
-  "notes": "Revertida a escala global da UI (causava caixas cortadas/mal posicionadas) — volta ao layout normal, a solução para o tamanho dos elementos fica para retomar noutra altura."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+13.apk",
+  "notes": "Escala global da UI outra vez, agora com OverflowBox (corrige o bug do 'canto' da tentativa anterior) — ecrã preenchido de ponta a ponta com elementos proporcionalmente mais pequenos."
 }
