@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
+  "versionCode": 3,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+2.apk",
-  "notes": "Orientação: só o ecrã de login fica em retrato, resto da app em paisagem."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+3.apk",
+  "notes": "Ecrã de bloqueio inteiro (em vez de diálogo) + download retoma sem repetir se já estiver completo + progresso mais rápido."
 }
