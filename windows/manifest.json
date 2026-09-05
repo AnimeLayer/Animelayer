@@ -1,0 +1,7 @@
+{
+  "enabled": false,
+  "versionCode": 0,
+  "versionName": "",
+  "url": "",
+  "notes": "Auto-update do Windows em standby de proposito — ver sistema_autoupdater.md secção 6 no repo de código. Quando ativado, aplicar aqui o mesmo esquema do android/manifest.json (versionCode próprio, independente do Android)."
+}

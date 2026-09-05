@@ -1,0 +1,7 @@
+{
+  "enabled": false,
+  "versionCode": 0,
+  "versionName": "",
+  "url": "",
+  "notes": "Auto-update do macOS em standby de proposito — ver sistema_autoupdater.md secção 6 no repo de código. Bloqueador real aqui é o Gatekeeper (assinatura/notarização com Apple Developer ID), não o mecanismo de update em si."
+}

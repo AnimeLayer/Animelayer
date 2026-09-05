@@ -1,0 +1,7 @@
+{
+  "enabled": false,
+  "versionCode": 0,
+  "versionName": "",
+  "url": "",
+  "notes": "Auto-update do Linux em standby de proposito — ver sistema_autoupdater.md secção 6 no repo de código. Candidato natural: AppImage (self-contained, dá para a própria app substituir o seu binário)."
+}
