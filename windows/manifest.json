@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "versionCode": 7,
+  "versionCode": 20,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+7.zip",
-  "notes": "Ícone oficial da app (janela/taskbar/tray), novo instalador (setup.exe, sem afetar o mecanismo de auto-update) e página de notificações reorganizada."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+20.zip",
+  "notes": "Correção do próprio auto-update: a build anterior tinha o número 7 no manifest mas 18 embutido no .exe (herdado do pubspec.yaml partilhado), por isso nunca detetava a atualização."
 }
