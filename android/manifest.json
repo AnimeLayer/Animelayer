@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
+  "versionCode": 10,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+8.apk",
-  "notes": "Corrigida a escala da UI (v7 estava a encolher a app inteira numa caixa minúscula no login/perfis, por engano aplicava-se também em retrato) — agora só ativa em paisagem, depois da escolha de perfil."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+10.apk",
+  "notes": "Escala da UI: preenche o ecrã de ponta a ponta (sem cortar nada) e usa uma referência mais larga, para os elementos (navbar, listas) ficarem proporcionalmente mais pequenos, como no Windows."
 }
