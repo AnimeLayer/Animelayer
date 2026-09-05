@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
+  "versionCode": 11,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+10.apk",
-  "notes": "Escala da UI: preenche o ecrã de ponta a ponta (sem cortar nada) e usa uma referência mais larga, para os elementos (navbar, listas) ficarem proporcionalmente mais pequenos, como no Windows."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+11.apk",
+  "notes": "Download voltou a ser em Dart (mais lento, mas confirmado a funcionar) — o DownloadManager nativo nunca chegou a funcionar de ponta a ponta neste projeto."
 }
