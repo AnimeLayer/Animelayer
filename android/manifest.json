@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
+  "versionCode": 15,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+14.apk",
-  "notes": "Barra de estado do sistema escondida (immersive) para não se sobrepor ao navbar + navbar/ícones (pesquisa, sino, avatar) ligeiramente maiores."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+15.apk",
+  "notes": "Corrigido: o modo imersivo só estava a ser ativado num dos dois caminhos possíveis de escolha de perfil — faltava no caminho normal (tocar num perfil já existente)."
 }
