@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "versionCode": 20,
+  "versionCode": 21,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+20.zip",
-  "notes": "Correção do próprio auto-update: a build anterior tinha o número 7 no manifest mas 18 embutido no .exe (herdado do pubspec.yaml partilhado), por isso nunca detetava a atualização."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+21.zip",
+  "notes": "Corrigido o próprio mecanismo de auto-update: a janela de espera/retry do robocopy era curta demais e desistia de ficheiros ainda bloqueados (ex.: DLLs do player), reabrindo a versão antiga em vez da nova. Agora espera mais e tenta bem mais vezes."
 }
