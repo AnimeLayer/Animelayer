@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "versionCode": 32,
+  "versionCode": 33,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+32.zip",
-  "notes": "Adicionadas mais 10 línguas (agora 12 no total): Espanhol, Francês, Alemão, Japonês, Chinês, Coreano, Hindi, Russo, Italiano e Indonésio. Corrigidos textos em português esquecidos no fórum e no perfil, e os nomes/descrições das conquistas (badges) agora também traduzem. Corrigida uma notificação de novo episódio a aparecer duplicada quando a língua da app é trocada."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+33.zip",
+  "notes": "Traduzidos mais textos esquecidos (Minha Lista, Ranking, Loja) e as datas relativas (\"há X dias\") agora funcionam corretamente em todas as 12 línguas, não só português/inglês/espanhol. Notificações: nova opção de selecionar e apagar várias de uma vez. Corrigido um retângulo de hover preso no ícone de idioma."
 }
