@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
+  "versionCode": 28,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+27.apk",
-  "notes": "Ícone de idioma na navbar corrigido (já não fica com fundo sempre aceso). Pop-up do sino agora faz scroll para veres mais notificações sem abrir a página toda. Nova página de notificações com separadores: Todas, Lançamentos, Seguidores, Menções, Respostas e Conquistas."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+28.apk",
+  "notes": "A app já não instala nenhum addon sozinha — começa sempre sem nenhum, tens de adicionar por tua conta nas Definições. Novo botão de \"Configurar\" em cada addon, que abre a página de configuração própria dele. Corrigido um texto que mostrava \"Stremio\" em vez de \"Desconhecido\" quando uma fonte não indicava o nome."
 }
