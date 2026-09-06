@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "versionCode": 25,
+  "versionCode": 27,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+25.zip",
-  "notes": "Corrigido o bug real do auto-update: o comando PowerShell que lançava o .bat de substituição nunca chegava a executar (problema de aspas aninhadas na string -Command), por isso a app nunca reabria sozinha nem os ficheiros eram substituídos. Trocado para -EncodedCommand, que evita esse problema."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+27.zip",
+  "notes": "Build de diagnóstico: salta o PowerShell e lança o .bat diretamente via cmd.exe (pode aparecer uma janela preta por instantes) para isolar se o problema está no PowerShell/encoding ou no próprio .bat/robocopy."
 }
