@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "versionCode": 27,
+  "versionCode": 29,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+27.zip",
-  "notes": "Build de diagnóstico: salta o PowerShell e lança o .bat diretamente via cmd.exe (pode aparecer uma janela preta por instantes) para isolar se o problema está no PowerShell/encoding ou no próprio .bat/robocopy."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+29.zip",
+  "notes": "Auto-update silencioso corrigido: em vez de PowerShell (que falhava silenciosamente a lançar o .bat), usa um pequeno .vbs com WScript.Shell.Run(...,0,False) via wscript.exe — truque clássico para lançar sem janela nenhuma, sem os problemas de aspas do PowerShell."
 }
