@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
+  "versionCode": 27,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+26.apk",
-  "notes": "Corrigido um crash na página de Calendário. Traduzidos mais textos esquecidos (Minha Lista, Ranking, Loja) e as datas relativas (\"há X dias\") agora funcionam corretamente em todas as 12 línguas. Notificações: nova opção de selecionar e apagar várias de uma vez."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+27.apk",
+  "notes": "Ícone de idioma na navbar corrigido (já não fica com fundo sempre aceso). Pop-up do sino agora faz scroll para veres mais notificações sem abrir a página toda. Nova página de notificações com separadores: Todas, Lançamentos, Seguidores, Menções, Respostas e Conquistas."
 }

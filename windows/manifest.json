@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "versionCode": 33,
+  "versionCode": 34,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+33.zip",
-  "notes": "Traduzidos mais textos esquecidos (Minha Lista, Ranking, Loja) e as datas relativas (\"há X dias\") agora funcionam corretamente em todas as 12 línguas, não só português/inglês/espanhol. Notificações: nova opção de selecionar e apagar várias de uma vez. Corrigido um retângulo de hover preso no ícone de idioma."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+34.zip",
+  "notes": "Ícone de idioma na navbar corrigido (já não fica com fundo sempre aceso). Pop-up do sino agora faz scroll para veres mais notificações sem abrir a página toda. Nova página de notificações com separadores: Todas, Lançamentos, Seguidores, Menções, Respostas e Conquistas."
 }
