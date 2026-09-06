@@ -1,6 +1,6 @@
 {
-  "versionCode": 30,
+  "versionCode": 31,
   "versionName": "1.0.0",
   "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+30.apk",
-  "notes": "AniList voltou a estar ligada normalmente (a build anterior tinha-a desligada de propósito só para testar o Modo Alternativo). Melhorias no Modo Alternativo (Kitsu) mantidas: temporadas/episódios completos, paginação total de episódios, suporte a anime só-TMDB, correção de erro 406 do Kitsu, botão de voltar em ecrãs de loading presos, logo maior no leitor de vídeo em telemóvel."
+  "notes": "TESTE: só a subir o versionCode para verificar se a deteção de atualização está a funcionar (mesmo binário do build 30 — não instalar a sério em produção com este manifest)."
 }
