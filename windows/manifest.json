@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "versionCode": 30,
+  "versionCode": 31,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+30.zip",
-  "notes": "Página de notificações: cabeçalho deixou de ficar escondido atrás da navbar. Diálogo de atualização agora mostra 'Nova versão para Windows X.Y.Z disponível!'."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+31.zip",
+  "notes": "Suporte a Inglês/Português em toda a app, com seletor de idioma na navbar e no login."
 }
