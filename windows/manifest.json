@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "versionCode": 35,
+  "versionCode": 36,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+35.zip",
-  "notes": "A app já não instala nenhum addon sozinha — começa sempre sem nenhum, tens de adicionar por tua conta nas Definições. Novo botão de \"Configurar\" em cada addon, que abre a página de configuração própria dele. Corrigido um texto que mostrava \"Stremio\" em vez de \"Desconhecido\" quando uma fonte não indicava o nome."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+36.zip",
+  "notes": "BUILD DE TESTE: AniList está propositadamente desligada nesta build para testar o Modo Alternativo (Kitsu) ao vivo — isto é temporário, não reverter o manifest antes de o link ser corrigido no código. Inclui: reconstrução completa de temporadas/episódios no fallback Kitsu, paginação total de episódios (animes longos como One Piece já não ficam cortados), suporte a conteúdo só-TMDB (sem AniList) no leitor de vídeo, correção do erro 406 do Kitsu que impedia a resolução de fontes, botão de voltar no ecrã de loading preso, e logo maior no leitor de vídeo em telemóvel."
 }
