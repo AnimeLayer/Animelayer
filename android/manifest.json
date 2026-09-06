@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
+  "versionCode": 20,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+19.apk",
-  "notes": "Página de notificações reorganizada (agrupada por Hoje/Ontem/Esta semana/Mais antigas, ícones por tipo, marcar como lidas)."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+20.apk",
+  "notes": "Página de notificações: cabeçalho deixou de ficar escondido atrás da navbar. Diálogo de atualização agora mostra 'Nova versão para Android X.Y.Z disponível!'."
 }

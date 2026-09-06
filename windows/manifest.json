@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "versionCode": 29,
+  "versionCode": 30,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+29.zip",
-  "notes": "Auto-update silencioso corrigido: em vez de PowerShell (que falhava silenciosamente a lançar o .bat), usa um pequeno .vbs com WScript.Shell.Run(...,0,False) via wscript.exe — truque clássico para lançar sem janela nenhuma, sem os problemas de aspas do PowerShell."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+30.zip",
+  "notes": "Página de notificações: cabeçalho deixou de ficar escondido atrás da navbar. Diálogo de atualização agora mostra 'Nova versão para Windows X.Y.Z disponível!'."
 }
