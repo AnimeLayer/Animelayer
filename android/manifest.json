@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
+  "versionCode": 22,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+21.apk",
-  "notes": "Corrigida a compra na Loja: o popup de checkout do Stripe usava um WebView exclusivo do Windows e nunca abria em Android. Agora usa webview_flutter em Android."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+22.apk",
+  "notes": "Corrigido: episódios descarregados ficavam acumulados para sempre na cache do telemóvel. Agora são apagados automaticamente ao trocar de episódio ou fechar o leitor de vídeo."
 }
