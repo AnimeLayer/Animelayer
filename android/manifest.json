@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
+  "versionCode": 23,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+22.apk",
-  "notes": "Corrigido: episódios descarregados ficavam acumulados para sempre na cache do telemóvel. Agora são apagados automaticamente ao trocar de episódio ou fechar o leitor de vídeo."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+23.apk",
+  "notes": "Reforçada a limpeza de cache de episódios: agora também é apagada sempre que a app arranca, mesmo que a sessão anterior tenha sido fechada à força ou tenha crashado."
 }
