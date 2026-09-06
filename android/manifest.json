@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
+  "versionCode": 25,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+24.apk",
-  "notes": "Corrigidos os ~300MB restantes na cache: o .apk descarregado pelas atualizações automáticas nunca era apagado depois de instalado. Agora é limpo automaticamente no arranque seguinte da app."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+25.apk",
+  "notes": "Primeira build Android com suporte a várias línguas: Português, Inglês, Espanhol, Francês, Alemão, Japonês, Chinês, Coreano, Hindi, Russo, Italiano e Indonésio, com seletor de idioma na navbar e no login. Corrigida uma notificação de novo episódio a aparecer duplicada quando a língua da app é trocada."
 }

@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "versionCode": 31,
+  "versionCode": 32,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+31.zip",
-  "notes": "Suporte a Inglês/Português em toda a app, com seletor de idioma na navbar e no login."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+32.zip",
+  "notes": "Adicionadas mais 10 línguas (agora 12 no total): Espanhol, Francês, Alemão, Japonês, Chinês, Coreano, Hindi, Russo, Italiano e Indonésio. Corrigidos textos em português esquecidos no fórum e no perfil, e os nomes/descrições das conquistas (badges) agora também traduzem. Corrigida uma notificação de novo episódio a aparecer duplicada quando a língua da app é trocada."
 }
