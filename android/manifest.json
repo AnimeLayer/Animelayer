@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
+  "versionCode": 21,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+20.apk",
-  "notes": "Página de notificações: cabeçalho deixou de ficar escondido atrás da navbar. Diálogo de atualização agora mostra 'Nova versão para Android X.Y.Z disponível!'."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+21.apk",
+  "notes": "Corrigida a compra na Loja: o popup de checkout do Stripe usava um WebView exclusivo do Windows e nunca abria em Android. Agora usa webview_flutter em Android."
 }
