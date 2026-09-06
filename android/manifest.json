@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
+  "versionCode": 30,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+29.apk",
-  "notes": "BUILD DE TESTE: AniList está propositadamente desligada nesta build para testar o Modo Alternativo (Kitsu) ao vivo — isto é temporário, não reverter o manifest antes de o link ser corrigido no código. Inclui: reconstrução completa de temporadas/episódios no fallback Kitsu, paginação total de episódios (animes longos como One Piece já não ficam cortados), suporte a conteúdo só-TMDB (sem AniList) no leitor de vídeo, correção do erro 406 do Kitsu que impedia a resolução de fontes, botão de voltar no ecrã de loading preso, e logo maior no leitor de vídeo em telemóvel."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+30.apk",
+  "notes": "AniList voltou a estar ligada normalmente (a build anterior tinha-a desligada de propósito só para testar o Modo Alternativo). Melhorias no Modo Alternativo (Kitsu) mantidas: temporadas/episódios completos, paginação total de episódios, suporte a anime só-TMDB, correção de erro 406 do Kitsu, botão de voltar em ecrãs de loading presos, logo maior no leitor de vídeo em telemóvel."
 }
