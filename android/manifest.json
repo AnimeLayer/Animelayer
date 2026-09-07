@@ -1,6 +1,6 @@
 {
-  "versionCode": 52,
+  "versionCode": 53,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+52.apk",
-  "notes": "Corrigido crash ao abrir o popup de avaliação do cabeçalho — faltava um Material a envolver a caixa de comentário."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+53.apk",
+  "notes": "Build release para testar/depurar o crash ao abrir uma fonte de video."
 }
