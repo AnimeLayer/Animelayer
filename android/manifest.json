@@ -1,6 +1,6 @@
 {
-  "versionCode": 36,
+  "versionCode": 37,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+36.apk",
-  "notes": "Catálogo próprio reorganizado por franquia: pesquisa e página de Animes mostram agora só 1 entrada por anime (nunca mais uma por cada temporada/filme/especial em separado). Aba de Elenco corrigida."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+37.apk",
+  "notes": "Novo bloco nas Definições > Addons: \"Motor de Catálogo AnimeLayer\", sempre ativo, mostra que o catálogo (pesquisa/listagens/detalhes) já não depende de nenhum addon externo — é só informativo."
 }
