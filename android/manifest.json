@@ -1,6 +1,6 @@
 {
-  "versionCode": 100,
+  "versionCode": 101,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/AnimeLayer-Official-1.0.0.apk",
-  "notes": "Reset para o lancamento oficial 1.0.0. Corrigido o crash ao abrir uma fonte de video em build release (regra ProGuard/R8 em falta para o libtorrent4j)."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+101.apk",
+  "notes": "Sistema de Franquias (Dragon Ball, Naruto, Pokemon, Yu-Gi-Oh, Digimon e mais 35) totalmente por base de dados, sem codigo fixo por titulo. Corrigido o separador de temporadas a mostrar animes errados e o separador de episodios a aparecer junto do de temporadas."
 }
