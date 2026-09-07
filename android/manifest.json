@@ -1,6 +1,6 @@
 {
-  "versionCode": 35,
+  "versionCode": 36,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+35.apk",
-  "notes": "Ecrã de \"a ligar à rede P2P\" (ao carregar numa fonte) aumentado por completo no telemóvel — texto, barra de progresso, peers/velocidade e botão de cancelar, que ficavam pequenos comparado com o logo e com o Windows."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+36.apk",
+  "notes": "Catálogo próprio reorganizado por franquia: pesquisa e página de Animes mostram agora só 1 entrada por anime (nunca mais uma por cada temporada/filme/especial em separado). Aba de Elenco corrigida."
 }
