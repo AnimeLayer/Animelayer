@@ -1,6 +1,6 @@
 {
-  "versionCode": 45,
+  "versionCode": 46,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+45.apk",
-  "notes": "Animes com só 1 temporada passam a ter hub também (separador Temporadas com \"Temporada 1\" lá dentro, sem separador Episódios na página principal) — igual às franquias com várias. Estrelas de avaliação do anime movidas para o cabeçalho, ao lado do total de episódios."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+46.apk",
+  "notes": "Corrigido: bloco de avaliação duplicado na página de uma temporada. Fica só no cabeçalho — e passa a avaliar a temporada certa quando estás dentro de uma, em vez do anime inteiro."
 }
