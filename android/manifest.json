@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
+  "versionCode": 38,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+37.apk",
-  "notes": "Novo bloco nas Definições > Addons: \"Motor de Catálogo AnimeLayer\", sempre ativo, mostra que o catálogo (pesquisa/listagens/detalhes) já não depende de nenhum addon externo — é só informativo."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+38.apk",
+  "notes": "Legendas OpenSubtitles: qualquer fonte passa a ter a opção de legendas extra em dezenas de línguas (separador \"OpenSubs\" no seletor de legendas, ao lado de \"Fonte\"). Novo card fixo em Definições > Addons."
 }
