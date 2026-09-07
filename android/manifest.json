@@ -1,6 +1,6 @@
 {
-  "versionCode": 46,
+  "versionCode": 47,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+46.apk",
-  "notes": "Corrigido: bloco de avaliação duplicado na página de uma temporada. Fica só no cabeçalho — e passa a avaliar a temporada certa quando estás dentro de uma, em vez do anime inteiro."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+47.apk",
+  "notes": "Corrigido: episódio marcado como assistido não aparecia na lista de episódios da própria página do anime até saíres e voltares (só a Home atualizava). Corrigido também um cálculo errado do número absoluto do episódio em animes com curadoria por arcos, que podia deixar o \"episódio anterior\" sem fontes em certas temporadas."
 }
