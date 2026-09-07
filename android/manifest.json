@@ -1,6 +1,6 @@
 {
-  "versionCode": 40,
+  "versionCode": 41,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+40.apk",
-  "notes": "LayerSubs: mais idiomas com nome legível em vez do código (vietnamita, chinês tradicional, etc.), popup ligeiramente mais largo, e a legenda escolhida agora fica corretamente marcada ao reabrir o seletor."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+41.apk",
+  "notes": "LayerSubs: legendas nas 12 línguas que a app já suporta (português primeiro) aparecem sempre no topo da lista, mesmo quando o episódio tiver dezenas de outras línguas disponíveis."
 }
