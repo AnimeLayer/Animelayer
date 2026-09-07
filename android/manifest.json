@@ -1,6 +1,6 @@
 {
-  "versionCode": 41,
+  "versionCode": 42,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+41.apk",
-  "notes": "LayerSubs: legendas nas 12 línguas que a app já suporta (português primeiro) aparecem sempre no topo da lista, mesmo quando o episódio tiver dezenas de outras línguas disponíveis."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+42.apk",
+  "notes": "Avaliações da comunidade: estrelas de 0.5 em 0.5 até 5, para anime, temporada e episódio (separadas das notas do AniList/MAL/TMDB). No leitor, ao terminar um episódio aparece um convite para avaliar. Dá XP e desbloqueia 2 conquistas novas."
 }
