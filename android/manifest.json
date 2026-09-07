@@ -1,6 +1,6 @@
 {
-  "versionCode": 43,
+  "versionCode": 44,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+43.apk",
-  "notes": "Avaliações agora podem levar um comentário curto (até 150 caracteres). Novo separador \"Avaliações\" no perfil de cada membro, com pesquisa por anime e filtros (animes/temporadas/episódios). Visitantes podem dar reputação positiva às avaliações de outros membros."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+44.apk",
+  "notes": "Quem segues avisa-te agora quando avalia um anime, temporada ou episódio (tal como já acontecia para tópicos novos) — dá para desligar em Definições > Notificações."
 }
