@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
+  "versionCode": 34,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+33.apk",
-  "notes": "Corrigido: ao sair do leitor de vídeo, as barras do sistema (topo e lateral) ficavam presas visíveis em vez de recolherem sozinhas como no resto da app."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+34.apk",
+  "notes": "Corrigido crash grave ao carregar numa fonte (a app fechava/minimizava instantaneamente) — voltámos a publicar em --debug em vez de --release enquanto investigamos a causa exata no motor de torrent nativo. O auto-update continua a funcionar normalmente."
 }
