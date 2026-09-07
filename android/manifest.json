@@ -1,6 +1,6 @@
 {
-  "versionCode": 39,
+  "versionCode": 40,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+39.apk",
-  "notes": "Marca própria para os módulos internos: \"LayerCatalog\" (catálogo) e \"LayerSubs\" (legendas extra) — mesmas funcionalidades da build anterior, agora com nome AnimeLayer em vez do nome técnico das ferramentas por trás."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+40.apk",
+  "notes": "LayerSubs: mais idiomas com nome legível em vez do código (vietnamita, chinês tradicional, etc.), popup ligeiramente mais largo, e a legenda escolhida agora fica corretamente marcada ao reabrir o seletor."
 }
