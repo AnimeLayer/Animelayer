@@ -1,6 +1,6 @@
 {
-  "versionCode": 47,
+  "versionCode": 48,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+47.apk",
-  "notes": "Corrigido: episódio marcado como assistido não aparecia na lista de episódios da própria página do anime até saíres e voltares (só a Home atualizava). Corrigido também um cálculo errado do número absoluto do episódio em animes com curadoria por arcos, que podia deixar o \"episódio anterior\" sem fontes em certas temporadas."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+48.apk",
+  "notes": "Corrigido: fontes com só 1-3 áudios reais apareciam marcadas \"Multi-Audio\" por engano — o detetor contava línguas mencionadas em listas de legendas como se fossem áudios. Agora só conta quando a fonte anuncia mesmo várias faixas de áudio."
 }
