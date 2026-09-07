@@ -1,6 +1,6 @@
 {
-  "versionCode": 51,
+  "versionCode": 52,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+51.apk",
-  "notes": "As estrelas do cabeçalho (anime/temporada) já abrem um popup com estrelas + caixa de comentário + botão \"Enviar\", em vez de gravar logo ao tocar sem hipótese de escrever nada."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+52.apk",
+  "notes": "Corrigido crash ao abrir o popup de avaliação do cabeçalho — faltava um Material a envolver a caixa de comentário."
 }
