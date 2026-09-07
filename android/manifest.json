@@ -1,6 +1,6 @@
 {
-  "versionCode": 50,
+  "versionCode": 51,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+50.apk",
-  "notes": "Separador \"Avaliações\" (pesquisa + filtros) agora também aparece no teu próprio perfil, não só no de outros membros. Layout do separador Rankings ajustado (nomes de categoria já não ficam cortados, e as medalhas dos #1 organizam-se melhor). Removido um ecrã de perfil antigo que já não era usado em lado nenhum e estava a causar diferenças entre perfis."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+51.apk",
+  "notes": "As estrelas do cabeçalho (anime/temporada) já abrem um popup com estrelas + caixa de comentário + botão \"Enviar\", em vez de gravar logo ao tocar sem hipótese de escrever nada."
 }
