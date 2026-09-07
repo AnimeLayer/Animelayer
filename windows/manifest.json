@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "versionCode": 100,
+  "versionCode": 101,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/AnimeLayerSetup-Official-1.0.0.exe",
-  "notes": "Reset para o lancamento oficial 1.0.0."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+101.zip",
+  "notes": "Sistema de Franquias (Dragon Ball, Naruto, Pokemon, Yu-Gi-Oh, Digimon e mais 35) totalmente por base de dados, sem codigo fixo por titulo. Corrigido o separador de temporadas a mostrar animes errados e o separador de episodios a aparecer junto do de temporadas."
 }
