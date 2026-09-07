@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
+  "versionCode": 33,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+32.apk",
-  "notes": "Correção importante: a partir de agora as builds Android usam --release em vez de --debug (mesma assinatura, continua a atualizar por cima da versão anterior sem perder dados). Isto corrige um bug real: com --debug, a app nunca mais detetava atualizações seguintes depois de instalada — por isso esta build pode ter de ser instalada manualmente uma última vez."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+33.apk",
+  "notes": "Corrigido: ao sair do leitor de vídeo, as barras do sistema (topo e lateral) ficavam presas visíveis em vez de recolherem sozinhas como no resto da app."
 }
