@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
+  "versionCode": 35,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+34.apk",
-  "notes": "Corrigido crash grave ao carregar numa fonte (a app fechava/minimizava instantaneamente) — voltámos a publicar em --debug em vez de --release enquanto investigamos a causa exata no motor de torrent nativo. O auto-update continua a funcionar normalmente."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+35.apk",
+  "notes": "Ecrã de \"a ligar à rede P2P\" (ao carregar numa fonte) aumentado por completo no telemóvel — texto, barra de progresso, peers/velocidade e botão de cancelar, que ficavam pequenos comparado com o logo e com o Windows."
 }
