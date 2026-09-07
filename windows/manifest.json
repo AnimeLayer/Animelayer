@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "versionCode": 37,
+  "versionCode": 100,
   "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+37.zip",
-  "notes": "AniList voltou a estar ligada normalmente (a build anterior tinha-a desligada de propósito só para testar o Modo Alternativo). Melhorias no Modo Alternativo (Kitsu) mantidas: temporadas/episódios completos, paginação total de episódios, suporte a anime só-TMDB, correção de erro 406 do Kitsu, botão de voltar em ecrãs de loading presos, logo maior no leitor de vídeo em telemóvel."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/AnimeLayerSetup-Official-1.0.0.exe",
+  "notes": "Reset para o lancamento oficial 1.0.0."
 }
