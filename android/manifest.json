@@ -1,6 +1,6 @@
 {
-  "versionCode": 107,
-  "versionName": "1.0.6",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+107.apk",
-  "notes": "Corrigido crash de arranque em Android TV (escalador de UI pensado so para telemovel aplicava-se por engano a TV). Confirmada por log a logica do cursor por D-pad."
+  "versionCode": 108,
+  "versionName": "1.0.7",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+108.apk",
+  "notes": "Corrigidos varios bugs em animes com varias temporadas (ex: Re:Zero) - temporadas so mostravam episodios da 1a temporada, numero do episodio ficava errado no titulo, e a TMDB nao preenchia titulos/capas nas temporadas seguintes. A pesquisa deixou de poder abrir paginas TMDB paralelas para animes. Corrigido tambem o numero de versao mostrado em Definicoes > Atualizacoes."
 }
