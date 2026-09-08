@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "versionCode": 108,
-  "versionName": "1.0.7",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+108.zip",
-  "notes": "Corrigidos varios bugs em animes com varias temporadas (ex: Re:Zero) - temporadas so mostravam episodios da 1a temporada, numero do episodio ficava errado no titulo, e a TMDB nao preenchia titulos/capas nas temporadas seguintes. A pesquisa deixou de poder abrir paginas TMDB paralelas para animes. Corrigido tambem o numero de versao mostrado em Definicoes > Atualizacoes."
+  "versionCode": 109,
+  "versionName": "1.0.8",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+109.zip",
+  "notes": "Corrigido 'Continuar a Assistir' a abrir fontes da temporada errada (ex: Re:Zero T4 abria fontes da T1). Lista de episodios do leitor agora mostra o anime inteiro (todas as temporadas) com titulos/capas da TMDB, em vez de so a temporada atual. Popup de avaliacoes agora mostra a temporada e o nome do anime. Icones de Forum/Avaliacoes no leitor ficam destacados quando ja existe topico ou avaliacao para esse episodio."
 }
