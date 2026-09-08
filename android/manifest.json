@@ -1,6 +1,6 @@
 {
-  "versionCode": 102,
-  "versionName": "1.0.1",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+102.apk",
-  "notes": "Corrigido o numero de versao mostrado no ecra de atualizacao (mostrava 1.0.101 em vez de 1.0.1)."
+  "versionCode": 103,
+  "versionName": "1.0.2",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+103.apk",
+  "notes": "Separador de Avaliacoes em Franquias, Animes e Temporadas, com a lista de avaliacoes da comunidade. Nos episodios, novo botao junto ao do Forum abre um popup com as avaliacoes desse episodio, com setas para avancar/recuar entre episodios. Rotulo do Hub Franquia agora diz Hub Franquia e X Animes em vez de X Temporadas."
 }
