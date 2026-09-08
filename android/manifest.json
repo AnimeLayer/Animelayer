@@ -1,6 +1,6 @@
 {
-  "versionCode": 105,
-  "versionName": "1.0.4",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+105.apk",
-  "notes": "Corrigido: legendas do LayerSubs deixavam de vir tambem duplicadas no separador Fonte apos escolhidas. Adicionado ajuste manual de avanco/atraso da legenda (sincronizar) na mesma popup, com botao de repor - util quando uma legenda vem ligeiramente desfasada por ser de um lancamento diferente do episodio."
+  "versionCode": 106,
+  "versionName": "1.0.5",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+106.apk",
+  "notes": "Removido o Modo Alternativo (agora so um aviso discreto se o fornecedor principal ficar em baixo, sem trocar dados nem bloquear nada). Corrigido bug em que marcar uma temporada inteira como vista podia fazer esse anime saltar para o topo do Continuar a Assistir por engano. Marcacao automatica de episodio visto passa de 15s para 5 minutos."
 }
