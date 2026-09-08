@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "versionCode": 103,
-  "versionName": "1.0.2",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+103.zip",
-  "notes": "Separador de Avaliacoes em Franquias, Animes e Temporadas, com a lista de avaliacoes da comunidade. Nos episodios, novo botao junto ao do Forum abre um popup com as avaliacoes desse episodio, com setas para avancar/recuar entre episodios. Rotulo do Hub Franquia agora diz Hub Franquia e X Animes em vez de X Temporadas."
+  "versionCode": 104,
+  "versionName": "1.0.3",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+104.zip",
+  "notes": "Novo botao de Avaliacoes dentro do leitor de video (canto superior direito, junto ao do Forum) - abre popup com a lista de avaliacoes desse episodio, pesquisa por membro e filtro Mais Recentes / Mais Reagidos."
 }
