@@ -1,6 +1,6 @@
 {
-  "versionCode": 106,
-  "versionName": "1.0.5",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+106.apk",
-  "notes": "Removido o Modo Alternativo (agora so um aviso discreto se o fornecedor principal ficar em baixo, sem trocar dados nem bloquear nada). Corrigido bug em que marcar uma temporada inteira como vista podia fazer esse anime saltar para o topo do Continuar a Assistir por engano. Marcacao automatica de episodio visto passa de 15s para 5 minutos."
+  "versionCode": 107,
+  "versionName": "1.0.6",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+107.apk",
+  "notes": "Corrigido crash de arranque em Android TV (escalador de UI pensado so para telemovel aplicava-se por engano a TV). Confirmada por log a logica do cursor por D-pad."
 }
