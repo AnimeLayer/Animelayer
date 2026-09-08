@@ -1,6 +1,6 @@
 {
-  "versionCode": 104,
-  "versionName": "1.0.3",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+104.apk",
-  "notes": "Novo botao de Avaliacoes dentro do leitor de video (canto superior direito, junto ao do Forum) - abre popup com a lista de avaliacoes desse episodio, pesquisa por membro e filtro Mais Recentes / Mais Reagidos."
+  "versionCode": 105,
+  "versionName": "1.0.4",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+105.apk",
+  "notes": "Corrigido: legendas do LayerSubs deixavam de vir tambem duplicadas no separador Fonte apos escolhidas. Adicionado ajuste manual de avanco/atraso da legenda (sincronizar) na mesma popup, com botao de repor - util quando uma legenda vem ligeiramente desfasada por ser de um lancamento diferente do episodio."
 }
