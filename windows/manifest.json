@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "versionCode": 109,
-  "versionName": "1.0.8",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+109.zip",
-  "notes": "Corrigido 'Continuar a Assistir' a abrir fontes da temporada errada (ex: Re:Zero T4 abria fontes da T1). Lista de episodios do leitor agora mostra o anime inteiro (todas as temporadas) com titulos/capas da TMDB, em vez de so a temporada atual. Popup de avaliacoes agora mostra a temporada e o nome do anime. Icones de Forum/Avaliacoes no leitor ficam destacados quando ja existe topico ou avaliacao para esse episodio."
+  "versionCode": 110,
+  "versionName": "1.0.9",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+110.zip",
+  "notes": "Corrigido bug em que abrir a janela de Legendas logo no inicio de um episodio podia mostrar a aba 'Fonte' (legendas originais) incompleta ate se tocar em algo - causado pelo pedido de legendas LayerSubs a competir com a deteccao das legendas nativas do ficheiro. A LayerSubs passa agora a esperar uns segundos antes de pedir nada, dando sempre prioridade total as legendas originais."
 }
