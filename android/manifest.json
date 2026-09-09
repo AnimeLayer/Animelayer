@@ -1,6 +1,6 @@
 {
-  "versionCode": 110,
-  "versionName": "1.0.9",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+110.apk",
-  "notes": "Corrigido bug em que abrir a janela de Legendas logo no inicio de um episodio podia mostrar a aba 'Fonte' (legendas originais) incompleta ate se tocar em algo - causado pelo pedido de legendas LayerSubs a competir com a deteccao das legendas nativas do ficheiro. A LayerSubs passa agora a esperar uns segundos antes de pedir nada, dando sempre prioridade total as legendas originais."
+  "versionCode": 111,
+  "versionName": "1.0.10",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+111.apk",
+  "notes": "Novo botao de traduzir topicos, comentarios e avaliacoes para qualquer idioma (LayerTranslate). Listas de avaliacoes e topicos (perfil, pagina do anime, forum, e dentro do leitor) passam a ter ordenacao (recentes/reputacao/nota) e paginas de 15 em 15. Corrigido animes com 1 so temporada que nao mostravam 'MAIN HUB'/nome da temporada. Tags dos topicos do forum agora traduzidas corretamente em todos os idiomas."
 }
