@@ -1,7 +1,7 @@
 {
-  "enabled": false,
-  "versionCode": 0,
-  "versionName": "",
-  "url": "",
-  "notes": "Auto-update do macOS em standby de proposito — ver sistema_autoupdater.md secção 6 no repo de código. Bloqueador real aqui é o Gatekeeper (assinatura/notarização com Apple Developer ID), não o mecanismo de update em si."
+  "enabled": true,
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/macos-latest/animelayer_macos_1.0.0+1.zip",
+  "notes": "Primeira build oficial de macOS. Auto-update ainda nao confirmado em teste real (Gatekeeper/translocacao por validar) - ver sistema_autoupdater.md seccao 7."
 }

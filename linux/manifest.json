@@ -1,7 +1,7 @@
 {
-  "enabled": false,
-  "versionCode": 0,
-  "versionName": "",
-  "url": "",
-  "notes": "Auto-update do Linux em standby de proposito — ver sistema_autoupdater.md secção 6 no repo de código. Candidato natural: AppImage (self-contained, dá para a própria app substituir o seu binário)."
+  "enabled": true,
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/linux-latest/animelayer_linux_1.0.0+1.AppImage",
+  "notes": "Primeira build oficial de Linux (AppImage, com mpv incluido). Auto-update ainda nao confirmado em teste real."
 }
