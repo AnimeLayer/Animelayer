@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "versionCode": 113,
+  "versionCode": 114,
   "versionName": "1.0.11",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+113.zip",
-  "notes": "Agrupamento de franquias (ex.: Naruto) corrigido na Lista de Animes, Minha Lista e Home - deixaram de aparecer varios cartoes separados para a mesma franquia."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+114.zip",
+  "notes": "Corrigido crash ao criar topico numa temporada especifica, travamentos no leitor ao ajustar cores/legendas, e removido o nome da fonte do titulo do episodio."
 }
