@@ -1,6 +1,6 @@
 {
-  "versionCode": 111,
-  "versionName": "1.0.10",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+111.apk",
-  "notes": "Novo botao de traduzir topicos, comentarios e avaliacoes para qualquer idioma (LayerTranslate). Listas de avaliacoes e topicos (perfil, pagina do anime, forum, e dentro do leitor) passam a ter ordenacao (recentes/reputacao/nota) e paginas de 15 em 15. Corrigido animes com 1 so temporada que nao mostravam 'MAIN HUB'/nome da temporada. Tags dos topicos do forum agora traduzidas corretamente em todos os idiomas."
+  "versionCode": 112,
+  "versionName": "1.0.11",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+112.apk",
+  "notes": "Corrigido bug em que tocar no popup 'obrigado' logo apos avaliar um episodio podia fechar o episodio e voltar as fontes por engano, em vez de so fechar o popup de avaliacao."
 }
