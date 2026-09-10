@@ -1,6 +1,6 @@
 {
-  "versionCode": 114,
+  "versionCode": 115,
   "versionName": "1.0.11",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+114.apk",
-  "notes": "Corrigido crash ao criar topico numa temporada especifica, travamentos no leitor ao ajustar cores/legendas, e removido o nome da fonte do titulo do episodio."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+115.apk",
+  "notes": "Corrigido novo crash ao criar topico (segundo caso do mesmo bug) e um pequeno overflow visual no formulario de criar topico."
 }
