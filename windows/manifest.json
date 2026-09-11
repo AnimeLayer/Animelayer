@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "versionCode": 115,
-  "versionName": "1.0.11",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+115.zip",
-  "notes": "Corrigido novo crash ao criar topico (segundo caso do mesmo bug) e um pequeno overflow visual no formulario de criar topico."
+  "versionCode": 116,
+  "versionName": "1.0.12",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+116.zip",
+  "notes": "Melhorias de desempenho, navegação e correções no fórum/catálogo."
 }
