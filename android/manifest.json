@@ -1,6 +1,6 @@
 {
-  "versionCode": 116,
+  "versionCode": 117,
   "versionName": "1.0.12",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+116.apk",
-  "notes": "Melhorias de desempenho, navegação e correções no fórum/catálogo."
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+117.apk",
+  "notes": "Otimização do carregamento do calendário e filtro rigoroso de temporadas oficiais."
 }
