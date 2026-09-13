@@ -1,7 +1,8 @@
 {
   "enabled": true,
-  "versionCode": 118,
-  "versionName": "1.0.13",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+118.zip",
-  "notes": "Imagens da home a carregar instantaneamente a partir da cache local; correção de arranque de vídeo torrent mais rápido e consistente."
+  "versionCode": 119,
+  "versionName": "1.0.2",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+119.zip",
+  "notes": "Novo bloco 'Atividade ao Vivo' na Home com os topicos, avaliacoes e comentarios recentes da comunidade. Sistema de XP recompensa agora acoes do dia a dia, nao so badges. Molduras e backgrounds de perfil podem ser desbloqueados por nivel, alem de coins.",
+  "notesEn": "New 'Live Activity' block on the Home screen with the community's recent topics, ratings and comments. The XP system now rewards everyday actions, not just badges. Avatar frames and profile backgrounds can now be unlocked by level, in addition to coins."
 }
