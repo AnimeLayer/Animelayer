@@ -1,7 +1,7 @@
 {
-  "versionCode": 120,
-  "versionName": "1.0.3",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+120.apk",
-  "notes": "Corrigido: títulos e capas reais de episódios recentes (ex.: One Piece e outros animes com temporadas curadas por arcos) tinham deixado de aparecer para os episódios mais recentes depois de uma correção anterior de numeração; voltam a mostrar título e capa da TMDB até ao último episódio lançado.",
-  "notesEn": "Fixed: real episode titles and covers for recent episodes (e.g. One Piece and other arc-curated anime) had stopped appearing after an earlier episode-numbering fix; they now show the correct TMDB title and cover again up to the latest aired episode."
+  "versionCode": 121,
+  "versionName": "1.0.4",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+121.apk",
+  "notes": "Nova Presença Rica do Discord (Windows/macOS/Linux): mostra no teu perfil do Discord o anime e episódio que estás a ver, com a capa do anime, o logo da AnimeLayer, o teu nível de conta, tempo restante do episódio e um botão para descarregar a app. Totalmente traduzido nos 11 idiomas da app. Podes desligar em Definições > Geral. Não disponível em Android.",
+  "notesEn": "New Discord Rich Presence (Windows/macOS/Linux): shows on your Discord profile the anime and episode you're watching, with the anime cover, the AnimeLayer logo, your account level, remaining episode time, and a download button. Fully translated across all 11 app languages. Can be turned off in Settings > General. Not available on Android."
 }
