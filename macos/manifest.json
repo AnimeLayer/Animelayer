@@ -1,7 +1,8 @@
 {
   "enabled": true,
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/macos-latest/animelayer_macos_1.0.0+1.zip",
-  "notes": "Primeira build oficial de macOS. Auto-update ainda nao confirmado em teste real (Gatekeeper/translocacao por validar) - ver sistema_autoupdater.md seccao 7."
+  "versionCode": 2,
+  "versionName": "1.0.2",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/macos-latest/animelayer_macos_1.0.0+2.zip",
+  "notes": "Novo bloco 'Atividade ao Vivo' na Home com os topicos, avaliacoes e comentarios recentes da comunidade. Sistema de XP recompensa agora acoes do dia a dia, nao so badges. Molduras e backgrounds de perfil podem ser desbloqueados por nivel, alem de coins. Auto-update ainda nao confirmado em teste real (Gatekeeper/translocacao por validar) - ver sistema_autoupdater.md seccao 7.",
+  "notesEn": "New 'Live Activity' block on the Home screen with the community's recent topics, ratings and comments. The XP system now rewards everyday actions, not just badges. Avatar frames and profile backgrounds can now be unlocked by level, in addition to coins."
 }
