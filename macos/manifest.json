@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "versionCode": 4,
-  "versionName": "1.0.4",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/macos-latest/animelayer_macos_1.0.0+4.zip",
-  "notes": "Nova Presença Rica do Discord (Windows/macOS/Linux): mostra no teu perfil do Discord o anime e episódio que estás a ver, com a capa do anime, o logo da AnimeLayer, o teu nível de conta, tempo restante do episódio e um botão para descarregar a app. Totalmente traduzido nos 11 idiomas da app. Podes desligar em Definições > Geral. Não disponível em Android. Auto-update ainda nao confirmado em teste real (Gatekeeper/translocacao por validar) - ver sistema_autoupdater.md seccao 7.",
-  "notesEn": "New Discord Rich Presence (Windows/macOS/Linux): shows on your Discord profile the anime and episode you're watching, with the anime cover, the AnimeLayer logo, your account level, remaining episode time, and a download button. Fully translated across all 11 app languages. Can be turned off in Settings > General. Not available on Android."
+  "versionCode": 5,
+  "versionName": "1.0.5",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/macos-latest/animelayer_macos_1.0.0+5.zip",
+  "notes": "Picture-in-Picture (Android nativo; Windows/macOS/Linux encolhe a janela para um canto, sempre por cima). Precos de coins unificados entre a app e o servidor de pagamento, para nunca mais divergirem. Corrigido: a popup de avaliacao no fim do episodio ja nao aparece se ja tiveres avaliado esse episodio antes. Varias correcoes ao catalogo (Black Clover, Fullmetal Alchemist, Jujutsu Kaisen e centenas de especiais/colaboracoes agora agrupados corretamente no hub principal do seu anime). Reforco de seguranca. Auto-update ainda nao confirmado em teste real (Gatekeeper/translocacao por validar) - ver sistema_autoupdater.md seccao 7.",
+  "notesEn": "Picture-in-Picture (native on Android; Windows/macOS/Linux shrinks the window to a floating corner, always on top). Coin package prices unified between the app and the payment server, so they can never drift apart. Fixed: the end-of-episode rating popup no longer reappears if you already rated that episode. Several catalog fixes (Black Clover, Fullmetal Alchemist, Jujutsu Kaisen, and hundreds of specials/collabs now correctly grouped under their anime's main hub). Security hardening pass."
 }
