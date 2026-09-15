@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "versionCode": 126,
-  "versionName": "1.0.7",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+126.zip",
-  "notes": "Corrigido o login com Discord na Android TV, layout largo forcado na TV e cursor D-pad mais suave. (Sem efeito no Windows - esta build inclui as alteracoes so para manter os numeros de versao sincronizados entre plataformas.)",
-  "notesEn": "Fixed Discord login on Android TV, forced wide layout on TV, and smoother D-pad cursor. (No effect on Windows - this build includes the changes only to keep version numbers in sync across platforms.)"
+  "versionCode": 127,
+  "versionName": "1.0.8",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+127.zip",
+  "notes": "Melhorias no login/pairing da Android TV (drag por D-pad, provider guardado no codigo). Sem efeito no Windows - build so para manter os numeros de versao sincronizados entre plataformas.",
+  "notesEn": "Improvements to Android TV login/pairing (D-pad drag, provider stored on the code). No effect on Windows - build only to keep version numbers in sync across platforms."
 }
