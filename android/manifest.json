@@ -1,7 +1,7 @@
 {
-  "versionCode": 128,
-  "versionName": "1.0.9",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+128.apk",
-  "notes": "Corrigido o arrastar por D-pad na Android TV (premir e manter OK enquanto se usam as setas): faltava calcular a distancia percorrida a cada movimento, por isso o modo arrastar ativava mas o ecra nunca chegava a fazer scroll. Agora funciona. O cursor tambem muda de cor e icone enquanto em modo arrastar, para se perceber logo que as setas vao fazer scroll em vez de mover o cursor livremente.",
-  "notesEn": "Fixed D-pad drag on Android TV (press and hold OK while using the arrows): the distance moved per step wasn't being calculated, so drag mode activated but the screen never actually scrolled. Now it works. The cursor also changes color and icon while in drag mode, to make it clear the arrows will scroll instead of freely moving the cursor."
+  "versionCode": 129,
+  "versionName": "1.0.10",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+129.apk",
+  "notes": "Melhorado o arranque de episodios via torrent na Android: as pecas do inicio/fim do ficheiro passam a ser pedidas com prazo real ao motor (nao so preferencia), o que deve fazer o video comecar a reproduzir mais cedo em vez de por vezes so arrancar perto do fim do download.",
+  "notesEn": "Improved torrent episode startup on Android: the beginning/end pieces of the file are now requested from the engine with a real deadline (not just a preference), which should make playback start earlier instead of sometimes only starting near the end of the download."
 }
