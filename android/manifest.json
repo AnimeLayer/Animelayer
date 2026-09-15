@@ -1,7 +1,7 @@
 {
-  "versionCode": 127,
-  "versionName": "1.0.8",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+127.apk",
-  "notes": "Android TV: novo sistema de arrastar por D-pad - premir e manter o botao OK enquanto se usam as setas passa a arrastar/fazer scroll (como um dedo a arrastar no telemovel), em vez de so mover o cursor. Um toque rapido continua a ser um clique normal. O provider do login (Discord) passa a ficar guardado no codigo de emparelhamento logo desde a app, tornando o QR code e o codigo escrito a mao mais fiaveis.",
-  "notesEn": "Android TV: new D-pad drag system - press and hold the OK button while using the arrows to drag/scroll (like a finger swipe on phone), instead of just moving the cursor. A quick press is still a normal tap. The login provider (Discord) is now stored on the pairing code from the app itself, making both the QR code and the manually-typed code more reliable."
+  "versionCode": 128,
+  "versionName": "1.0.9",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+128.apk",
+  "notes": "Corrigido o arrastar por D-pad na Android TV (premir e manter OK enquanto se usam as setas): faltava calcular a distancia percorrida a cada movimento, por isso o modo arrastar ativava mas o ecra nunca chegava a fazer scroll. Agora funciona. O cursor tambem muda de cor e icone enquanto em modo arrastar, para se perceber logo que as setas vao fazer scroll em vez de mover o cursor livremente.",
+  "notesEn": "Fixed D-pad drag on Android TV (press and hold OK while using the arrows): the distance moved per step wasn't being calculated, so drag mode activated but the screen never actually scrolled. Now it works. The cursor also changes color and icon while in drag mode, to make it clear the arrows will scroll instead of freely moving the cursor."
 }
