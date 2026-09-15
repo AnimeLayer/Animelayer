@@ -1,7 +1,7 @@
 {
-  "versionCode": 126,
-  "versionName": "1.0.7",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+126.apk",
-  "notes": "Corrigido o login com Discord na Android TV: em vez de ficar preso a tentar abrir um browser que nao existe na TV, vai agora direto para o QR code de emparelhamento. Corrigido o ecra de login na TV para usar sempre o layout largo (igual ao do Windows), independentemente da densidade do ecra. Cursor do comando (D-pad) fica mais suave, com um passo menor por cada pressao das setas.",
-  "notesEn": "Fixed Discord login on Android TV: instead of getting stuck trying to open a browser that doesn't exist on the TV, it now goes straight to the pairing QR code. Fixed the TV login screen to always use the wide layout (matching Windows), regardless of screen density. The D-pad cursor is now smoother, moving a smaller step per arrow press."
+  "versionCode": 127,
+  "versionName": "1.0.8",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+127.apk",
+  "notes": "Android TV: novo sistema de arrastar por D-pad - premir e manter o botao OK enquanto se usam as setas passa a arrastar/fazer scroll (como um dedo a arrastar no telemovel), em vez de so mover o cursor. Um toque rapido continua a ser um clique normal. O provider do login (Discord) passa a ficar guardado no codigo de emparelhamento logo desde a app, tornando o QR code e o codigo escrito a mao mais fiaveis.",
+  "notesEn": "Android TV: new D-pad drag system - press and hold the OK button while using the arrows to drag/scroll (like a finger swipe on phone), instead of just moving the cursor. A quick press is still a normal tap. The login provider (Discord) is now stored on the pairing code from the app itself, making both the QR code and the manually-typed code more reliable."
 }
