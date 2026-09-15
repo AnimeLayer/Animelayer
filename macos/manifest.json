@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "versionCode": 7,
-  "versionName": "1.0.5",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/macos-latest/animelayer_macos_1.0.0+7.zip",
-  "notes": "Corrigido um travamento de 1-2 segundos ao abrir a lista de fontes de um episodio, causado por recompilacao repetida dos padroes de deteccao de idioma/qualidade a cada resultado novo recebido dos addons. Corrigida uma falha que impedia o elenco e os episodios (via TMDB) de ficarem guardados em cache depois da primeira pessoa a abrir cada anime - agora ficam guardados como previsto, tornando aberturas seguintes mais rapidas. Ajustada a grelha de Temporadas e Especiais para a capa nunca encolher quando o titulo da temporada ocupa 2 linhas. Auto-update ainda nao confirmado em teste real (Gatekeeper/translocacao por validar) - ver sistema_autoupdater.md seccao 7.",
-  "notesEn": "Fixed a 1-2 second freeze when opening an episode's sources list, caused by repeated recompilation of language/quality detection patterns for every new addon result. Fixed a silent failure that prevented cast and TMDB episode data from being cached after the first person opened each anime - now properly cached, making later openings of the same anime faster. Adjusted the Seasons/Specials grid so cover art never shrinks when a season title wraps to 2 lines."
+  "versionCode": 8,
+  "versionName": "1.0.6",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/macos-latest/animelayer_macos_1.0.0+8.zip",
+  "notes": "Botao \"Assistir\" no banner principal agora retoma o ultimo episodio visto (ou vai para o episodio 1 se ainda nao viste nada). Aumentado o numero de ligacoes por fonte (40->100) e a capacidade do buffer (32MB->48MB) para arranques mais rapidos. Corrigidos falhas ao fechar o ecra de perfil e a pagina de login. Corrigido atraso ao abrir o separador de elenco de um anime. Auto-update ainda nao confirmado em teste real (Gatekeeper/translocacao por validar) - ver sistema_autoupdater.md seccao 7.",
+  "notesEn": "The \"Watch\" button on the home banner now resumes your last watched episode (or starts at episode 1 if you haven't watched anything yet). Increased per-source connections (40->100) and buffer capacity (32MB->48MB) for faster playback starts. Fixed crashes when closing the profile avatar and login screens. Fixed a delay when opening an anime's cast tab."
 }
