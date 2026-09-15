@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "versionCode": 127,
-  "versionName": "1.0.8",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+127.zip",
-  "notes": "Melhorias no login/pairing da Android TV (drag por D-pad, provider guardado no codigo). Sem efeito no Windows - build so para manter os numeros de versao sincronizados entre plataformas.",
-  "notesEn": "Improvements to Android TV login/pairing (D-pad drag, provider stored on the code). No effect on Windows - build only to keep version numbers in sync across platforms."
+  "versionCode": 128,
+  "versionName": "1.0.9",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+128.zip",
+  "notes": "Correcao do arrastar por D-pad e feedback visual do cursor na Android TV. Sem efeito no Windows - build so para manter os numeros de versao sincronizados entre plataformas.",
+  "notesEn": "D-pad drag fix and cursor visual feedback on Android TV. No effect on Windows - build only to keep version numbers in sync across platforms."
 }
