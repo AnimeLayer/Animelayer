@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "versionCode": 128,
-  "versionName": "1.0.9",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+128.zip",
-  "notes": "Correcao do arrastar por D-pad e feedback visual do cursor na Android TV. Sem efeito no Windows - build so para manter os numeros de versao sincronizados entre plataformas.",
-  "notesEn": "D-pad drag fix and cursor visual feedback on Android TV. No effect on Windows - build only to keep version numbers in sync across platforms."
+  "versionCode": 129,
+  "versionName": "1.0.10",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+129.zip",
+  "notes": "Melhoria no arranque de episodios via torrent na Android. Sem efeito no Windows - build so para manter os numeros de versao sincronizados entre plataformas.",
+  "notesEn": "Improved torrent episode startup on Android. No effect on Windows - build only to keep version numbers in sync across platforms."
 }
