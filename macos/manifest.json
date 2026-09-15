@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "versionCode": 9,
-  "versionName": "1.0.7",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/macos-latest/animelayer_macos_1.0.0+9.zip",
-  "notes": "Corrigido o login com Discord na Android TV, layout largo forcado na TV e cursor D-pad mais suave. (Sem efeito no macOS - esta build inclui as alteracoes so para manter os numeros de versao sincronizados entre plataformas.) Auto-update ainda nao confirmado em teste real.",
-  "notesEn": "Fixed Discord login on Android TV, forced wide layout on TV, and smoother D-pad cursor. (No effect on macOS - this build includes the changes only to keep version numbers in sync across platforms.)"
+  "versionCode": 10,
+  "versionName": "1.0.8",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/macos-latest/animelayer_macos_1.0.0+10.zip",
+  "notes": "Melhorias no login/pairing da Android TV (drag por D-pad, provider guardado no codigo). Sem efeito no macOS - build so para manter os numeros de versao sincronizados entre plataformas. Auto-update ainda nao confirmado em teste real.",
+  "notesEn": "Improvements to Android TV login/pairing (D-pad drag, provider stored on the code). No effect on macOS - build only to keep version numbers in sync across platforms."
 }
