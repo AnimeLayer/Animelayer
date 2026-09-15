@@ -1,7 +1,7 @@
 {
-  "versionCode": 125,
-  "versionName": "1.0.6",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+125.apk",
-  "notes": "Adicionado suporte a Android TV: navegacao por cursor movido pelas setas do comando, ecrãs de login/perfis/atualizacao em modo paisagem, e deteccao automatica de TV. Botao \"Assistir\" no banner principal agora retoma o ultimo episodio visto (ou vai para o episodio 1 se ainda nao viste nada). Aumentado o numero de ligacoes por fonte (40->100) e a capacidade do buffer (32MB->48MB) para arranques mais rapidos. Corrigidos falhas ao fechar o ecra de perfil e a pagina de login. Corrigido atraso ao abrir o separador de elenco de um anime.",
-  "notesEn": "Added Android TV support: D-pad-driven on-screen cursor navigation, landscape login/profile/update screens, and automatic TV detection. The \"Watch\" button on the home banner now resumes your last watched episode (or starts at episode 1 if you haven't watched anything yet). Increased per-source connections (40->100) and buffer capacity (32MB->48MB) for faster playback starts. Fixed crashes when closing the profile avatar and login screens. Fixed a delay when opening an anime's cast tab."
+  "versionCode": 126,
+  "versionName": "1.0.7",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+126.apk",
+  "notes": "Corrigido o login com Discord na Android TV: em vez de ficar preso a tentar abrir um browser que nao existe na TV, vai agora direto para o QR code de emparelhamento. Corrigido o ecra de login na TV para usar sempre o layout largo (igual ao do Windows), independentemente da densidade do ecra. Cursor do comando (D-pad) fica mais suave, com um passo menor por cada pressao das setas.",
+  "notesEn": "Fixed Discord login on Android TV: instead of getting stuck trying to open a browser that doesn't exist on the TV, it now goes straight to the pairing QR code. Fixed the TV login screen to always use the wide layout (matching Windows), regardless of screen density. The D-pad cursor is now smoother, moving a smaller step per arrow press."
 }
