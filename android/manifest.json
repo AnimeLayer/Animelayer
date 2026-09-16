@@ -1,7 +1,7 @@
 {
-  "versionCode": 129,
-  "versionName": "1.0.10",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+129.apk",
-  "notes": "Melhorado o arranque de episodios via torrent na Android: as pecas do inicio/fim do ficheiro passam a ser pedidas com prazo real ao motor (nao so preferencia), o que deve fazer o video comecar a reproduzir mais cedo em vez de por vezes so arrancar perto do fim do download.",
-  "notesEn": "Improved torrent episode startup on Android: the beginning/end pieces of the file are now requested from the engine with a real deadline (not just a preference), which should make playback start earlier instead of sometimes only starting near the end of the download."
+  "versionCode": 130,
+  "versionName": "1.0.11",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+130.apk",
+  "notes": "Build so para manter os numeros de versao sincronizados entre plataformas - sem alteracoes funcionais desde a ultima build Android.",
+  "notesEn": "Build only to keep version numbers in sync across platforms - no functional changes since the last Android build."
 }
