@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "versionCode": 131,
-  "versionName": "1.0.12",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+131.zip",
-  "notes": "Novo ecra no fim do episodio (depois de avaliares): agradecimento, atalhos para o forum e avaliacoes do episodio, e navegacao rapida para o episodio anterior/seguinte.",
-  "notesEn": "New end-of-episode screen (after rating): a thank-you message, shortcuts to the episode's forum and ratings, and quick navigation to the previous/next episode."
+  "versionCode": 132,
+  "versionName": "1.0.13",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+132.zip",
+  "notes": "Titulos e capas de episodios da TMDB passam a vir no idioma da app (12 linguas), com fallback automatico para ingles quando ainda nao ha traducao - antes ficava sempre preso a portugues/ingles, mesmo mudando o idioma.",
+  "notesEn": "Episode titles/covers from TMDB now follow the app's language (12 languages), with automatic English fallback when a translation isn't ready yet - previously stuck to Portuguese/English regardless of the chosen language."
 }
