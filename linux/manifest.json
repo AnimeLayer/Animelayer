@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "versionCode": 15,
-  "versionName": "1.0.11",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/linux-latest/animelayer_linux_1.0.0+15.AppImage",
-  "notes": "Motor de torrent nativo proprio para Linux, substitui o plugin usado no Windows/macOS - corrige um crash real ao abrir fontes de um episodio (confirmado em teste real). Tambem corrigido: o leitor podia ficar preso a tentar aceleracao de video por hardware que nao existe (ex.: VMs, algumas GPUs) sem nunca cair para software - agora cai automaticamente. Sem efeito nas outras plataformas.",
-  "notesEn": "Linux now has its own native torrent engine, replacing the plugin used on Windows/macOS - fixes a real crash when opening episode sources (confirmed via real testing). Also fixed: the player could get stuck trying hardware video acceleration that doesn't exist (e.g. VMs, some GPUs) without ever falling back to software - it now falls back automatically. No effect on other platforms."
+  "versionCode": 16,
+  "versionName": "1.0.12",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/linux-latest/animelayer_linux_1.0.0+16.AppImage",
+  "notes": "Novo ecra no fim do episodio (depois de avaliares): agradecimento, atalhos para o forum e avaliacoes do episodio, e navegacao rapida para o episodio anterior/seguinte.",
+  "notesEn": "New end-of-episode screen (after rating): a thank-you message, shortcuts to the episode's forum and ratings, and quick navigation to the previous/next episode."
 }
