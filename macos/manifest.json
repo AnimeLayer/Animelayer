@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "versionCode": 12,
-  "versionName": "1.0.10",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/macos-latest/animelayer_macos_1.0.0+12.zip",
-  "notes": "Melhoria no arranque de episodios via torrent na Android. Sem efeito no macOS - build so para manter os numeros de versao sincronizados entre plataformas. Auto-update ainda nao confirmado em teste real.",
-  "notesEn": "Improved torrent episode startup on Android. No effect on macOS - build only to keep version numbers in sync across platforms."
+  "versionCode": 15,
+  "versionName": "1.0.11",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/macos-latest/animelayer_macos_1.0.0+15.zip",
+  "notes": "Build so para manter os numeros de versao sincronizados entre plataformas - sem alteracoes funcionais desde a ultima build macOS. Auto-update ainda nao confirmado em teste real.",
+  "notesEn": "Build only to keep version numbers in sync across platforms - no functional changes since the last macOS build."
 }
