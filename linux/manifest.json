@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "versionCode": 13,
-  "versionName": "1.0.11",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/linux-latest/animelayer_linux_1.0.0+13.AppImage",
-  "notes": "Corrigido um crash real ao abrir fontes de um episodio no Linux: um segfault dentro do motor de torrent (libtorrent_flutter) ao ler a lista de ficheiros logo apos os metadados do torrent chegarem. Confirmado em teste real - o motor agora espera mais um instante antes de ler essa lista, dando tempo ao lado nativo de a preparar. Sem efeito nas outras plataformas.",
-  "notesEn": "Fixed a real crash when opening episode sources on Linux: a segfault inside the torrent engine (libtorrent_flutter) when reading the file list right after torrent metadata arrives. Confirmed via real testing - the engine now waits a bit longer before reading that list, giving the native side time to prepare it. No effect on other platforms."
+  "versionCode": 14,
+  "versionName": "1.0.12",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/linux-latest/animelayer_linux_1.0.0+14.AppImage",
+  "notes": "Linux passa a ter um motor de torrent nativo proprio (em vez de depender do mesmo plugin usado no Windows), que corrige um crash real ao abrir fontes de um episodio - confirmado em teste real, o motor anterior tinha um bug interno ao ler a lista de ficheiros logo apos os metadados do torrent chegarem. Sem efeito nas outras plataformas.",
+  "notesEn": "Linux now has its own native torrent engine (instead of relying on the same plugin used on Windows), fixing a real crash when opening episode sources - confirmed via real testing, the previous engine had an internal bug reading the torrent's file list right after metadata arrived. No effect on other platforms."
 }
