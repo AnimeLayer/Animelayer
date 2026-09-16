@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "versionCode": 130,
-  "versionName": "1.0.11",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+130.zip",
-  "notes": "Build so para manter os numeros de versao sincronizados entre plataformas - sem alteracoes funcionais desde a ultima build Windows.",
-  "notesEn": "Build only to keep version numbers in sync across platforms - no functional changes since the last Windows build."
+  "versionCode": 131,
+  "versionName": "1.0.12",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+131.zip",
+  "notes": "Novo ecra no fim do episodio (depois de avaliares): agradecimento, atalhos para o forum e avaliacoes do episodio, e navegacao rapida para o episodio anterior/seguinte.",
+  "notesEn": "New end-of-episode screen (after rating): a thank-you message, shortcuts to the episode's forum and ratings, and quick navigation to the previous/next episode."
 }
