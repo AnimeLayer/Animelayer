@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "versionCode": 129,
-  "versionName": "1.0.10",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+129.zip",
-  "notes": "Melhoria no arranque de episodios via torrent na Android. Sem efeito no Windows - build so para manter os numeros de versao sincronizados entre plataformas.",
-  "notesEn": "Improved torrent episode startup on Android. No effect on Windows - build only to keep version numbers in sync across platforms."
+  "versionCode": 130,
+  "versionName": "1.0.11",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+130.zip",
+  "notes": "Build so para manter os numeros de versao sincronizados entre plataformas - sem alteracoes funcionais desde a ultima build Windows.",
+  "notesEn": "Build only to keep version numbers in sync across platforms - no functional changes since the last Windows build."
 }
