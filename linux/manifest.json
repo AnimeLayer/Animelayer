@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "versionCode": 12,
-  "versionName": "1.0.10",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/linux-latest/animelayer_linux_1.0.0+12.AppImage",
-  "notes": "Melhoria no arranque de episodios via torrent na Android. Sem efeito no Linux - build so para manter os numeros de versao sincronizados entre plataformas. Auto-update ainda nao confirmado em teste real.",
-  "notesEn": "Improved torrent episode startup on Android. No effect on Linux - build only to keep version numbers in sync across platforms."
+  "versionCode": 13,
+  "versionName": "1.0.11",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/linux-latest/animelayer_linux_1.0.0+13.AppImage",
+  "notes": "Corrigido um crash real ao abrir fontes de um episodio no Linux: um segfault dentro do motor de torrent (libtorrent_flutter) ao ler a lista de ficheiros logo apos os metadados do torrent chegarem. Confirmado em teste real - o motor agora espera mais um instante antes de ler essa lista, dando tempo ao lado nativo de a preparar. Sem efeito nas outras plataformas.",
+  "notesEn": "Fixed a real crash when opening episode sources on Linux: a segfault inside the torrent engine (libtorrent_flutter) when reading the file list right after torrent metadata arrives. Confirmed via real testing - the engine now waits a bit longer before reading that list, giving the native side time to prepare it. No effect on other platforms."
 }
