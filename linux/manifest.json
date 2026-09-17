@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "versionCode": 17,
-  "versionName": "1.0.13",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/linux-latest/animelayer_linux_1.0.0+17.AppImage",
-  "notes": "Titulos e capas de episodios da TMDB passam a vir no idioma da app (12 linguas), com fallback automatico para ingles quando ainda nao ha traducao - antes ficava sempre preso a portugues/ingles, mesmo mudando o idioma.",
-  "notesEn": "Episode titles/covers from TMDB now follow the app's language (12 languages), with automatic English fallback when a translation isn't ready yet - previously stuck to Portuguese/English regardless of the chosen language."
+  "versionCode": 18,
+  "versionName": "1.0.14",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/linux-latest/animelayer_linux_1.0.0+18.AppImage",
+  "notes": "Ecra de fim de episodio redesenhado: caixa maior, logo em destaque, cartoes maiores para Forum/Avaliacoes e botoes Anterior/Proximo mais robustos.",
+  "notesEn": "Redesigned end-of-episode screen: bigger box, prominent logo, larger Forum/Ratings cards, and sturdier Previous/Next buttons."
 }
