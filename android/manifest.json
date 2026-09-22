@@ -1,7 +1,7 @@
 {
-  "versionCode": 134,
-  "versionName": "1.0.15",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+134.apk",
-  "notes": "Novo: janela dos episodios assistidos na Minha Lista (com desmarcar por obra), janela da avaliacao na Atividade ao Vivo com botao de traduzir, data de registo e filtros na Administracao, botao para a pagina do anime na lista de fontes, nomes da Vitrine traduzidos e aviso de manutencao da loja. Corrigidos botoes do leitor cortados, legendas traduzidas a acumular no disco e arrastar para colunas vazias na Minha Lista.",
-  "notesEn": "New: watched-episodes window in My List (with per-title unmark), rating window in Live Activity with a translate button, registration date and filters in Administration, a button to the anime page from the sources list, translated Vitrine slot names and a shop maintenance notice. Fixed cut-off player buttons, translated subtitles piling up on disk, and dragging into empty My List columns."
+  "versionCode": 135,
+  "versionName": "1.0.16",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+135.apk",
+  "notes": "Botao de traduzir na sinopse do anime. Correcoes: bug antigo que impedia badges de serem concedidos (Notification), botao de ir para o anime na lista de fontes/episodios assistidos ja nao forcava o modo Franquia, nome do anime em falta na Atividade ao Vivo para titulos recentes. Reforco de seguranca no servidor (protecoes internas, sem impacto visivel na app).",
+  "notesEn": "Translate button on the anime synopsis. Fixes: old bug that prevented badges from being awarded (Notification), the go-to-anime button on the sources list/watched-episodes window no longer forced Franchise mode, missing anime name in Live Activity for recent titles. Server-side security hardening (internal protections, no visible app impact)."
 }
