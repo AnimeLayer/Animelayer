@@ -1,7 +1,7 @@
 {
-  "versionCode": 137,
-  "versionName": "1.0.18",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+137.apk",
-  "notes": "Trofeus dos rankings: no fim de cada mes o top 3 de cada ranking ganha um trofeu com a data, XP e uma notificacao com os resultados; ficam no separador de Rankings do perfil (redesenhado) e, durante o mes seguinte, uma medalha e os titulos aparecem ao lado do nome. Foruns: as respostas as respostas deixam de andar sempre para a direita, cada resposta mostra o nivel e as badges de quem escreveu e o avatar abre um cartao com estatisticas. Correcao de seguranca no servidor (moedas e XP passam a ser alterados so pelo servidor).",
-  "notesEn": "Ranking trophies: at the end of each month the top 3 of every ranking earn a dated trophy, XP and a results notification; they show in the redesigned Rankings tab of your profile and, during the following month, a medal and titles appear next to your name. Forums: replies to replies no longer keep shifting to the right, each reply shows the writer's level and badges, and tapping the avatar opens a card with stats. Server-side security fix (coins and XP can now only be changed by the server)."
+  "versionCode": 138,
+  "versionName": "1.0.19",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+138.apk",
+  "notes": "Pagina do anime com barra lateral nova: proximo episodio com contagem, comunidade (membros a ver, completaram, planeiam e nota media), discussoes ativas do forum, o teu progresso e animes semelhantes. Novo bloco do estudio (logotipo, obras do estudio e numeros da comunidade), fonte e episodios nos detalhes tecnicos e nomes alternativos por baixo da sinopse. Os banners da pagina inicial e da pagina do anime mostram a zona central da imagem.",
+  "notesEn": "Anime page with a new sidebar: next episode countdown, community stats (watching, completed, planned and average rating), hot forum discussions, your progress and similar anime. New studio section (logo, the studio's other works and community numbers), source and episode count in the technical details, and alternative names under the synopsis. The banners on the home page and the anime page now show the center of the image."
 }
