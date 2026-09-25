@@ -1,7 +1,7 @@
 {
-  "versionCode": 136,
-  "versionName": "1.0.17",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+136.apk",
-  "notes": "Foruns renovados: 4 niveis (franquia, anime, temporada e episodio), filtro por camadas com pesquisa por franquia, pesquisa de topicos, topicos fixados e guias na barra lateral, editar e apagar os teus topicos, spoilers, seguir e guardar topicos, melhor resposta e mais formatacao (titulos, listas, citacoes). Calendario clicavel que abre logo (fica guardado no dispositivo) e mostra o estado de cada episodio. O Discord Rich Presence volta a ligar se o Discord abrir depois da app.",
-  "notesEn": "Revamped forums: 4 levels (franchise, anime, season and episode), layered filter with franchise search, topic search, pinned topics and guides in the sidebar, edit and delete your own topics, spoilers, follow and save topics, best answer and richer formatting (headings, lists, quotes). Clickable calendar that opens instantly (saved on your device) and shows each episode status. Discord Rich Presence reconnects if Discord opens after the app."
+  "versionCode": 137,
+  "versionName": "1.0.18",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+137.apk",
+  "notes": "Trofeus dos rankings: no fim de cada mes o top 3 de cada ranking ganha um trofeu com a data, XP e uma notificacao com os resultados; ficam no separador de Rankings do perfil (redesenhado) e, durante o mes seguinte, uma medalha e os titulos aparecem ao lado do nome. Foruns: as respostas as respostas deixam de andar sempre para a direita, cada resposta mostra o nivel e as badges de quem escreveu e o avatar abre um cartao com estatisticas. Correcao de seguranca no servidor (moedas e XP passam a ser alterados so pelo servidor).",
+  "notesEn": "Ranking trophies: at the end of each month the top 3 of every ranking earn a dated trophy, XP and a results notification; they show in the redesigned Rankings tab of your profile and, during the following month, a medal and titles appear next to your name. Forums: replies to replies no longer keep shifting to the right, each reply shows the writer's level and badges, and tapping the avatar opens a card with stats. Server-side security fix (coins and XP can now only be changed by the server)."
 }
