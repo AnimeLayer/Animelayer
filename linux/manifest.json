@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "versionCode": 20,
-  "versionName": "1.0.16",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/linux-latest/animelayer_linux_1.0.0+20.AppImage",
-  "notes": "Botao de traduzir na sinopse do anime. Correcoes: bug antigo que impedia badges de serem concedidos (Notification), botao de ir para o anime na lista de fontes/episodios assistidos ja nao forcava o modo Franquia, nome do anime em falta na Atividade ao Vivo para titulos recentes. Reforco de seguranca no servidor (protecoes internas, sem impacto visivel na app).",
-  "notesEn": "Translate button on the anime synopsis. Fixes: old bug that prevented badges from being awarded (Notification), the go-to-anime button on the sources list/watched-episodes window no longer forced Franchise mode, missing anime name in Live Activity for recent titles. Server-side security hardening (internal protections, no visible app impact)."
+  "versionCode": 21,
+  "versionName": "1.0.17",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/linux-latest/animelayer_linux_1.0.0+21.AppImage",
+  "notes": "Foruns renovados: 4 niveis (franquia, anime, temporada e episodio), filtro por camadas com pesquisa por franquia, pesquisa de topicos, topicos fixados e guias na barra lateral, editar e apagar os teus topicos, spoilers, seguir e guardar topicos, melhor resposta e mais formatacao (titulos, listas, citacoes). Calendario clicavel que abre logo (fica guardado no dispositivo) e mostra o estado de cada episodio. O Discord Rich Presence volta a ligar se o Discord abrir depois da app.",
+  "notesEn": "Revamped forums: 4 levels (franchise, anime, season and episode), layered filter with franchise search, topic search, pinned topics and guides in the sidebar, edit and delete your own topics, spoilers, follow and save topics, best answer and richer formatting (headings, lists, quotes). Clickable calendar that opens instantly (saved on your device) and shows each episode status. Discord Rich Presence reconnects if Discord opens after the app."
 }
