@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "versionCode": 138,
-  "versionName": "1.0.19",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+138.zip",
-  "notes": "Pagina do anime com barra lateral nova: proximo episodio com contagem, comunidade (membros a ver, completaram, planeiam e nota media), discussoes ativas do forum, o teu progresso e animes semelhantes. Novo bloco do estudio (logotipo, obras do estudio e numeros da comunidade), fonte e episodios nos detalhes tecnicos e nomes alternativos por baixo da sinopse. Os banners da pagina inicial e da pagina do anime mostram a zona central da imagem.",
-  "notesEn": "Anime page with a new sidebar: next episode countdown, community stats (watching, completed, planned and average rating), hot forum discussions, your progress and similar anime. New studio section (logo, the studio's other works and community numbers), source and episode count in the technical details, and alternative names under the synopsis. The banners on the home page and the anime page now show the center of the image."
+  "versionCode": 139,
+  "versionName": "1.0.20",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+139.zip",
+  "notes": "Novo separador Cartoons: desenhos animados (Simpsons, Ben 10, Star Wars, Rick and Morty e quase 600 series) com pagina propria, franquias, temporadas, episodios, especiais, filmes e fontes para ver. Pesquisa, forum (filtro Obra), Minha Lista (filtro Animes/Cartoons) e calendario tambem incluem cartoons. Novo separador Filmes nas paginas de anime, cartoon e franquia. Corrigido o progresso na barra lateral do anime.",
+  "notesEn": "New Cartoons section: animated series (The Simpsons, Ben 10, Star Wars, Rick and Morty and almost 600 more) with their own page, franchises, seasons, episodes, specials, movies and sources. Search, forum (new Title filter), My List (Anime/Cartoons filter) and the calendar now include cartoons. New Movies tab on anime, cartoon and franchise pages. Fixed the progress count in the anime sidebar."
 }
