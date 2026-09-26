@@ -1,7 +1,7 @@
 {
-  "versionCode": 139,
-  "versionName": "1.0.20",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+139.apk",
-  "notes": "Novo separador Cartoons: desenhos animados (Simpsons, Ben 10, Star Wars, Rick and Morty e quase 600 series) com pagina propria, franquias, temporadas, episodios, especiais, filmes e fontes para ver. Pesquisa, forum (filtro Obra), Minha Lista (filtro Animes/Cartoons) e calendario tambem incluem cartoons. Novo separador Filmes nas paginas de anime, cartoon e franquia. Corrigido o progresso na barra lateral do anime.",
-  "notesEn": "New Cartoons section: animated series (The Simpsons, Ben 10, Star Wars, Rick and Morty and almost 600 more) with their own page, franchises, seasons, episodes, specials, movies and sources. Search, forum (new Title filter), My List (Anime/Cartoons filter) and the calendar now include cartoons. New Movies tab on anime, cartoon and franchise pages. Fixed the progress count in the anime sidebar."
+  "versionCode": 140,
+  "versionName": "1.0.21",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+140.apk",
+  "notes": "Cartoons: so aparecem os episodios ja emitidos (ex.: South Park temporada 29 mostra 1 e nao 6) e sem temporadas vazias. Janela de avaliacao no fim de episodios e filmes de cartoons. Os cartoons aparecem no Continuar a ver, nas capas dos episodios vistos, na atividade do perfil e no historico do forum. Atualizacao automatica dos cartoons e notificacoes de episodio novo. Pagina inicial carrega por partes e deixa de travar. Minha Lista: coluna Planeados / A ver.",
+  "notesEn": "Cartoons: only episodes that have already aired are listed (e.g. South Park season 29 shows 1, not 6) and empty seasons are hidden. Rating prompt at the end of cartoon episodes and movies. Cartoons now show up in Continue Watching, watched-episode covers, profile activity and forum history. Automatic cartoon updates and new-episode notifications. The home page loads in stages and no longer freezes. My List: column renamed to Plan to Watch / Watching."
 }
