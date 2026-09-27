@@ -1,7 +1,7 @@
 {
-  "versionCode": 142,
-  "versionName": "1.0.23",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+142.apk",
-  "notes": "Calendario: clicar num episodio do One Piece ja abre a pagina certa. Titulos e capas dos episodios (TMDB) tambem nos animes em que a TMDB tem temporadas que recomecam em 1, e uma temporada por estrear ja nao gera episodios inventados. Lista de episodios do leitor: nos cartoons mostra titulo e capa de cada episodio, e o scroll automatico ate ao episodio atual deixa de falhar em listas muito longas (Simpsons, One Piece), com o episodio atual destacado a vermelho.",
-  "notesEn": "Calendar: clicking a One Piece episode now opens the right page. Episode titles and covers (TMDB) also for anime where TMDB has seasons that restart at 1, and an unreleased season no longer creates made-up episodes. Player episode list: cartoons now show each episode title and cover, and the automatic scroll to the current episode no longer fails on very long lists (The Simpsons, One Piece), with the current episode highlighted in red."
+  "versionCode": 143,
+  "versionName": "1.0.24",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+143.apk",
+  "notes": "Termos de Servico e Privacidade: novo ecra com checkbox obrigatoria no login, antes de entrar. Novo separador \"Novidades\" nas Definicoes > Atualizacoes. Pagina do anime: novo separador \"Temas\" com openings/endings (e intervalo de episodios), tambem disponivel na pagina de franquia. Fontes: etiquetas de audio/legendas mais fiaveis (Multi-Audio/Multi-Sub ja nao aparecem indevidamente, mais linguas de legenda reconhecidas), tag \"Multi Pack\" reposicionada, letras maiores.",
+  "notesEn": "Terms of Service and Privacy: new mandatory checkbox screen on login, before entering. New \"What's new\" section in Settings > Updates. Anime page: new \"Themes\" tab with openings/endings (and episode range), also available on franchise pages. Sources: more reliable audio/subtitle tags (Multi-Audio/Multi-Sub no longer show up incorrectly, more subtitle languages recognized), \"Multi Pack\" tag repositioned, larger text."
 }
