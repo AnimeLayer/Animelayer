@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "versionCode": 143,
-  "versionName": "1.0.24",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+143.zip",
-  "notes": "Termos de Servico e Privacidade: novo ecra com checkbox obrigatoria no login, antes de entrar. Novo separador \"Novidades\" nas Definicoes > Atualizacoes. Pagina do anime: novo separador \"Temas\" com openings/endings (e intervalo de episodios), tambem disponivel na pagina de franquia. Fontes: etiquetas de audio/legendas mais fiaveis (Multi-Audio/Multi-Sub ja nao aparecem indevidamente, mais linguas de legenda reconhecidas), tag \"Multi Pack\" reposicionada, letras maiores. Leitor: preview da imagem do episodio ao passar o rato na barra de progresso (dentro do que ja esta descarregado).",
-  "notesEn": "Terms of Service and Privacy: new mandatory checkbox screen on login, before entering. New \"What's new\" section in Settings > Updates. Anime page: new \"Themes\" tab with openings/endings (and episode range), also available on franchise pages. Sources: more reliable audio/subtitle tags (Multi-Audio/Multi-Sub no longer show up incorrectly, more subtitle languages recognized), \"Multi Pack\" tag repositioned, larger text. Player: thumbnail preview when hovering the progress bar (within what's already downloaded)."
+  "versionCode": 144,
+  "versionName": "1.0.25",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+144.zip",
+  "notes": "Correcao: o preview de imagem na barra de progresso do leitor (novidade da v1.0.24) podia deixar a aplicacao sem resposta ao fechar o episodio depois de o usar varias vezes seguidas - desativado ate ser corrigido com mais calma. Corrigido tambem: os controlos do leitor deixavam de aparecer sozinhos mesmo com o rato parado em cima da barra de progresso.",
+  "notesEn": "Fix: the progress bar image preview (new in v1.0.24) could make the app unresponsive when closing an episode after using it several times in a row - disabled until it can be fixed properly. Also fixed: the player controls would hide themselves even with the mouse resting on the progress bar."
 }

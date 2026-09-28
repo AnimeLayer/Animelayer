@@ -1,7 +1,7 @@
 {
-  "versionCode": 143,
-  "versionName": "1.0.24",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+143.apk",
-  "notes": "Termos de Servico e Privacidade: novo ecra com checkbox obrigatoria no login, antes de entrar. Novo separador \"Novidades\" nas Definicoes > Atualizacoes. Pagina do anime: novo separador \"Temas\" com openings/endings (e intervalo de episodios), tambem disponivel na pagina de franquia. Fontes: etiquetas de audio/legendas mais fiaveis (Multi-Audio/Multi-Sub ja nao aparecem indevidamente, mais linguas de legenda reconhecidas), tag \"Multi Pack\" reposicionada, letras maiores.",
-  "notesEn": "Terms of Service and Privacy: new mandatory checkbox screen on login, before entering. New \"What's new\" section in Settings > Updates. Anime page: new \"Themes\" tab with openings/endings (and episode range), also available on franchise pages. Sources: more reliable audio/subtitle tags (Multi-Audio/Multi-Sub no longer show up incorrectly, more subtitle languages recognized), \"Multi Pack\" tag repositioned, larger text."
+  "versionCode": 144,
+  "versionName": "1.0.25",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+144.apk",
+  "notes": "Pequenos ajustes internos do leitor de video (desktop) - sem alteracoes visiveis no Android.",
+  "notesEn": "Small internal player fixes (desktop) - no visible changes on Android."
 }
