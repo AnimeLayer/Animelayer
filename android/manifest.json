@@ -1,7 +1,7 @@
 {
-  "versionCode": 144,
-  "versionName": "1.0.25",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+144.apk",
-  "notes": "Pequenos ajustes internos do leitor de video (desktop) - sem alteracoes visiveis no Android.",
-  "notesEn": "Small internal player fixes (desktop) - no visible changes on Android."
+  "versionCode": 145,
+  "versionName": "1.0.26",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+145.apk",
+  "notes": "Correcoes: botoes \"Gerir addons\"/\"Ir as Definicoes\" no leitor ja nao deixam a app presa num ecra em branco nem travam. Fontes: filtro de idioma passou a incluir Latino/MX, Frances, Alemao, Italiano e Russo. Popup de avaliacao do episodio ja nao aparece a meio quando o download da fonte estagna.",
+  "notesEn": "Fixes: \"Manage addons\"/\"Go to Settings\" buttons in the player no longer leave the app stuck on a blank screen or freeze. Sources: language filter now includes Latin American Spanish, French, German, Italian and Russian. The episode rating popup no longer appears mid-episode when the source's download stalls."
 }

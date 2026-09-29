@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "versionCode": 144,
-  "versionName": "1.0.25",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+144.zip",
-  "notes": "Correcao: o preview de imagem na barra de progresso do leitor (novidade da v1.0.24) podia deixar a aplicacao sem resposta ao fechar o episodio depois de o usar varias vezes seguidas - desativado ate ser corrigido com mais calma. Corrigido tambem: os controlos do leitor deixavam de aparecer sozinhos mesmo com o rato parado em cima da barra de progresso.",
-  "notesEn": "Fix: the progress bar image preview (new in v1.0.24) could make the app unresponsive when closing an episode after using it several times in a row - disabled until it can be fixed properly. Also fixed: the player controls would hide themselves even with the mouse resting on the progress bar."
+  "versionCode": 145,
+  "versionName": "1.0.26",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+145.zip",
+  "notes": "Correcoes: botoes \"Gerir addons\"/\"Ir as Definicoes\" no leitor ja nao deixam a app presa num ecra em branco nem travam. Fontes: filtro de idioma passou a incluir Latino/MX, Frances, Alemao, Italiano e Russo. Popup de avaliacao do episodio ja nao aparece a meio quando o download da fonte estagna.",
+  "notesEn": "Fixes: \"Manage addons\"/\"Go to Settings\" buttons in the player no longer leave the app stuck on a blank screen or freeze. Sources: language filter now includes Latin American Spanish, French, German, Italian and Russian. The episode rating popup no longer appears mid-episode when the source's download stalls."
 }
