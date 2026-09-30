@@ -1,7 +1,7 @@
 {
-  "versionCode": 147,
-  "versionName": "1.0.28",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+147.apk",
-  "notes": "Correcao urgente: em certas navegacoes, ficava uma instancia antiga do leitor viva por baixo da nova, podendo fazer dois episodios tocar audio ao mesmo tempo. So a instancia mais recente do leitor pode agora reproduzir.",
-  "notesEn": "Urgent fix: in certain navigations, an old player instance stayed alive underneath the new one, which could make two episodes play audio at the same time. Only the most recent player instance can now play."
+  "versionCode": 148,
+  "versionName": "1.0.29",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+148.apk",
+  "notes": "Correcao: ao abrir um anime a partir de uma notificacao de novo episodio, podia aparecer como se nao estivesse na Minha Lista e sem episodios vistos, mesmo ja la estando.",
+  "notesEn": "Fix: opening an anime from a new-episode notification could show it as not in My List and with no watched episodes, even when it already was."
 }
