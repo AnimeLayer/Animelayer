@@ -1,7 +1,7 @@
 {
-  "versionCode": 146,
-  "versionName": "1.0.27",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+146.apk",
-  "notes": "Correcao de travamento raro na pagina de Fontes: descodificacao das respostas dos addons deixou de correr na linha principal da app, e um erro interno no aquecimento de ligacoes aos addons foi corrigido.",
-  "notesEn": "Fixed a rare freeze on the Sources page: decoding addon responses no longer runs on the app's main thread, and an internal error in the addon connection warm-up was fixed."
+  "versionCode": 147,
+  "versionName": "1.0.28",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+147.apk",
+  "notes": "Correcao urgente: em certas navegacoes, ficava uma instancia antiga do leitor viva por baixo da nova, podendo fazer dois episodios tocar audio ao mesmo tempo. So a instancia mais recente do leitor pode agora reproduzir.",
+  "notesEn": "Urgent fix: in certain navigations, an old player instance stayed alive underneath the new one, which could make two episodes play audio at the same time. Only the most recent player instance can now play."
 }
