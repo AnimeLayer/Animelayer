@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "versionCode": 148,
-  "versionName": "1.0.29",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+148.zip",
-  "notes": "Correcao: ao abrir um anime a partir de uma notificacao de novo episodio, podia aparecer como se nao estivesse na Minha Lista e sem episodios vistos, mesmo ja la estando.",
-  "notesEn": "Fix: opening an anime from a new-episode notification could show it as not in My List and with no watched episodes, even when it already was."
+  "versionCode": 149,
+  "versionName": "1.0.30",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+149.zip",
+  "notes": "Novidades na pagina inicial: nova prateleira \"Topicos em alta na comunidade\" (cartoes com a capa do anime, a avancar sozinhos) e novo botao \"Obra\" na Atividade ao Vivo para ver so as atividades de uma obra. A Home mostra agora 5 atividades.",
+  "notesEn": "Home page updates: new \"Hot community topics\" shelf (cards with the anime cover, auto-advancing) and a new \"Title\" button in Live Activity to see only a single title's activity. The Home now shows 5 activities."
 }
