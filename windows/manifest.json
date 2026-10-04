@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "versionCode": 151,
-  "versionName": "1.0.32",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+151.zip",
-  "notes": "Novo login com Google: agora podes entrar com Discord ou com Google (com o mesmo email entras na mesma conta). Contas novas ja nao criam um perfil sozinhas: escolhes tu o nome e o avatar. Corrigido: temporadas recem-estreadas (ex.: Black Clover 2nd Season) podiam nao mostrar fontes porque o Kitsu ainda nao as tinha ligado ao MyAnimeList.",
-  "notesEn": "New Google sign-in: you can now log in with Discord or Google (using the same email takes you to the same account). New accounts no longer create a profile automatically: you pick the name and avatar. Fixed: newly released seasons (e.g. Black Clover 2nd Season) could show no sources because Kitsu had not linked them to MyAnimeList yet."
+  "versionCode": 152,
+  "versionName": "1.0.33",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+152.zip",
+  "notes": "Transicoes mais suaves: o ecra de loading passa a desvanecer em vez de desaparecer de repente e so sai quando as imagens principais (banner, logo, capas, avatar) ja estao prontas, nos detalhes da obra, na lista de animes, no perfil e na Home. Na Home, o destaque, o Continuar a ver e a Atividade ao Vivo ja aparecem completos e as prateleiras de baixo entram uma a uma, com um desvanecer suave.",
+  "notesEn": "Smoother transitions: the loading screen now fades out instead of vanishing abruptly, and only leaves once the main images (banner, logo, covers, avatar) are ready, on the title details, the anime list, the profile and the Home. On the Home, the hero, Continue Watching and Live Activity now appear complete and the shelves below fade in one by one."
 }
