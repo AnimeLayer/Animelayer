@@ -1,7 +1,7 @@
 {
-  "versionCode": 150,
-  "versionName": "1.0.31",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+150.apk",
-  "notes": "Novo equilibrio de XP e niveis: subir de nivel e muito mais rapido e chegar ao nivel 100 passa a ser alcancavel; o XP por atividade duplicou e as badges dao XP por patamares de raridade (as mais dificeis valem muito mais). Ao carregar na notificacao dos resultados dos rankings abre agora um pop-up com o top 3 de cada categoria e os teus resultados. O aviso de fornecedores offline cobre agora todos os fornecedores de dados.",
-  "notesEn": "New XP and level balance: levelling up is much faster and reaching level 100 is now achievable; XP from activity has doubled and badges now give XP by rarity tier (the hardest ones are worth far more). Tapping the ranking results notification now opens a pop-up with the top 3 of every category and your own results. The offline-providers notice now covers every data provider."
+  "versionCode": 151,
+  "versionName": "1.0.32",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+151.apk",
+  "notes": "Novo login com Google: agora podes entrar com Discord ou com Google (com o mesmo email entras na mesma conta). Contas novas ja nao criam um perfil sozinhas: escolhes tu o nome e o avatar. Corrigido: temporadas recem-estreadas (ex.: Black Clover 2nd Season) podiam nao mostrar fontes porque o Kitsu ainda nao as tinha ligado ao MyAnimeList.",
+  "notesEn": "New Google sign-in: you can now log in with Discord or Google (using the same email takes you to the same account). New accounts no longer create a profile automatically: you pick the name and avatar. Fixed: newly released seasons (e.g. Black Clover 2nd Season) could show no sources because Kitsu had not linked them to MyAnimeList yet."
 }
