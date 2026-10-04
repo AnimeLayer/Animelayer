@@ -1,7 +1,7 @@
 {
-  "versionCode": 149,
-  "versionName": "1.0.30",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+149.apk",
-  "notes": "Novidades na pagina inicial: nova prateleira \"Topicos em alta na comunidade\" (cartoes com a capa do anime, a avancar sozinhos) e novo botao \"Obra\" na Atividade ao Vivo para ver so as atividades de uma obra. A Home mostra agora 5 atividades.",
-  "notesEn": "Home page updates: new \"Hot community topics\" shelf (cards with the anime cover, auto-advancing) and a new \"Title\" button in Live Activity to see only a single title's activity. The Home now shows 5 activities."
+  "versionCode": 150,
+  "versionName": "1.0.31",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+150.apk",
+  "notes": "Novo equilibrio de XP e niveis: subir de nivel e muito mais rapido e chegar ao nivel 100 passa a ser alcancavel; o XP por atividade duplicou e as badges dao XP por patamares de raridade (as mais dificeis valem muito mais). Ao carregar na notificacao dos resultados dos rankings abre agora um pop-up com o top 3 de cada categoria e os teus resultados. O aviso de fornecedores offline cobre agora todos os fornecedores de dados.",
+  "notesEn": "New XP and level balance: levelling up is much faster and reaching level 100 is now achievable; XP from activity has doubled and badges now give XP by rarity tier (the hardest ones are worth far more). Tapping the ranking results notification now opens a pop-up with the top 3 of every category and your own results. The offline-providers notice now covers every data provider."
 }
