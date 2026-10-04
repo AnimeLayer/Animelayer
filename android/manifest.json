@@ -1,7 +1,7 @@
 {
-  "versionCode": 152,
-  "versionName": "1.0.33",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+152.apk",
-  "notes": "Transicoes mais suaves: o ecra de loading passa a desvanecer em vez de desaparecer de repente e so sai quando as imagens principais (banner, logo, capas, avatar) ja estao prontas, nos detalhes da obra, na lista de animes, no perfil e na Home. Na Home, o destaque, o Continuar a ver e a Atividade ao Vivo ja aparecem completos e as prateleiras de baixo entram uma a uma, com um desvanecer suave.",
-  "notesEn": "Smoother transitions: the loading screen now fades out instead of vanishing abruptly, and only leaves once the main images (banner, logo, covers, avatar) are ready, on the title details, the anime list, the profile and the Home. On the Home, the hero, Continue Watching and Live Activity now appear complete and the shelves below fade in one by one."
+  "versionCode": 153,
+  "versionName": "1.0.34",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+153.apk",
+  "notes": "Corrigido: em obras com mais de 1000 episodios vistos (ex.: One Piece) as marcacoes a partir do 1001.o ficavam gravadas mas nao apareciam na lista de episodios nem no cartao O teu progresso. Corrigido o Continuar a ver: marcar de uma vez centenas de episodios de uma so obra escondia todas as outras, e agora mostra sempre as ultimas obras diferentes, cada uma no episodio mais avancado.",
+  "notesEn": "Fixed: on titles with more than 1000 watched episodes (e.g. One Piece), marks from the 1001st onward were saved but did not show in the episode list or in the Your progress card. Fixed Continue Watching: marking hundreds of episodes of a single title at once hid all the others; it now always shows the latest distinct titles, each at its furthest episode."
 }
