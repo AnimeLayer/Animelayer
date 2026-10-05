@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "versionCode": 154,
-  "versionName": "1.0.35",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+154.zip",
-  "notes": "Corrigido: com a loja em manutencao, uma conta normal ainda podia conseguir abri-la se navegasse para la pouco depois de outra pagina; o aviso de manutencao passa a aparecer sempre. Ao carregar em Voltar ao inicio, a loja deixa tambem de se ver por baixo durante a transicao.",
-  "notesEn": "Fixed: with the shop under maintenance, a regular account could still open it if it navigated there shortly after another page; the maintenance notice now always shows. When tapping Back to home, the shop no longer shows through during the transition."
+  "versionCode": 155,
+  "versionName": "1.0.36",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+155.zip",
+  "notes": "Voltar atras com um episodio a correr ja nao trava a app: parar o torrent apagava na hora o ficheiro ja descarregado e a janela ficava parada varios segundos; agora o torrent para de imediato e os ficheiros sao apagados em segundo plano. Fontes lentas: aos 45 segundos sem o video arrancar, se o torrent ainda estiver a descarregar, a app ja nao desiste com erro de timeout, mostra um aviso de que a fonte esta lenta ou instavel e continua a esperar. Cancelar a preparacao do video volta agora a lista de fontes do leitor.",
+  "notesEn": "Going back while an episode is playing no longer freezes the app: stopping the torrent used to delete the already downloaded file on the spot and the window stayed frozen for several seconds; now the torrent stops immediately and the files are deleted in the background. Slow sources: after 45 seconds without the video starting, if the torrent is still downloading, the app no longer gives up with a timeout error; it shows a notice that the source is slow or unstable and keeps waiting. Cancelling the video preparation now returns to the player's source list."
 }
