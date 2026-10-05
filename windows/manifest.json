@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "versionCode": 153,
-  "versionName": "1.0.34",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+153.zip",
-  "notes": "Corrigido: em obras com mais de 1000 episodios vistos (ex.: One Piece) as marcacoes a partir do 1001.o ficavam gravadas mas nao apareciam na lista de episodios nem no cartao O teu progresso. Corrigido o Continuar a ver: marcar de uma vez centenas de episodios de uma so obra escondia todas as outras, e agora mostra sempre as ultimas obras diferentes, cada uma no episodio mais avancado.",
-  "notesEn": "Fixed: on titles with more than 1000 watched episodes (e.g. One Piece), marks from the 1001st onward were saved but did not show in the episode list or in the Your progress card. Fixed Continue Watching: marking hundreds of episodes of a single title at once hid all the others; it now always shows the latest distinct titles, each at its furthest episode."
+  "versionCode": 154,
+  "versionName": "1.0.35",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+154.zip",
+  "notes": "Corrigido: com a loja em manutencao, uma conta normal ainda podia conseguir abri-la se navegasse para la pouco depois de outra pagina; o aviso de manutencao passa a aparecer sempre. Ao carregar em Voltar ao inicio, a loja deixa tambem de se ver por baixo durante a transicao.",
+  "notesEn": "Fixed: with the shop under maintenance, a regular account could still open it if it navigated there shortly after another page; the maintenance notice now always shows. When tapping Back to home, the shop no longer shows through during the transition."
 }
