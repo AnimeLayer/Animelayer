@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "versionCode": 155,
-  "versionName": "1.0.36",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+155.zip",
-  "notes": "Voltar atras com um episodio a correr ja nao trava a app: parar o torrent apagava na hora o ficheiro ja descarregado e a janela ficava parada varios segundos; agora o torrent para de imediato e os ficheiros sao apagados em segundo plano. Fontes lentas: aos 45 segundos sem o video arrancar, se o torrent ainda estiver a descarregar, a app ja nao desiste com erro de timeout, mostra um aviso de que a fonte esta lenta ou instavel e continua a esperar. Cancelar a preparacao do video volta agora a lista de fontes do leitor.",
-  "notesEn": "Going back while an episode is playing no longer freezes the app: stopping the torrent used to delete the already downloaded file on the spot and the window stayed frozen for several seconds; now the torrent stops immediately and the files are deleted in the background. Slow sources: after 45 seconds without the video starting, if the torrent is still downloading, the app no longer gives up with a timeout error; it shows a notice that the source is slow or unstable and keeps waiting. Cancelling the video preparation now returns to the player's source list."
+  "versionCode": 156,
+  "versionName": "1.0.37",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+156.zip",
+  "notes": "Proximo episodio em packs com varias temporadas passa agora para o episodio certo da temporada certa. Continuar a ver abre o episodio certo em obras de varias temporadas (ex.: One Piece) e a lista de fontes mostra so as desse episodio. O ecra de preparar o proximo episodio e o mesmo da escolha de fonte. Voltar atras com um episodio a correr ja nao trava a app, e fontes lentas mostram um aviso em vez de falhar por timeout. Novo login com Google, perfil escolhido por ti em contas novas, transicoes mais suaves e correcoes nos episodios vistos (obras com mais de 1000 episodios).",
+  "notesEn": "Next episode in multi-season packs now goes to the right episode of the right season. Continue watching opens the correct episode in multi-season series (e.g. One Piece) and the source list shows only that episode's sources. The next-episode loading screen is now the same as the source-selection one. Going back while an episode is playing no longer freezes the app, and slow sources show a notice instead of failing with a timeout. New Google login, profile chosen by you on new accounts, smoother transitions and fixes for watched episodes (series with over 1000 episodes)."
 }
