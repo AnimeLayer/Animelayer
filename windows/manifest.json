@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "versionCode": 158,
-  "versionName": "1.0.39",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+158.zip",
-  "notes": "Corrigido o episodio seguinte em packs com varias temporadas (ex.: South Park): ja nao fica no mesmo episodio com o contador a subir nem salta um episodio. Se o torrent der o erro file too short ao comecar um episodio, a app repete o arranque desse ficheiro antes de mostrar o erro.",
-  "notesEn": "Fixed the next-episode button in multi-season packs (e.g. South Park): it no longer stays on the same episode while the counter goes up, nor skips an episode. If the torrent reports a file too short error when starting an episode, the app now retries that file before showing the error."
+  "versionCode": 159,
+  "versionName": "1.0.40",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+159.zip",
+  "notes": "O ecra A ligar a rede P2P e os cartoes do fim do episodio (avaliacao e agradecimento) tem agora, atras, um wallpaper da obra, escolhido a sorte entre as melhores imagens, escurecido e com fade-in. Ao saltar a avaliacao aparece o cartao Obrigado por assistires connosco!, com Forum, Avaliacoes e Proximo Episodio; quem ja avaliou ve so esse cartao. Os cartoes do fim ficam translucidos e opacos com o rato por cima. Corrigido: ao abrir o Forum ou as Avaliacoes a partir do cartao de agradecimento e fecha-los, o cartao ja nao desaparece.",
+  "notesEn": "The Connecting to P2P network screen and the end-of-episode cards (rating and thank-you) now have a wallpaper of the title behind them, picked at random from the best images, darkened and with a fade-in. Skipping the rating now opens the Thanks for watching with us! card, with Forum, Ratings and Next Episode; if you already rated, you only see that card. The end cards are translucent and become opaque on mouse hover. Fixed: opening the Forum or Ratings from the thank-you card and closing them no longer makes the card disappear."
 }
