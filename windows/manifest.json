@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "versionCode": 157,
-  "versionName": "1.0.38",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+157.zip",
-  "notes": "Novo botao Ver todas nas listas da Home (Tendencias, Populares nesta temporada, Proxima temporada, Populares de sempre e Top 100). Aviso de conteudo para adultos ao abrir obras marcadas como 18+ (anime Hentai ou cartoon TV-MA), com caixa de consentimento; a Home deixa de mostrar obras Hentai. Paginas de Animes e Cartoons com etiquetas dos filtros ativos, contagem de resultados e botao Limpar filtros; o menu do ano ja nao fica escondido atras do cabecalho. Ao carregar numa notificacao, ela abre logo ao primeiro clique. Seguranca: as caches partilhadas de elenco, episodios e traducoes deixaram de aceitar gravacoes diretas de utilizadores.",
-  "notesEn": "New See all button on the Home lists (Current Trends, Popular this season, Next season, All-time popular and Top 100). Adult content warning when opening 18+ titles (Hentai anime or TV-MA cartoons), with a consent checkbox; the Home no longer shows Hentai titles. Animes and Cartoons pages now show active-filter tags, a results count and a Clear filters button; the year menu is no longer hidden behind the header. Tapping a notification now opens it on the first click. Security: the shared cast, episodes and translations caches no longer accept direct writes from users."
+  "versionCode": 158,
+  "versionName": "1.0.39",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+158.zip",
+  "notes": "Corrigido o episodio seguinte em packs com varias temporadas (ex.: South Park): ja nao fica no mesmo episodio com o contador a subir nem salta um episodio. Se o torrent der o erro file too short ao comecar um episodio, a app repete o arranque desse ficheiro antes de mostrar o erro.",
+  "notesEn": "Fixed the next-episode button in multi-season packs (e.g. South Park): it no longer stays on the same episode while the counter goes up, nor skips an episode. If the torrent reports a file too short error when starting an episode, the app now retries that file before showing the error."
 }
