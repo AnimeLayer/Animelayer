@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "versionCode": 159,
-  "versionName": "1.0.40",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+159.zip",
-  "notes": "O ecra A ligar a rede P2P e os cartoes do fim do episodio (avaliacao e agradecimento) tem agora, atras, um wallpaper da obra, escolhido a sorte entre as melhores imagens, escurecido e com fade-in. Ao saltar a avaliacao aparece o cartao Obrigado por assistires connosco!, com Forum, Avaliacoes e Proximo Episodio; quem ja avaliou ve so esse cartao. Os cartoes do fim ficam translucidos e opacos com o rato por cima. Corrigido: ao abrir o Forum ou as Avaliacoes a partir do cartao de agradecimento e fecha-los, o cartao ja nao desaparece.",
-  "notesEn": "The Connecting to P2P network screen and the end-of-episode cards (rating and thank-you) now have a wallpaper of the title behind them, picked at random from the best images, darkened and with a fade-in. Skipping the rating now opens the Thanks for watching with us! card, with Forum, Ratings and Next Episode; if you already rated, you only see that card. The end cards are translucent and become opaque on mouse hover. Fixed: opening the Forum or Ratings from the thank-you card and closing them no longer makes the card disappear."
+  "versionCode": 160,
+  "versionName": "1.0.41",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+160.zip",
+  "notes": "Novo filtro Franquia e etiqueta dourada nos cartoes de franquia, nas paginas de Animes e Cartoons. O contador de episodios no cabecalho da obra deixou de mostrar 0 em animes a sair que ainda nao tem total. A pagina da obra passa a seguir as temporadas atraves de filmes e OVAs e os separadores Filmes e Especiais mostram tudo da obra. Fundo com a imagem da obra no ecra de descarga e no fim do episodio, e cartao Obrigado por assistires connosco. Corrigido o episodio seguinte em packs com varias temporadas. Aviso de conteudo para adultos, botao Ver todas na Home, fundo do site e notificacoes que abrem ao primeiro clique.",
+  "notesEn": "New Franchise filter and gold tag on franchise cards in the Animes and Cartoons pages. The episode counter in a title's header no longer shows 0 for airing anime that have no total yet. A title's page now follows seasons through movies and OVAs, and the Movies and Specials tabs show everything for the title. Title wallpaper behind the loading screen and the end-of-episode cards, plus a Thanks for watching with us card. Fixed the next-episode button in multi-season packs. Adult-content warning, See all button on the Home, and notifications that open on the first tap."
 }
