@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "versionCode": 164,
-  "versionName": "1.0.45",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+164.zip",
-  "notes": "Os textos do cenario (cartazes, cartas, janelas de jogo) passam a aparecer na posicao certa nas legendas ASS, em vez de tudo como fala em baixo; so em fontes com esse tipo de legendas, o resto fica igual. Inclui pesquisa sem acentos, Enter na pesquisa, franquias novas e correcoes do Android (auto-update e buffer parado).",
-  "notesEn": "On-screen texts (signs, letters, game windows) now appear in the right place with ASS subtitles, instead of everything showing as dialogue at the bottom; only for sources with that kind of subtitles, everything else stays the same. Also includes accent-insensitive search, Enter in the search bar, new franchises and Android fixes (auto-update and stuck buffer)."
+  "versionCode": 165,
+  "versionName": "1.0.46",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/windows-latest/animelayer_windows_1.0.0+165.zip",
+  "notes": "Legendas ASS: os textos do cenario ficam mais fieis (contorno, desfoque e animacoes), aparecem logo no inicio e depois de saltos no tempo, e a copia repetida nas legendas normais deixou de aparecer. So em fontes com esse tipo de legendas, o resto fica igual.",
+  "notesEn": "ASS subtitles: on-screen texts are now more faithful (outline, blur and animations), show up right at the start and after seeking, and the repeated copy in the normal subtitles no longer appears. Only for sources with that kind of subtitles, everything else stays the same."
 }
