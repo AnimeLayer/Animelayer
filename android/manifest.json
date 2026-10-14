@@ -1,7 +1,7 @@
 {
-  "versionCode": 165,
-  "versionName": "1.0.46",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+165.apk",
-  "notes": "Legendas ASS: os textos do cenario ficam mais fieis (contorno, desfoque e animacoes), aparecem logo no inicio e depois de saltos no tempo, e a copia repetida nas legendas normais deixou de aparecer. So em fontes com esse tipo de legendas, o resto fica igual.",
-  "notesEn": "ASS subtitles: on-screen texts are now more faithful (outline, blur and animations), show up right at the start and after seeking, and the repeated copy in the normal subtitles no longer appears. Only for sources with that kind of subtitles, everything else stays the same."
+  "versionCode": 166,
+  "versionName": "1.0.47",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+166.apk",
+  "notes": "Legendas ASS: o texto dos cartazes e janelas ja nao leva o efeito de desfoque, que deixava algumas janelas ilegiveis (ex.: paineis de atributos). As caixas de fundo mantem o desfocado suave nas bordas.",
+  "notesEn": "ASS subtitles: the text of signs and windows no longer gets the blur effect, which made some windows unreadable (e.g. stat panels). Background boxes keep the soft blurred edges."
 }
