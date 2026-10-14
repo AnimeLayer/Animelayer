@@ -1,7 +1,7 @@
 {
-  "versionCode": 160,
-  "versionName": "1.0.41",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+160.apk",
-  "notes": "Novo filtro Franquia e etiqueta dourada nos cartoes de franquia, nas paginas de Animes e Cartoons. O contador de episodios no cabecalho da obra deixou de mostrar 0 em animes a sair que ainda nao tem total. A pagina da obra passa a seguir as temporadas atraves de filmes e OVAs e os separadores Filmes e Especiais mostram tudo da obra. Fundo com a imagem da obra no ecra de descarga e no fim do episodio, e cartao Obrigado por assistires connosco. Corrigido o episodio seguinte em packs com varias temporadas. Aviso de conteudo para adultos, botao Ver todas na Home, fundo do site e notificacoes que abrem ao primeiro clique.",
-  "notesEn": "New Franchise filter and gold tag on franchise cards in the Animes and Cartoons pages. The episode counter in a title's header no longer shows 0 for airing anime that have no total yet. A title's page now follows seasons through movies and OVAs, and the Movies and Specials tabs show everything for the title. Title wallpaper behind the loading screen and the end-of-episode cards, plus a Thanks for watching with us card. Fixed the next-episode button in multi-season packs. Adult-content warning, See all button on the Home, and notifications that open on the first tap."
+  "versionCode": 161,
+  "versionName": "1.0.42",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+161.apk",
+  "notes": "A pesquisa passa a ignorar acentos (pokemon encontra Pokémon) e carregar Enter na barra de pesquisa abre a pagina de resultados. 29 franquias novas e mais series nas que ja existiam (Marvel, Sonic, Total Drama, Persona, Tenchi Muyo, Tales of e outras); filmes e especiais soltos passam para dentro da sua serie. Obras repetidas entre animes e cartoons deixam de aparecer duas vezes.",
+  "notesEn": "Search now ignores accents (pokemon finds Pokémon) and pressing Enter in the search bar opens the results page. 29 new franchises and more series in existing ones (Marvel, Sonic, Total Drama, Persona, Tenchi Muyo, Tales of and more); loose movies and specials now sit inside their series. Titles duplicated between anime and cartoons no longer show twice."
 }
