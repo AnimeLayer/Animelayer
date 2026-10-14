@@ -1,7 +1,7 @@
 {
-  "versionCode": 161,
-  "versionName": "1.0.42",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+161.apk",
-  "notes": "A pesquisa passa a ignorar acentos (pokemon encontra Pokémon) e carregar Enter na barra de pesquisa abre a pagina de resultados. 29 franquias novas e mais series nas que ja existiam (Marvel, Sonic, Total Drama, Persona, Tenchi Muyo, Tales of e outras); filmes e especiais soltos passam para dentro da sua serie. Obras repetidas entre animes e cartoons deixam de aparecer duas vezes.",
-  "notesEn": "Search now ignores accents (pokemon finds Pokémon) and pressing Enter in the search bar opens the results page. 29 new franchises and more series in existing ones (Marvel, Sonic, Total Drama, Persona, Tenchi Muyo, Tales of and more); loose movies and specials now sit inside their series. Titles duplicated between anime and cartoons no longer show twice."
+  "versionCode": 162,
+  "versionName": "1.0.43",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+162.apk",
+  "notes": "Corrigido no Android o buffer do leitor que parava por completo, mesmo com o episodio todo descarregado (acontecia com fontes de poucos peers).",
+  "notesEn": "Fixed the Android player buffer freezing completely even when the whole episode was already downloaded (it happened with low-peer sources)."
 }
