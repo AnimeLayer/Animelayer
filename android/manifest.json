@@ -1,7 +1,7 @@
 {
-  "versionCode": 162,
-  "versionName": "1.0.43",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+162.apk",
-  "notes": "Corrigido no Android o buffer do leitor que parava por completo, mesmo com o episodio todo descarregado (acontecia com fontes de poucos peers).",
-  "notesEn": "Fixed the Android player buffer freezing completely even when the whole episode was already downloaded (it happened with low-peer sources)."
+  "versionCode": 163,
+  "versionName": "1.0.44",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+163.apk",
+  "notes": "Corrigido o auto-update do Android que por vezes voltava ao aviso de atualizacao sem instalar nada (a app reutilizava um ficheiro antigo com o mesmo tamanho).",
+  "notesEn": "Fixed the Android auto-update that sometimes came back to the update prompt without installing anything (the app reused an old file of the same size)."
 }
