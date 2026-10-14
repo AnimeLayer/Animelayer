@@ -1,7 +1,7 @@
 {
-  "versionCode": 166,
-  "versionName": "1.0.47",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+166.apk",
-  "notes": "Legendas ASS: o texto dos cartazes e janelas ja nao leva o efeito de desfoque, que deixava algumas janelas ilegiveis (ex.: paineis de atributos). As caixas de fundo mantem o desfocado suave nas bordas.",
-  "notesEn": "ASS subtitles: the text of signs and windows no longer gets the blur effect, which made some windows unreadable (e.g. stat panels). Background boxes keep the soft blurred edges."
+  "versionCode": 167,
+  "versionName": "1.0.48",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/android-latest/animelayer_1.0.0+167.apk",
+  "notes": "Novo \"Onde ver\": na pagina de cada serie e cartoon, a direita dos botoes Seguir e Minha Lista, aparecem os logotipos dos servicos oficiais onde a obra esta disponivel na tua regiao (streaming, gratis, gratis com anuncios). Dados da JustWatch, via TMDB; so aparece quando ha dados para a tua regiao.",
+  "notesEn": "New \"Where to watch\": on each series and cartoon page, to the right of the Follow and My List buttons, you now see the logos of the official services that offer the title in your region (streaming, free, free with ads). Data from JustWatch, via TMDB; it only shows when there is data for your region."
 }
