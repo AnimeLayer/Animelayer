@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "versionCode": 160,
-  "versionName": "1.0.41",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/macos-latest/animelayer_macos_1.0.0+160.zip",
-  "notes": "Novo filtro Franquia e etiqueta dourada nos cartoes de franquia, nas paginas de Animes e Cartoons. O contador de episodios no cabecalho da obra deixou de mostrar 0 em animes a sair que ainda nao tem total. A pagina da obra passa a seguir as temporadas atraves de filmes e OVAs e os separadores Filmes e Especiais mostram tudo da obra. Fundo com a imagem da obra no ecra de descarga e no fim do episodio, e cartao Obrigado por assistires connosco. Corrigido o episodio seguinte em packs com varias temporadas. Aviso de conteudo para adultos, botao Ver todas na Home, fundo do site e notificacoes que abrem ao primeiro clique.",
-  "notesEn": "New Franchise filter and gold tag on franchise cards in the Animes and Cartoons pages. The episode counter in a title's header no longer shows 0 for airing anime that have no total yet. A title's page now follows seasons through movies and OVAs, and the Movies and Specials tabs show everything for the title. Title wallpaper behind the loading screen and the end-of-episode cards, plus a Thanks for watching with us card. Fixed the next-episode button in multi-season packs. Adult-content warning, See all button on the Home, and notifications that open on the first tap."
+  "versionCode": 164,
+  "versionName": "1.0.45",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/macos-latest/animelayer_macos_1.0.0+164.zip",
+  "notes": "Os textos do cenario (cartazes, cartas, janelas de jogo) passam a aparecer na posicao certa nas legendas ASS, em vez de tudo como fala em baixo; so em fontes com esse tipo de legendas, o resto fica igual. Inclui pesquisa sem acentos, Enter na pesquisa, franquias novas e correcoes do Android (auto-update e buffer parado).",
+  "notesEn": "On-screen texts (signs, letters, game windows) now appear in the right place with ASS subtitles, instead of everything showing as dialogue at the bottom; only for sources with that kind of subtitles, everything else stays the same. Also includes accent-insensitive search, Enter in the search bar, new franchises and Android fixes (auto-update and stuck buffer)."
 }
