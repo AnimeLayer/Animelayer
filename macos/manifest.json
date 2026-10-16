@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "versionCode": 169,
-  "versionName": "1.0.50",
-  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/macos-latest/animelayer_macos_1.0.0+169.zip",
+  "versionCode": 170,
+  "versionName": "1.0.51",
+  "url": "https://github.com/AnimeLayer/Animelayer/releases/download/macos-latest/animelayer_macos_1.0.0+170.zip",
   "notes": "Novo assistente de ajuda nas 12 linguas da app. Novo ecra de episodio pronto com transicoes ao abrir o leitor, e frases divertidas no carregamento em 12 linguas. Inclui os novos filtros de generos na pagina de Animes.",
   "notesEn": "New help assistant in all 12 app languages. New episode-ready screen with transitions when opening the player, and funny loading phrases in 12 languages. Includes the new genre filters on the Animes page."
 }
