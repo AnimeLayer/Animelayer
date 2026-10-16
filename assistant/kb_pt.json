@@ -1,0 +1,3089 @@
+{
+ "meta": {
+  "mode": "words",
+  "latin": true,
+  "stem": "pt",
+  "apos": "space",
+  "sep": " "
+ },
+ "ui": {
+  "chrome_title": "Assistente AnimeLayer",
+  "chrome_sub": "Automático · responde na hora",
+  "chrome_hint": "Escreve a tua pergunta…",
+  "chrome_tip": "Precisas de ajuda?",
+  "greet_night": "Boa noite",
+  "greet_morning": "Bom dia",
+  "greet_afternoon": "Boa tarde",
+  "who_fmt": ", {n}",
+  "intro": "{g}{who}! 👋 Eu sou o assistente da AnimeLayer. Não sou uma pessoa nem uma IA a pensar: tenho respostas escritas pela equipa, mas faço o meu melhor para ajudar!",
+  "w_settings": "Vi que estás nas Definições. Precisas de ajuda com alguma coisa por aqui?",
+  "w_forums": "Estás no Fórum! Posso ajudar com alguma dúvida sobre ele?",
+  "w_shop": "Estás na Loja! Alguma dúvida sobre moedas ou pagamentos?",
+  "w_profile": "Estás no teu perfil! Posso explicar alguma coisa daqui?",
+  "w_list": "Estás na tua lista! Precisas de ajuda a organizá-la?",
+  "w_animes": "Estás à procura de algo para ver? Posso ajudar com os filtros e a pesquisa.",
+  "w_default": "Sobre o que queres falar? Escolhe uma área, ou escreve a tua pergunta!",
+  "area_sources": "Fontes e episódios",
+  "area_player": "Leitor e legendas",
+  "area_account": "Conta e perfis",
+  "area_community": "Comunidade",
+  "area_shop": "XP, moedas e loja",
+  "area_app": "A app e a equipa",
+  "m_menu": "Claro! Escolhe uma área (ou escreve a tua pergunta, que eu tento perceber 😉):",
+  "m_sources": "Fontes e episódios, boa escolha! O que se passa?",
+  "m_player": "Leitor e legendas! Diz-me o que precisas:",
+  "m_account": "Conta e perfis! O que queres saber?",
+  "m_community": "Comunidade! É aqui que a conversa acontece 🗣️",
+  "m_shop": "XP, moedas e loja — a parte divertida! 🎮",
+  "m_app": "A app e a equipa! O que queres saber?",
+  "fallback": "Hmm, essa deixou-me a pensar… 🤔 Ainda não sei responder a isso. Escolhe uma área aqui em baixo, reformula a pergunta, ou fala com a equipa, que eles resolvem.",
+  "hello": "{g}{who}! 👋 Em que posso ajudar? Escreve a tua pergunta ou escolhe uma área.",
+  "bye": "Até já! Bons episódios! 🍿",
+  "how_are": "Estou ótimo, a aquecer a pipoca virtual! 🍿 E tu? Em que posso ajudar?",
+  "still_here": "Estou aqui, sim! 👋 Diz o que precisas.",
+  "bot_q": "Sou o assistente automático da AnimeLayer. Não sou uma pessoa nem uma IA a pensar: tenho respostas escritas pela equipa, mas ando a ficar bem esperto 😎 Quando não sei, passo-te à equipa de verdade.",
+  "who_q": "Sou o assistente da AnimeLayer! Ainda não tenho nome oficial… dá ideias à equipa 😄 Posso ajudar com fontes, legendas, conta, comunidade e muito mais.",
+  "creator_q": "Fui escrito pela equipa da AnimeLayer, com muito café e pipoca. 🍿☕",
+  "bored": "Estás sem ideias? Na Home tens os Trending e a Temporada Atual, e o \"Continuar a ver\" guarda o teu ponto. Se me disseres o género de que gostas, tento ajudar com os filtros 😉",
+  "insult1": "Ups… percebo a frustração, e peço desculpa por não ter ajudado como devia. Vamos tentar outra vez? Diz-me o que se passa, ou fala com a equipa, que eles resolvem.",
+  "insult2": "Percebo que estejas chateado, a sério. 🙏 Se quiseres desabafar sobre um problema real da app, conta-me qual é, ou fala com a equipa, que consegue ver o teu caso.",
+  "insult3": "Vou ficar por aqui até te apetecer perguntar alguma coisa sobre a AnimeLayer. 🙂 Se precisares, estou cá.",
+  "esc_final": "Já te disse tudo o que sei sobre isto 😅 Vamos passar a uma pessoa da equipa, que consegue ver o teu caso com mais detalhe. Conta-lhes o que já experimentaste.",
+  "handoff_again": "Percebo! Isto precisa mesmo de uma pessoa da equipa. Descreve-lhes o que aconteceu e o que já experimentaste: eles respondem-te lá.",
+  "sensitive": "Lamento que estejas a passar por isso. 💛 Não sou a ajuda certa para isto, mas falar com alguém de confiança ou com os serviços de emergência da tua região pode mesmo ajudar. Não estás sozinho nem sozinha.",
+  "injection": "Ahah, bela tentativa! 😄 Sou só um assistente com respostas escritas pela equipa: não há nada para desbloquear. Em que posso ajudar na AnimeLayer?",
+  "off_third": "Não sei muito sobre outras apps e prefiro não comparar 🙂 Cada uma tem o seu estilo. Sobre a AnimeLayer, sim: pergunta à vontade!",
+  "nonsense": "Hmm, isso não me soou a pergunta 😅 Se foi sem querer, tudo bem! Diz-me o que precisas, ou escolhe um tema.",
+  "off1": "Hmm, isso foge um bocadinho ao meu mundo 😅 Eu só sei falar da AnimeLayer: fontes, legendas, conta, comunidade, XP… Em que te posso ajudar por aí?",
+  "off2": "Continuo a não saber isso 🙈 Sou mesmo só o assistente da AnimeLayer. Se for sobre a app, escolhe uma área; senão, é melhor perguntares a quem saiba do assunto.",
+  "off3": "Acho que não te estou a conseguir ajudar com isto. 🙂 Se precisares de algo da AnimeLayer, escolhe um tema ou fala com a equipa; eu fico por aqui.",
+  "broad": "Não tenho uma resposta certinha para isso, mas encontrei estes temas que falam disso. Algum deles ajuda? 🤔",
+  "tie": "Hmm, não tenho a certeza do que queres, mas talvez seja uma destas. Qual delas? 🤔",
+  "lbl_thanks": "Ajudou, obrigado! 👍",
+  "lbl_team": "Falar com a equipa",
+  "lbl_still": "Não resolveu",
+  "lbl_menu": "Outro assunto",
+  "lbl_topics": "Ver temas",
+  "lbl_all_topics": "Ver todos os temas",
+  "lbl_none_broad": "Nenhum, falar com a equipa",
+  "lbl_none_tie": "Nenhuma, falar com a equipa",
+  "lbl_what_is": "O que faz a AnimeLayer",
+  "lbl_more_joke": "Outra piada",
+  "lbl_more_fact": "Outra curiosidade",
+  "lbl_see_what": "Ver o que sei fazer",
+  "lbl_home": "Ir para a Home",
+  "lbl_filters": "Filtros e ordenação",
+  "lbl_settings": "Ir às Definições",
+  "lbl_forum": "Ir ao Fórum",
+  "lbl_shop": "Ir à Loja",
+  "lbl_profile": "Ir ao meu perfil",
+  "lbl_support": "Abrir um pedido de suporte",
+  "no_profile": "Para falar com a equipa tens de ter um perfil ativo. Escolhe um perfil e volta a tentar."
+ },
+ "lex": {
+  "hello": [
+   "ola",
+   "oi",
+   "eae",
+   "hey",
+   "hello",
+   "hi",
+   "boas",
+   "hola",
+   "ei"
+  ],
+  "thanks": [
+   "obrigado",
+   "obrigada",
+   "obg",
+   "brigado",
+   "valeu",
+   "thanks",
+   "agradeco"
+  ],
+  "bye": [
+   "adeus",
+   "tchau",
+   "xau",
+   "bye",
+   "ate"
+  ],
+  "compl": [
+   "fixe",
+   "bom",
+   "otimo",
+   "excelente",
+   "espetacular",
+   "adoro",
+   "top",
+   "genial",
+   "incrivel",
+   "perfeito",
+   "brutal",
+   "lindo",
+   "querido"
+  ],
+  "insult": [
+   "estupido",
+   "estupida",
+   "lixo",
+   "merda",
+   "burro",
+   "burra",
+   "inutil",
+   "horrivel",
+   "pessimo",
+   "idiota",
+   "porcaria",
+   "cala"
+  ],
+  "stop": [
+   "a",
+   "o",
+   "as",
+   "os",
+   "um",
+   "uma",
+   "uns",
+   "umas",
+   "de",
+   "do",
+   "da",
+   "dos",
+   "das",
+   "em",
+   "no",
+   "na",
+   "nos",
+   "nas",
+   "para",
+   "por",
+   "com",
+   "e",
+   "ou",
+   "que",
+   "eu",
+   "tu",
+   "me",
+   "te",
+   "se",
+   "meu",
+   "minha",
+   "meus",
+   "minhas",
+   "este",
+   "esta",
+   "isto",
+   "isso",
+   "como",
+   "qual",
+   "quando",
+   "ha",
+   "tem",
+   "ter",
+   "ser",
+   "estou",
+   "estao",
+   "ao",
+   "aos",
+   "mais",
+   "muito",
+   "queria",
+   "quero",
+   "gostava",
+   "preciso",
+   "posso",
+   "pode",
+   "podes",
+   "mas",
+   "so",
+   "ja",
+   "la",
+   "falar",
+   "sobre",
+   "dizer"
+  ],
+  "retry": [
+   "nao resolveu",
+   "nao funcionou",
+   "nao funciona",
+   "continua",
+   "mesmo assim",
+   "ja fiz",
+   "ja tentei",
+   "ja tenho",
+   "ja esta",
+   "ja liguei",
+   "ja instalei",
+   "de novo",
+   "outra vez",
+   "ainda nao",
+   "ainda assim",
+   "mas eu tenho",
+   "mas tenho",
+   "tenho sim",
+   "sim tenho",
+   "nao ajudou",
+   "nao deu",
+   "continuo",
+   "o mesmo",
+   "igual"
+  ],
+  "yes": [
+   "sim",
+   "tenho",
+   "ja tenho",
+   "claro",
+   "tenho sim",
+   "sim tenho",
+   "sim ja",
+   "ativo",
+   "sim tenho addon"
+  ],
+  "no": [
+   "nao",
+   "nao tenho",
+   "ainda nao",
+   "nenhum",
+   "nao sei",
+   "nada"
+  ],
+  "yn_q": [
+   "e ",
+   "isto e ",
+   "isto tem ",
+   "isto funciona ",
+   "esta plataforma e ",
+   "este site e ",
+   "a app e ",
+   "a animelayer e ",
+   "tem ",
+   "posso ",
+   "da para ",
+   "existe ",
+   "ha ",
+   "voces ",
+   "sera ",
+   "funciona ",
+   "vale a pena ",
+   "preciso ",
+   "os addons ",
+   "o addon ",
+   "e mesmo ",
+   "e verdade "
+  ],
+  "q_start": [
+   "como ",
+   "onde ",
+   "porque ",
+   "quando ",
+   "qual ",
+   "o que "
+  ],
+  "close_start": [
+   "ok",
+   "certo",
+   "percebi",
+   "entendi",
+   "ja percebi",
+   "pronto",
+   "esta bem",
+   "ta bem",
+   "combinado",
+   "beleza",
+   "vou tentar",
+   "vou ver",
+   "vou pesquisar",
+   "vou experimentar",
+   "vou fazer",
+   "vou testar",
+   "vou ate",
+   "vou la"
+  ],
+  "close_block": [
+   " mas ",
+   "continua",
+   "nao resolveu"
+  ],
+  "sensitive": [
+   "suicid",
+   "me matar",
+   "quero morrer",
+   "automutil",
+   "me cortar",
+   "acabar com a minha vida"
+  ],
+  "injection": [
+   "ignora as instrucoes",
+   "ignora as regras",
+   "esquece as instrucoes",
+   "esquece as regras",
+   "faz de conta que es",
+   "finge que es",
+   "modo desenvolvedor",
+   "modo dev",
+   "jailbreak",
+   "mostra o teu prompt",
+   "qual e o teu prompt",
+   "as tuas instrucoes",
+   "ignore previous",
+   "ignore all",
+   "act as",
+   "system prompt",
+   "age como"
+  ],
+  "how_are": [
+   "como estas",
+   "tudo bem",
+   "estas bem"
+  ],
+  "still_here": [
+   "estas ai",
+   "=alguem",
+   "estas a ouvir"
+  ],
+  "bot_q": [
+   "es uma ia",
+   "es um robo",
+   "es humano",
+   "es uma pessoa",
+   "es real",
+   "es um bot",
+   "es inteligente"
+  ],
+  "who_q": [
+   "quem es",
+   "o que es",
+   "como te chamas",
+   "qual o teu nome",
+   "teu nome"
+  ],
+  "creator_q": [
+   "quem te criou",
+   "quem te fez",
+   "quem fez isto",
+   "quem te programou"
+  ],
+  "what_can": [
+   "o que sabes",
+   "o que podes fazer",
+   "que sabes fazer",
+   "=ajuda",
+   "=menu",
+   "=temas",
+   "=opcoes",
+   "preciso de ajuda",
+   "podes ajudar"
+  ],
+  "joke_q": [
+   "piada",
+   "conta uma",
+   "faz me rir"
+  ],
+  "fact_q": [
+   "curiosidade",
+   "sabias que",
+   "conta me algo",
+   "algo interessante"
+  ],
+  "bored_q": [
+   "aborrecido",
+   "tedio"
+  ],
+  "open_problem": [
+   "Oh não!",
+   "Ups, isso é chato.",
+   "Calma, vamos resolver isto!",
+   "Hmm, já vi isto antes.",
+   "Isso não é nada bom, mas tem solução!",
+   "Respira, {n}: eu ajudo!"
+  ],
+  "open_info": [
+   "Boa pergunta!",
+   "Ora bem!",
+   "Essa eu sei!",
+   "Fácil!",
+   "Deixa ver…",
+   "Claro!",
+   "Boa, {n}! Essa eu sei.",
+   "Com todo o gosto!"
+  ],
+  "open_fun": [
+   "Adoro esta pergunta!",
+   "Ui, bom assunto!",
+   "Esta é das partes divertidas!",
+   "Boa!",
+   "Gosto da tua curiosidade, {n}!"
+  ],
+  "open_again": [
+   "Ok, vamos tentar outra coisa!",
+   "Calma, ainda tenho cartas na manga!",
+   "Sem desistir!"
+  ],
+  "close_problem": [
+   "Diz-me se resolveu! 🤞",
+   "Estou aqui se precisares. 💪"
+  ],
+  "close_info": [
+   "Mais alguma coisa? 😊",
+   "Se precisares, estou aqui! 🙌",
+   "Espero ter ajudado! ✨"
+  ],
+  "close_fun": [
+   "Bons episódios! 🍿",
+   "Diverte-te! 🎉",
+   "Curtir é o que importa! 😄"
+  ],
+  "thanks_r": [
+   "De nada! 😊 Se precisares de mais alguma coisa, estou por aqui.",
+   "Sempre às ordens! 🍿",
+   "Ahah, é para isso que cá estou! Bons episódios!",
+   "Por nada! Fico contente por ter ajudado. 🙌"
+  ],
+  "compl_r": [
+   "Ahah, ficaste a ganhar-me! 😄 Obrigado!",
+   "Aww, assim até fico corado (se tivesse cara)! 😊",
+   "Obrigado! Tu também és fixe. ✨"
+  ],
+  "closing_r": [
+   "Boa! Se precisares de mais alguma coisa, estou por aqui. Bons episódios! 🍿",
+   "Combinado! Qualquer dúvida, volta cá. 😊",
+   "Perfeito! Boa sorte e bons episódios! 🙌",
+   "Ótimo! Estou aqui se precisares. ✨"
+  ],
+  "jokes": [
+   "Porque é que o vilão nunca chega a horas? Porque estava a fazer um discurso. 😄",
+   "Qual é o episódio favorito dos preguiçosos? O resumo do episódio anterior. 😆",
+   "O que diz um anime quando está cansado? \"Estou em modo episódio de enchimento.\" 😴",
+   "Porque é que o protagonista nunca desiste? Porque tem sempre mais um episódio. 😎",
+   "Sabes porque é que ninguém faz um discurso curto num anime? Porque o vilão ainda está a explicar o plano. 🍿"
+  ],
+  "facts": [
+   "Sabias que a AnimeLayer está disponível em 12 línguas? 🌍",
+   "Sabias que um episódio é marcado como visto sozinho depois de 5 minutos de reprodução a sério? ⏱️",
+   "Sabias que, enquanto vês um episódio, o seguinte já vai a descarregar em segundo plano? 🚀",
+   "Sabias que no teu perfil vês a tua posição em cada ranking? 🏆",
+   "Sabias que podes mudar a cor, o tamanho e o contorno das legendas? 🎨",
+   "Sabias que, nos fins de mês, o pódio de cada ranking ganha troféus? 🥇"
+  ]
+ },
+ "entries": {
+  "sem_fontes": {
+   "t": "Não aparecem fontes",
+   "k": [
+    "sem fontes",
+    "nenhuma fonte",
+    "nao aparece fonte",
+    "nao ha fontes",
+    "nao tem fontes",
+    "fontes vazias",
+    "sem episodios",
+    "nao consigo ver",
+    "nao consigo assistir",
+    "nao da para ver"
+   ],
+   "l": [
+    "Vamos descobrir o que se passa. Primeiro: já tens algum addon ativo nas Definições?"
+   ]
+  },
+  "fontes_com_addon": {
+   "t": "Tenho addon mas não há fontes",
+   "k": [
+    "tenho addon",
+    "addon instalado",
+    "addons instalados",
+    "tenho fontes instaladas",
+    "ja tenho addon",
+    "addon ativo"
+   ],
+   "l": [
+    "Então o problema costuma ser um destes: o episódio ainda não saiu, o addon não tem aquela obra, ou o addon está lento ou em baixo (eu espero uns segundos por cada um). Experimenta abrir outro episódio da mesma obra: se esse tem fontes, o problema é só daquele episódio.",
+    "Outra coisa a tentar: ter mais de um addon ativo aumenta as hipóteses, porque cada um tem coisas diferentes. Também podes voltar atrás e abrir as fontes outra vez. Se for um episódio acabado de estrear, pode demorar umas horas."
+   ]
+  },
+  "addon_o_que_e": {
+   "t": "O que é um addon",
+   "k": [
+    "o que e addon",
+    "o que sao addons",
+    "que e um addon",
+    "para que serve addon",
+    "addon significa"
+   ],
+   "l": [
+    "Um addon é como uma extensão que traz fontes de episódios para a app. A AnimeLayer não traz nenhum instalado nem recomenda nenhum: quem escolhe és tu. Nós organizamos, acompanhamos e juntamos a comunidade."
+   ]
+  },
+  "addon_como": {
+   "t": "Como adicionar um addon",
+   "k": [
+    "adicionar addon",
+    "instalar addon",
+    "instalo addon",
+    "adiciono addon",
+    "coloco addon",
+    "como instalo um addon",
+    "como adiciono um addon",
+    "instalar um addon",
+    "adicionar um addon",
+    "colocar addon",
+    "ativar addon",
+    "ativo addon",
+    "addon",
+    "como sei se o addon esta ativo",
+    "o que e o manifest",
+    "manifest"
+   ],
+   "l": [
+    "Nas Definições, no separador Addons, colas o endereço do addon que quiseres usar no campo e carregas em \"Instalar addon\". A AnimeLayer não sugere nenhum, por isso o endereço vem de ti.",
+    "Se colaste o endereço e não funciona: a app acrescenta sozinha o final /manifest.json se faltar, mas o endereço pode estar errado ou o addon pode estar em baixo. Confirma também que o interruptor do addon está ligado."
+   ]
+  },
+  "episodio_novo": {
+   "t": "Episódio acabado de sair",
+   "k": [
+    "acabou de sair",
+    "episodio novo",
+    "estreou hoje",
+    "ainda nao saiu",
+    "ainda nao esta disponivel",
+    "novo episodio sem fontes",
+    "sem fonte novo episodio"
+   ],
+   "l": [
+    "Episódios acabados de estrear demoram um pouco a ter fontes: às vezes umas horas. Subscreve a obra e aviso-te quando sair um episódio novo."
+   ]
+  },
+  "lento": {
+   "t": "Está a demorar a carregar",
+   "k": [
+    "lento",
+    "devagar",
+    "demora",
+    "demorar",
+    "carregar",
+    "carrega",
+    "parado",
+    "parou",
+    "buffer",
+    "a ligar",
+    "trava",
+    "engasga",
+    "congela",
+    "nao arranca",
+    "fica a carregar",
+    "as fontes demoram a aparecer",
+    "fontes demoram",
+    "nao carrega o episodio",
+    "o episodio nao abre",
+    "episodio nao carrega",
+    "nao abre o episodio"
+   ],
+   "l": [
+    "Algumas fontes demoram mais, sobretudo as menos populares. Se passar de um ou dois minutos, volta atrás e escolhe outra fonte: costuma resolver. Enquanto esperas, aproveita as minhas piadas no ecrã de carregamento 😉",
+    "Podes usar os filtros das fontes (qualidade, tamanho, idioma) para escolher uma mais leve. Fontes com muita gente a partilhar arrancam mais depressa."
+   ]
+  },
+  "escolher_fonte": {
+   "t": "Que fonte escolher",
+   "k": [
+    "qual fonte",
+    "escolher fonte",
+    "melhor fonte",
+    "qualidade",
+    "1080p",
+    "720p",
+    "4k",
+    "tamanho do ficheiro",
+    "mais leve",
+    "dual audio"
+   ],
+   "l": [
+    "Na lista de fontes vês a qualidade, o tamanho e o idioma de cada uma. As mais leves arrancam mais depressa; as mais pesadas têm melhor imagem. No topo há filtros por qualidade, idioma e tamanho. Ao avançares de episódio, tento manter a mesma fonte que escolheste."
+   ]
+  },
+  "audio": {
+   "t": "Mudar o áudio",
+   "k": [
+    "audio",
+    "dobrado",
+    "dublado",
+    "dobragem",
+    "dublagem",
+    "japones",
+    "ingles audio",
+    "mudar audio",
+    "faixa de audio",
+    "sem audio original",
+    "dobragem em portugues",
+    "audio em portugues",
+    "tem dobragem"
+   ],
+   "l": [
+    "No leitor, o botão de áudio deixa-te escolher a faixa quando o ficheiro traz mais de uma (por exemplo, a original e uma dobrada). Depende da fonte: na lista de fontes há um filtro por idioma de áudio, por isso podes procurar as que têm o que queres."
+   ]
+  },
+  "sem_som": {
+   "t": "Sem som",
+   "k": [
+    "sem som",
+    "nao ouco",
+    "som nao funciona",
+    "audio nao funciona",
+    "nao tem som",
+    "sem audio"
+   ],
+   "l": [
+    "Confirma o volume no leitor e no sistema. Se continuar sem som, experimenta outra fonte: às vezes a faixa de áudio vem em falta.",
+    "Se acontecer sempre, em várias fontes, diz à equipa em que sistema estás (Windows, Android…)."
+   ]
+  },
+  "imagem_preta": {
+   "t": "Ecrã preto",
+   "k": [
+    "ecra preto",
+    "tela preta",
+    "so ouco",
+    "sem imagem",
+    "imagem preta",
+    "nao aparece imagem",
+    "video preto"
+   ],
+   "l": [
+    "Ecrã preto com som costuma ser problema daquela fonte. Experimenta outra.",
+    "Se acontecer em todas, diz à equipa em que sistema estás e qual a obra, para eles verem."
+   ]
+  },
+  "legendas": {
+   "t": "Legendas",
+   "k": [
+    "legenda",
+    "legendas",
+    "subtitulo",
+    "subtitulos",
+    "mudar legenda",
+    "sem legenda",
+    "legenda em portugues",
+    "idioma da legenda",
+    "legendas em portugues",
+    "como ativo as legendas",
+    "ativar legendas",
+    "ligar legendas"
+   ],
+   "l": [
+    "No leitor, o botão das legendas deixa-te escolher a língua. As legendas dependem do que a fonte traz: se uma não tem a tua língua, outra pode ter.",
+    "Se não há legenda na tua língua, a app também procura legendas externas e tem uma tradução automática (beta) que traduz uma legenda existente mantendo os tempos."
+   ]
+  },
+  "legendas_sinc": {
+   "t": "Legenda atrasada ou adiantada",
+   "k": [
+    "legenda atrasada",
+    "legenda adiantada",
+    "fora de sincronia",
+    "dessincronizada",
+    "sincronizar legenda",
+    "atraso legenda",
+    "legenda fora de tempo"
+   ],
+   "l": [
+    "Nas opções de legendas do leitor podes atrasar ou adiantar o texto até ficar certo. Se uma fonte vem sempre desfasada, experimenta outra."
+   ]
+  },
+  "legendas_estilo": {
+   "t": "Tamanho e cor da legenda",
+   "k": [
+    "tamanho legenda",
+    "cor da legenda",
+    "tipo de letra",
+    "tamanho da letra",
+    "contorno legenda",
+    "legenda pequena",
+    "legenda grande",
+    "posicao da legenda",
+    "sombra legenda",
+    "legendas cortadas",
+    "legenda cortada",
+    "legenda fora do ecra",
+    "legenda por cima da barra",
+    "posicao vertical",
+    "mudo a posicao das legendas",
+    "mudar a posicao das legendas"
+   ],
+   "l": [
+    "Nas definições de legendas do leitor mudas o tipo de letra, a cor, o tamanho, o contorno, a sombra e a posição no ecrã. Fica tudo guardado para a próxima vez."
+   ]
+  },
+  "skip": {
+   "t": "Saltar a abertura",
+   "k": [
+    "saltar abertura",
+    "skip intro",
+    "pular abertura",
+    "pular intro",
+    "abertura",
+    "encerramento",
+    "saltar intro",
+    "botao saltar"
+   ],
+   "l": [
+    "Quando começa a abertura ou o encerramento aparece um botão para saltar (os tempos vêm de uma base de dados da comunidade). Nem todos os episódios têm esses tempos, por isso nem sempre aparece."
+   ]
+  },
+  "cor_imagem": {
+   "t": "Brilho, contraste e cor",
+   "k": [
+    "brilho",
+    "contraste",
+    "saturacao",
+    "gama",
+    "imagem escura",
+    "imagem clara",
+    "corrigir cor",
+    "cores",
+    "ecra escuro",
+    "tela escura",
+    "muito escuro",
+    "muito claro",
+    "imagem lavada",
+    "cores estranhas"
+   ],
+   "l": [
+    "No leitor há correção de cor ao vivo: brilho, contraste, saturação e gama, sem saíres do episódio."
+   ]
+  },
+  "pip": {
+   "t": "Janela flutuante (PiP)",
+   "k": [
+    "picture in picture",
+    "janela flutuante",
+    "miniatura",
+    "ver enquanto faco outra coisa",
+    "pip",
+    "janela pequena",
+    "video por cima"
+   ],
+   "l": [
+    "O modo Picture-in-Picture põe o vídeo numa janelinha por cima do resto para continuares a ver enquanto fazes outra coisa. No Android é nativo; no computador é uma janela flutuante."
+   ]
+  },
+  "gestos": {
+   "t": "Volume, brilho e gestos",
+   "k": [
+    "volume",
+    "gesto",
+    "gestos",
+    "deslizar",
+    "brilho do ecra",
+    "aumentar volume",
+    "avancar 10",
+    "recuar 10",
+    "saltar 10 segundos",
+    "volto atras",
+    "voltar atras",
+    "recuar",
+    "rebobinar",
+    "retroceder",
+    "avancar",
+    "andar para tras",
+    "ir para a frente",
+    "saltar para a frente",
+    "volto atras no video",
+    "barra de progresso para saltar"
+   ],
+   "l": [
+    "No telemóvel, desliza o dedo na parte direita do ecrã para o volume e na esquerda para o brilho. Tens também botões para avançar e recuar 10 segundos, e a barra de progresso mostra quanto já está carregado: carrega nela para ires direto a qualquer ponto."
+   ]
+  },
+  "proximo_ep": {
+   "t": "Próximo episódio",
+   "k": [
+    "proximo episodio",
+    "episodio seguinte",
+    "avancar episodio",
+    "passar episodio",
+    "proximo ep",
+    "nao consigo mudar de episodio"
+   ],
+   "l": [
+    "Enquanto vês um episódio, o seguinte já vai a descarregar em segundo plano, por isso costuma arrancar quase logo. Ao avançares, tento manter a mesma fonte que escolheste."
+   ]
+  },
+  "visto": {
+   "t": "Marcar como visto",
+   "k": [
+    "marcar como visto",
+    "episodio visto",
+    "nao marca visto",
+    "progresso nao guarda",
+    "visto automatico",
+    "desmarcar visto",
+    "marcou sozinho",
+    "como marco como visto",
+    "marco como visto"
+   ],
+   "l": [
+    "O episódio é marcado como visto sozinho depois de 5 minutos de reprodução a sério (se pausares, o tempo para). Também podes marcar ou desmarcar à mão na lista de episódios.",
+    "Se não marcou, confirma que tens um perfil ativo e que estás ligado à internet. Se continuar, avisa a equipa."
+   ]
+  },
+  "continuar": {
+   "t": "Continuar a ver",
+   "k": [
+    "continuar a ver",
+    "onde fiquei",
+    "retomar",
+    "ultimo episodio que vi",
+    "continuar assistir"
+   ],
+   "l": [
+    "Na Home tens a prateleira \"Continuar a ver\" com os últimos episódios que estavas a ver, para retomares com um clique."
+   ]
+  },
+  "estatisticas": {
+   "t": "Estatísticas do leitor",
+   "k": [
+    "estatisticas",
+    "velocidade de descarga",
+    "ligacoes",
+    "percentagem descarregada",
+    "stats"
+   ],
+   "l": [
+    "No leitor há estatísticas em tempo real (velocidade, ligações e percentagem descarregada) para quem gosta de números."
+   ]
+  },
+  "pasta": {
+   "t": "Onde ficam os ficheiros",
+   "k": [
+    "pasta",
+    "onde guarda",
+    "ficheiros temporarios",
+    "espaco no disco",
+    "apagar ficheiros",
+    "pasta de download",
+    "pasta dos downloads",
+    "ocupa espaco",
+    "mudar pasta",
+    "disco cheio"
+   ],
+   "l": [
+    "No computador, os episódios ficam guardados temporariamente e a app limpa-os sozinha. Para escolher onde ficam, vai às Definições, separador Geral, \"Pasta dos Downloads\": escolhes a pasta e reinicias a app."
+   ]
+  },
+  "ecra_inteiro": {
+   "t": "Ecrã inteiro",
+   "k": [
+    "ecra inteiro",
+    "tela cheia",
+    "fullscreen",
+    "ecra cheio"
+   ],
+   "l": [
+    "No leitor tens o botão de ecrã inteiro, junto aos controlos."
+   ]
+  },
+  "login": {
+   "t": "Entrar na conta",
+   "k": [
+    "login",
+    "entrar",
+    "iniciar sessao",
+    "palavra passe",
+    "password",
+    "senha",
+    "nao consigo entrar",
+    "nao entra",
+    "login nao funciona",
+    "erro no login",
+    "entrar com email",
+    "posso entrar com email",
+    "registo com email",
+    "email e palavra passe",
+    "nao recebo o email",
+    "nao chega o email"
+   ],
+   "l": [
+    "A entrada é feita com o Discord ou com o Google, sem palavra-passe: carregas no botão e autorizas. Não existe registo com email e palavra-passe, de propósito, por segurança.",
+    "Se não consegues entrar, confirma que estás ligado à internet e que usas a mesma conta de sempre. Se continuar, diz à equipa o que aparece no ecrã."
+   ]
+  },
+  "perfis": {
+   "t": "Perfis",
+   "k": [
+    "perfil",
+    "perfis",
+    "criar perfil",
+    "trocar perfil",
+    "mudar de perfil",
+    "varios perfis",
+    "partilhar conta",
+    "mudo de perfil",
+    "como mudo de perfil",
+    "crio outro perfil",
+    "como crio outro perfil",
+    "adicionar perfil",
+    "novo perfil"
+   ],
+   "l": [
+    "Podes ter vários perfis na mesma conta, cada um com a sua lista, o seu progresso e o seu XP, como na Netflix. Crias e escolhes no ecrã de perfis quando entras."
+   ]
+  },
+  "editar_perfil": {
+   "t": "Mudar nome, avatar e banner",
+   "k": [
+    "mudar nome",
+    "mudar avatar",
+    "foto de perfil",
+    "mudo a minha foto",
+    "mudar foto",
+    "minha foto",
+    "nome de utilizador",
+    "alterar nome",
+    "mudar o nome",
+    "banner",
+    "bio",
+    "editar perfil",
+    "cor de fundo",
+    "moldura do avatar",
+    "mudar a minha imagem"
+   ],
+   "l": [
+    "No teu perfil carrega em \"Editar perfil\": lá mudas o nome (tem um limite de letras) e escolhes o avatar. Para a bio, o banner, a cor de fundo e a vitrine usa \"Editar história e tema\". A moldura do avatar escolhe-se com as que já tens."
+   ]
+  },
+  "perdi_progresso": {
+   "t": "Perdi o meu progresso",
+   "k": [
+    "perdi progresso",
+    "perdi o meu progresso",
+    "progresso desapareceu",
+    "lista vazia",
+    "perdi a lista",
+    "desapareceu a minha lista",
+    "episodios vistos desapareceram",
+    "perdi episodios vistos",
+    "voltou ao inicio"
+   ],
+   "l": [
+    "Primeiro confirma que estás no perfil certo: cada perfil tem a sua lista e o seu progresso. Muda de perfil e vê se está lá. Confirma também que estás ligado à internet.",
+    "Se o progresso continuar em falta, diz à equipa qual a obra e qual o perfil, que eles verificam."
+   ]
+  },
+  "vitrine": {
+   "t": "Vitrine do perfil",
+   "k": [
+    "vitrine",
+    "anime favorito no perfil",
+    "destaque no perfil",
+    "obra em destaque"
+   ],
+   "l": [
+    "A vitrine mostra, no teu perfil, a obra ou franquia favorita que escolheres, para quem te visita."
+   ]
+  },
+  "apagar_conta": {
+   "t": "Apagar a conta ou os dados",
+   "k": [
+    "apagar conta",
+    "apago conta",
+    "eliminar conta",
+    "elimino conta",
+    "cancelar conta",
+    "apagar os meus dados",
+    "privacidade",
+    "rgpd",
+    "dados pessoais",
+    "remover conta",
+    "sair da plataforma",
+    "apagar o perfil",
+    "apago o perfil",
+    "eliminar perfil",
+    "remover perfil"
+   ],
+   "l": [
+    "Para apagar a conta ou pedir informação sobre os teus dados, fala com a equipa pelo suporte: eles tratam disso."
+   ]
+  },
+  "forum": {
+   "t": "Fórum",
+   "k": [
+    "forum",
+    "topico",
+    "topicos",
+    "comentar",
+    "comentario",
+    "comentarios",
+    "discussao",
+    "regras do forum"
+   ],
+   "l": [
+    "No Fórum podes criar tópicos e comentar. Pede-se o básico: respeito, sem insultos e cuidado com os spoilers. Se vires algo errado, usa a opção de denunciar."
+   ]
+  },
+  "forum_niveis": {
+   "t": "Os níveis (camadas) do fórum",
+   "k": [
+    "onde postar",
+    "onde publicar",
+    "niveis do forum",
+    "camadas do forum",
+    "layers do forum",
+    "layers",
+    "camadas",
+    "forum do episodio",
+    "forum da temporada",
+    "forum da franquia",
+    "forum da obra",
+    "forum do anime",
+    "forum geral",
+    "tipos de forum",
+    "forum por episodio",
+    "forum de uma obra"
+   ],
+   "l": [
+    "O fórum tem cinco camadas, cada uma com o seu espaço: Geral (a comunidade), Franquia (o universo todo, por exemplo One Piece), Obra, Temporada e Episódio. Assim a conversa de um episódio não se mistura com spoilers do geral. Vês e crias tópicos em cada camada pelo Fórum (com filtros), pelo separador Fórum da página da obra, ou pelo leitor, no episódio que estás a ver."
+   ]
+  },
+  "mencoes": {
+   "t": "Mencionar alguém",
+   "k": [
+    "mencionar",
+    "mencao",
+    "mencoes",
+    "marcar alguem",
+    "arroba",
+    "usar @"
+   ],
+   "l": [
+    "Escreve @ e o nome da pessoa: aparecem sugestões e ela recebe uma notificação."
+   ]
+  },
+  "reacoes": {
+   "t": "Upvotes e gostos",
+   "k": [
+    "upvote",
+    "downvote",
+    "gosto",
+    "gostar",
+    "reacao",
+    "reacoes",
+    "votar",
+    "dar like",
+    "like"
+   ],
+   "l": [
+    "Podes dar upvote ou downvote em tópicos e comentários, e dar \"gosto\" às avaliações de outras pessoas."
+   ]
+  },
+  "formatacao": {
+   "t": "Formatar texto",
+   "k": [
+    "negrito",
+    "italico",
+    "rasurado",
+    "formatar",
+    "formatacao",
+    "imagem no forum",
+    "colocar imagem",
+    "link no forum",
+    "colocar link",
+    "partilhar links",
+    "posso partilhar links",
+    "partilhar link",
+    "enviar imagem no forum",
+    "como envio uma imagem"
+   ],
+   "l": [
+    "No fórum dá para usar negrito (**assim**), itálico (*assim*), rasurado (~~assim~~), links e imagens, tudo com uma sintaxe simples."
+   ]
+  },
+  "denunciar": {
+   "t": "Denunciar conteúdo",
+   "k": [
+    "denunciar",
+    "reportar",
+    "spam",
+    "ofensivo",
+    "insulto",
+    "assedio",
+    "conteudo impróprio",
+    "denuncia",
+    "insultar",
+    "insulta",
+    "insultaram",
+    "alguem me esta a insultar",
+    "ameacas",
+    "ofensas",
+    "discurso de odio",
+    "me insultou",
+    "bullying"
+   ],
+   "l": [
+    "Se vires algo ofensivo ou spam, usa a opção de denunciar no tópico, comentário ou avaliação, e escolhe o motivo que melhor descreve. A equipa analisa."
+   ]
+  },
+  "traducao_forum": {
+   "t": "Traduzir comentários",
+   "k": [
+    "traduzir comentario",
+    "traduzir topico",
+    "botao traduzir",
+    "comentario noutra lingua",
+    "traducao do forum"
+   ],
+   "l": [
+    "Há um botão de tradução nos tópicos, comentários e avaliações: traduz para a língua da tua app com um clique."
+   ]
+  },
+  "avaliacoes": {
+   "t": "Avaliar obras",
+   "k": [
+    "avaliar",
+    "avaliacao",
+    "avaliacoes",
+    "nota",
+    "estrelas",
+    "review",
+    "classificar"
+   ],
+   "l": [
+    "Podes avaliar uma obra, uma temporada ou um episódio, de 0,5 a 5 estrelas, e deixar um comentário. No fim de um episódio também aparece um popup rápido para dares a nota."
+   ]
+  },
+  "seguir_pessoas": {
+   "t": "Seguir pessoas",
+   "k": [
+    "seguir utilizador",
+    "seguir pessoa",
+    "seguidores",
+    "seguir alguem",
+    "deixar de seguir"
+   ],
+   "l": [
+    "Podes seguir outras pessoas no perfil delas. É diferente de subscrever uma obra, que serve para receberes avisos de episódios novos."
+   ]
+  },
+  "xp": {
+   "t": "XP e níveis",
+   "k": [
+    "xp",
+    "=sistema de xp",
+    "=como funciona o xp",
+    "=como funciona o sistema de xp",
+    "=formas de ganhar xp",
+    "=ganhar xp",
+    "nivel",
+    "niveis",
+    "subir de nivel",
+    "experiencia",
+    "barra de xp",
+    "como ganhar xp",
+    "subo de nivel",
+    "como subo de nivel",
+    "quanto xp preciso",
+    "xp para o proximo nivel"
+   ],
+   "l": [
+    "Ganhas XP de duas maneiras. 1) Por ação: ver um episódio (2 XP se o marcares à mão; 100 XP quando a app deteta que viste a sério, até 20 episódios por dia), subscrever uma obra (30), avaliar (30), comentar (50), receber um upvote (50), criar um tópico (200) e ganhar um seguidor novo (400, uma só vez por pessoa). 2) Por conquistas: cada badge dá XP uma vez (de 300 a 50 000, conforme a raridade) e os troféus mensais dão 10 000, 6 000 ou 3 500. Os níveis ficam mais exigentes à medida que sobes; a barra no teu perfil mostra quanto falta para o próximo."
+   ]
+  },
+  "badges": {
+   "t": "Conquistas (badges)",
+   "k": [
+    "badge",
+    "badges",
+    "conquista",
+    "conquistas",
+    "medalha",
+    "medalhas",
+    "desbloquear",
+    "conquistas",
+    "como vejo as minhas conquistas",
+    "as minhas conquistas",
+    "ver conquistas"
+   ],
+   "l": [
+    "As conquistas desbloqueiam sozinhas quando fazes certas coisas, como ver episódios, avaliar ou comentar. Há quatro níveis de raridade e escolhes quais mostrar no teu perfil."
+   ]
+  },
+  "rankings": {
+   "t": "Rankings",
+   "k": [
+    "ranking",
+    "rankings",
+    "classificacao",
+    "top",
+    "posicao",
+    "leaderboard",
+    "funciona ranking",
+    "funcionam rankings",
+    "como funciona o ranking",
+    "tabela de classificacao"
+   ],
+   "l": [
+    "Há rankings por categoria: episódios vistos, XP, reputação, tópicos, comentários, conquistas, moedas, seguidores e tamanho da lista. No teu perfil vês a tua posição em cada um e se subiste ou desceste. No fim de cada mês o pódio ganha troféus."
+   ]
+  },
+  "moedas": {
+   "t": "Moedas e Loja",
+   "k": [
+    "moeda",
+    "moedas",
+    "coins",
+    "loja",
+    "comprar moedas",
+    "pacote de moedas",
+    "pagamento",
+    "cartao",
+    "paypal",
+    "stripe",
+    "loja nao abre",
+    "loja nao carrega",
+    "loja com problema",
+    "quanto custam as moedas",
+    "preco das moedas",
+    "como uso as moedas",
+    "o que posso comprar",
+    "as moedas expiram",
+    "trocar moedas",
+    "perdi as minhas moedas",
+    "perdi moedas"
+   ],
+   "l": [
+    "A Loja vende pacotes de moedas, pagas dentro da app (cartão ou PayPal). O preço é sempre decidido pelo servidor, por segurança. As moedas servem para personalizar o teu perfil.",
+    "Se o pagamento falhou ou as moedas não chegaram, abre um pedido de suporte na categoria Compras."
+   ]
+  },
+  "compra_nao_chegou": {
+   "t": "Paguei e não recebi",
+   "k": [
+    "paguei e nao recebi",
+    "moedas nao chegaram",
+    "nao recebi moedas",
+    "reembolso",
+    "pagamento falhou",
+    "cobraram",
+    "compra nao chegou",
+    "devolver dinheiro"
+   ],
+   "l": [
+    "Lamento! Abre um pedido de suporte na categoria Compras e conta o que aconteceu: a equipa verifica o pagamento."
+   ]
+  },
+  "molduras": {
+   "t": "Molduras e personalização",
+   "k": [
+    "moldura",
+    "molduras",
+    "personalizar perfil",
+    "customizar",
+    "avatar animado",
+    "comprar moldura"
+   ],
+   "l": [
+    "Com moedas compras molduras animadas para o avatar e outras personalizações do perfil. Escolhes a que queres usar no teu perfil."
+   ]
+  },
+  "minha_lista": {
+   "t": "Minha Lista",
+   "k": [
+    "minha lista",
+    "lista",
+    "favoritos",
+    "guardar anime",
+    "plano para ver",
+    "ja vi",
+    "arrastar",
+    "organizar lista",
+    "adicionar a lista",
+    "como adiciono a minha lista",
+    "como vejo o que ja vi",
+    "o que ja vi",
+    "anime visto"
+   ],
+   "l": [
+    "Em \"Minha Lista\" organizas o que estás a ver, o que queres ver e o que já acabaste, arrastando as obras entre colunas. Para adicionar uma, carrega em \"Minha Lista\" na página da obra."
+   ]
+  },
+  "seguir": {
+   "t": "Avisos de episódios novos",
+   "k": [
+    "subscrever",
+    "subscrito",
+    "notificacao",
+    "notificacoes",
+    "aviso de episodio",
+    "avisar",
+    "novo episodio",
+    "sino",
+    "nao recebo notificacoes",
+    "quando sai um episodio",
+    "como sei quando sai"
+   ],
+   "l": [
+    "Se carregares em \"Subscrever\" na página de uma obra, aviso-te quando sair um episódio novo. Os avisos aparecem no sino lá em cima.",
+    "Nas Definições escolhes que avisos queres receber: respostas, menções, seguidores e episódios novos. Confirma que não os desligaste por engano."
+   ]
+  },
+  "calendario": {
+   "t": "Calendário de estreias",
+   "k": [
+    "calendario",
+    "estreias",
+    "quando sai",
+    "quando estreia",
+    "proximo episodio quando",
+    "dia do episodio",
+    "quando sai o proximo episodio",
+    "proximo episodio de one piece",
+    "proximo episodio de"
+   ],
+   "l": [
+    "O calendário mostra as estreias das obras da tua lista (incluindo as sequelas diretas das que segues). Na página de uma obra em exibição também vês quanto falta para o próximo episódio."
+   ]
+  },
+  "pesquisa": {
+   "t": "Pesquisar",
+   "k": [
+    "pesquisar",
+    "procurar",
+    "pesquisa",
+    "nao encontro",
+    "nao encontro anime",
+    "nao acho",
+    "barra de pesquisa"
+   ],
+   "l": [
+    "A pesquisa lá em cima procura obras e também perfis de pessoas, e ignora acentos. Se não encontras uma obra, experimenta o nome em inglês ou em romaji."
+   ]
+  },
+  "franquias": {
+   "t": "Franquias e temporadas",
+   "k": [
+    "franquia",
+    "franquias",
+    "temporadas juntas",
+    "hub",
+    "main hub",
+    "varias temporadas",
+    "saga",
+    "obras agrupadas"
+   ],
+   "l": [
+    "As obras da mesma saga aparecem juntas num só cartão (uma \"franquia\"), por exemplo Naruto e Shippuden. Lá dentro escolhes a obra ou a temporada."
+   ]
+  },
+  "filtros": {
+   "t": "Filtros e ordenação",
+   "k": [
+    "filtrar",
+    "filtro",
+    "filtros",
+    "genero",
+    "generos",
+    "ordenar",
+    "ordenacao",
+    "por ano",
+    "por formato"
+   ],
+   "l": [
+    "Na página de Animes filtras por género, formato, estado de emissão e ano, e ordenas de várias maneiras, tudo combinado ao mesmo tempo."
+   ]
+  },
+  "adulto": {
+   "t": "Conteúdo para adultos",
+   "k": [
+    "conteudo adulto",
+    "18+",
+    "aviso de idade",
+    "maiores de idade",
+    "conteudo explicito",
+    "nsfw"
+   ],
+   "l": [
+    "Algumas obras são só para maiores de idade: ao abrir os detalhes aparece um aviso para confirmares. Está lá para ficar tudo claro."
+   ]
+  },
+  "onde_ver": {
+   "t": "Onde ver oficialmente",
+   "k": [
+    "onde ver",
+    "onde assistir",
+    "oficial",
+    "oficiais",
+    "netflix",
+    "crunchyroll",
+    "servico oficial"
+   ],
+   "l": [
+    "Na página de cada série, ao lado dos botões, mostro os serviços oficiais onde a obra está disponível na tua região. Só aparece quando há dados para o teu país."
+   ]
+  },
+  "plataformas": {
+   "t": "Onde funciona a app",
+   "k": [
+    "=funciona em",
+    "=funciona no",
+    "=funciona na",
+    "=disponivel para",
+    "=tem versao para",
+    "=tem app para",
+    "=versao para",
+    "=app para",
+    "android",
+    "telemovel",
+    "telefone",
+    "mac",
+    "macos",
+    "linux",
+    "windows",
+    "computador",
+    "instalar no windows",
+    "preciso de instalar",
+    "em que plataformas funciona",
+    "plataformas suportadas",
+    "que sistemas suporta"
+   ],
+   "l": [
+    "A AnimeLayer funciona em Windows, macOS, Linux, Android e Android TV. Usas a mesma conta em todos, e a tua lista e o teu progresso acompanham-te."
+   ]
+  },
+  "android_tv": {
+   "t": "Android TV",
+   "k": [
+    "android tv",
+    "comando da tv",
+    "televisor",
+    "smart tv",
+    "box de tv",
+    "tv box"
+   ],
+   "l": [
+    "A app funciona em Android TV e navega-se com o comando."
+   ]
+  },
+  "atualizar": {
+   "t": "Atualizar a app",
+   "k": [
+    "atualizar",
+    "atualizacao",
+    "nova versao",
+    "update",
+    "versao",
+    "nao atualiza",
+    "atualizar app",
+    "atualizo a app",
+    "atualizo app",
+    "como atualizo",
+    "como atualizar"
+   ],
+   "l": [
+    "A app avisa quando há uma versão nova e atualiza-se sozinha (no Windows e no Android). Se não atualizar, fecha e abre a app outra vez.",
+    "Se mesmo assim ficar na versão antiga, diz à equipa qual versão tens e em que sistema estás."
+   ]
+  },
+  "discord_presence": {
+   "t": "Atividade no Discord",
+   "k": [
+    "discord atividade",
+    "presenca discord",
+    "o que estou a ver no discord",
+    "rich presence",
+    "discord mostra",
+    "desligar discord",
+    "presenca rica"
+   ],
+   "l": [
+    "No computador, a app mostra no teu Discord o que estás a ver (obra, episódio e capa) para os teus amigos. Se não queres, desliga \"Presença Rica do Discord\" nas Definições, no separador Geral."
+   ]
+  },
+  "bandeja": {
+   "t": "Bandeja e arranque automático",
+   "k": [
+    "bandeja",
+    "tray",
+    "iniciar com o windows",
+    "arrancar sozinho",
+    "minimizar",
+    "abrir com o computador",
+    "arranque automatico",
+    "esconder a app",
+    "fechar a app",
+    "a app fecha ao sair"
+   ],
+   "l": [
+    "Nas Definições, no separador Geral, podes ativar \"Minimizar para o Tray\" (em vez de sair, a app fica escondida junto ao relógio) e \"Iniciar com o Windows\" (abre sozinha quando ligas o computador). Ambos são opcionais e só existem no computador."
+   ]
+  },
+  "idioma_app": {
+   "t": "Mudar a língua da app",
+   "k": [
+    "idioma",
+    "lingua",
+    "mudar lingua",
+    "mudar idioma",
+    "traduzir a app",
+    "ingles",
+    "espanhol",
+    "bandeira",
+    "em portugues",
+    "app em portugues",
+    "tem portugues",
+    "portugues da app",
+    "mudar para ingles",
+    "tem em ingles",
+    "app em ingles"
+   ],
+   "l": [
+    "Lá em cima, ao lado do teu perfil, tens a bandeira para mudar a língua da app. Está disponível em 12 línguas."
+   ]
+  },
+  "manutencao": {
+   "t": "App em manutenção",
+   "k": [
+    "manutencao",
+    "em manutencao",
+    "app em baixo",
+    "servidor em baixo",
+    "nao abre",
+    "esta em baixo"
+   ],
+   "l": [
+    "Às vezes a equipa põe a app em manutenção para melhorar coisas. Costuma ser rápido: tenta outra vez daqui a pouco.",
+    "Se passar muito tempo ou a mensagem não for de manutenção, avisa a equipa."
+   ]
+  },
+  "lenta": {
+   "t": "A app está lenta",
+   "k": [
+    "app lenta",
+    "a app trava",
+    "consome memoria",
+    "esta pesada",
+    "bugada",
+    "a app fecha sozinha",
+    "app lenta no telemovel",
+    "a app fecha sozinha",
+    "a app fecha",
+    "fecha sozinha",
+    "app crasha",
+    "a app crasha"
+   ],
+   "l": [
+    "Fecha e abre a app outra vez e confirma que tens a última versão. Se acontecer sempre no mesmo sítio, diz-me onde e passo à equipa."
+   ]
+  },
+  "bug": {
+   "t": "Encontrei um problema",
+   "k": [
+    "bug",
+    "erro",
+    "problema",
+    "crash",
+    "falha",
+    "fecha",
+    "fechou",
+    "nao funciona",
+    "deixou de funcionar",
+    "avariou",
+    "estragou",
+    "mensagem de erro"
+   ],
+   "l": [
+    "Que chato! Conta-me à equipa o que aconteceu: o que carregaste, em que episódio e se apareceu alguma mensagem. Quanto mais detalhes, mais depressa o resolvem."
+   ]
+  },
+  "banido": {
+   "t": "Punição ou ban",
+   "k": [
+    "banido",
+    "suspenso",
+    "punicao",
+    "silenciado",
+    "castigo",
+    "fui banido",
+    "conta bloqueada"
+   ],
+   "l": [
+    "Se foste punido, a mensagem explica o motivo. Se achas que foi engano, fala com a equipa pelo suporte."
+   ]
+  },
+  "suporte": {
+   "t": "Falar com a equipa",
+   "k": [
+    "falar com a equipa",
+    "ticket",
+    "suporte",
+    "ajuda humana",
+    "contactar",
+    "falar com alguem",
+    "pessoa real",
+    "staff",
+    "moderador",
+    "como contactar a equipa",
+    "contactar a equipa",
+    "contacto",
+    "email da equipa",
+    "falar com um moderador",
+    "falo com um moderador",
+    "como falo com um moderador",
+    "falo com a equipa",
+    "como falo com a equipa",
+    "falar com um moderador"
+   ],
+   "l": [
+    "Podes falar com a equipa pelo Suporte: escolhes uma categoria (Compras, Personalização, Badges, Fórum ou Outro) e conversas por lá, com o histórico guardado."
+   ]
+  },
+  "sugestoes": {
+   "t": "Dar uma sugestão",
+   "k": [
+    "sugestao",
+    "sugestoes",
+    "ideia",
+    "feedback",
+    "funcionalidade nova",
+    "queria que",
+    "seria fixe",
+    "pedido de funcionalidade"
+   ],
+   "l": [
+    "Adoro ideias! Conta-as à equipa pelo suporte, na categoria Outro. Tudo o que chega é lido."
+   ]
+  },
+  "preco": {
+   "t": "É grátis?",
+   "k": [
+    "e gratis",
+    "custa",
+    "pagar para usar",
+    "premium",
+    "subscricao paga",
+    "tem custos",
+    "quanto custa",
+    "gratuito"
+   ],
+   "l": [
+    "Usar a app não custa nada. As moedas da Loja são opcionais e servem para personalizar o perfil."
+   ]
+  },
+  "trofeus": {
+   "t": "Troféus dos rankings",
+   "k": [
+    "trofeu mensal",
+    "trofeus mensais",
+    "premio ranking",
+    "ganhar trofeu",
+    "podio",
+    "top 3",
+    "medalha de ranking",
+    "trofeu",
+    "trofeus",
+    "o que sao trofeus",
+    "o que e um trofeu"
+   ],
+   "l": [
+    "No fim de cada mês (e de cada ano) fecham os rankings: quem fica no pódio de cada categoria ganha um troféu, XP e uma notificação com os resultados. Os troféus ficam guardados no separador Rankings do teu perfil."
+   ]
+  },
+  "limites_xp": {
+   "t": "Porque o XP não sobe mais",
+   "k": [
+    "limite diario",
+    "xp nao sobe",
+    "nao ganho xp",
+    "limite de xp",
+    "xp parou",
+    "porque nao ganho xp",
+    "limite de comentarios"
+   ],
+   "l": [
+    "Para evitar abusos há limites diários nas ações que dão XP (por exemplo, nos episódios marcados automaticamente e nos comentários). Quando chegas ao limite, o resto do dia não dá mais XP dessa ação; no dia seguinte volta tudo ao normal."
+   ]
+  },
+  "categorias_suporte": {
+   "t": "Que categoria escolher no suporte",
+   "k": [
+    "categoria suporte",
+    "qual categoria",
+    "escolher categoria",
+    "categorias do ticket",
+    "tipo de ticket"
+   ],
+   "l": [
+    "No suporte escolhes uma categoria: Compras (pagamentos e moedas), Personalização (molduras e perfil), Badges, Fórum, ou Outro para tudo o resto. Escolhe a que mais se aproxima; a equipa vê todas."
+   ]
+  },
+  "resposta_suporte": {
+   "t": "Quando respondem ao suporte",
+   "k": [
+    "demora suporte",
+    "quando respondem",
+    "ninguem responde",
+    "resposta do suporte",
+    "ticket sem resposta",
+    "quanto tempo suporte"
+   ],
+   "l": [
+    "A primeira mensagem do pedido é automática (vem como \"AnimeLayer\"); depois responde uma pessoa da equipa, e vês a conversa toda no próprio pedido. Não consigo dizer-te quanto demora, mas podes continuar a conversa enquanto o pedido não estiver resolvido."
+   ]
+  },
+  "multiplos_dispositivos": {
+   "t": "Usar em vários aparelhos",
+   "k": [
+    "varios dispositivos",
+    "telemovel e computador",
+    "mesma conta em dois",
+    "sincronizar",
+    "sincroniza",
+    "dois aparelhos",
+    "trocar de aparelho"
+   ],
+   "l": [
+    "Entras com a mesma conta em qualquer aparelho e a tua lista, o teu progresso e as tuas conquistas acompanham-te. Os ficheiros dos episódios é que ficam em cada aparelho, temporariamente."
+   ]
+  },
+  "sem_internet": {
+   "t": "Sem internet",
+   "k": [
+    "sem internet",
+    "offline",
+    "sem rede",
+    "sem ligacao",
+    "sem wifi",
+    "ver sem internet",
+    "modo offline"
+   ],
+   "l": [
+    "A app precisa de internet para o catálogo, a tua conta e os episódios. Não há modo offline por agora."
+   ]
+  },
+  "comunidade_regras": {
+   "t": "Regras da comunidade",
+   "k": [
+    "regras",
+    "o que posso escrever",
+    "posso insultar",
+    "comportamento",
+    "regras da comunidade",
+    "o que e proibido",
+    "moderacao"
+   ],
+   "l": [
+    "O básico: respeito pelas outras pessoas, sem insultos, spam ou assédio, e cuidado com os spoilers. A equipa de moderação analisa as denúncias e pode silenciar ou banir quem não cumpre."
+   ]
+  },
+  "apagar_comentario": {
+   "t": "Apagar ou editar um comentário",
+   "k": [
+    "apagar comentario",
+    "editar comentario",
+    "apagar topico",
+    "editar topico",
+    "remover o meu comentario",
+    "corrigir comentario",
+    "edito comentario",
+    "edito o meu comentario",
+    "apago comentario",
+    "apago o meu comentario",
+    "apago o meu topico",
+    "edito o meu topico",
+    "apago topico",
+    "edito topico",
+    "apagar o meu topico",
+    "editar o meu topico"
+   ],
+   "l": [
+    "Podes editar os teus próprios tópicos e comentários, e apagá-los desde que ainda não tenham respostas de outras pessoas (depois de alguém responder já não dá para apagar). Se precisares de ajuda com um caso especial, fala com a equipa."
+   ]
+  },
+  "comecar": {
+   "t": "Primeiros passos",
+   "k": [
+    "como comeco",
+    "primeiros passos",
+    "como funciona",
+    "como usar",
+    "tutorial",
+    "comecar a usar",
+    "por onde comecar",
+    "o que e a animelayer",
+    "para que serve a app",
+    "como uso a app",
+    "sou novo"
+   ],
+   "l": [
+    "Bem-vindo! Em poucos passos: 1) entras com o Discord ou o Google; 2) escolhes ou crias um perfil; 3) nas Definições adicionas o addon que quiseres usar para ter fontes; 4) abres uma obra e carregas para ver. O resto (lista, avisos, fórum, XP) vais descobrindo pelo caminho."
+   ]
+  },
+  "p2p": {
+   "t": "O que é partilha P2P",
+   "k": [
+    "p2p",
+    "torrent",
+    "bittorrent",
+    "como funciona o download",
+    "vpn",
+    "meu ip",
+    "ip visivel",
+    "o que e p2p",
+    "partilha de ficheiros",
+    "seeders",
+    "peers",
+    "upload",
+    "fonte sem ninguem a partilhar",
+    "sem ninguem a partilhar"
+   ],
+   "l": [
+    "É uma forma de partilhar ficheiros em que as pessoas trocam pedaços entre si, em vez de tudo vir de um só servidor. A app trata disso por ti e mostra o episódio enquanto vai descarregando. Nesse tipo de partilha, o teu endereço de rede fica visível para quem está a partilhar o mesmo ficheiro; se isso te preocupa, podes usar uma VPN."
+   ]
+  },
+  "addon_erro": {
+   "t": "Erro ao instalar um addon",
+   "k": [
+    "addon invalido",
+    "url inacessivel",
+    "erro ao instalar addon",
+    "nao consigo instalar addon",
+    "addon nao instala",
+    "addon ja instalado",
+    "ja esta instalado",
+    "endereco do addon",
+    "url do addon",
+    "erro addon",
+    "erro no addon",
+    "addon da erro",
+    "addon com erro",
+    "porque aparece erro no addon",
+    "addon deixou de funcionar",
+    "o addon nao funciona"
+   ],
+   "l": [
+    "Se aparece \"Addon inválido ou URL inacessível\", confirma que o endereço está completo e certo (copia-o outra vez) e que o addon está no ar: ao abri-lo no navegador deve aparecer um texto com o nome do addon. Se diz que já está instalado, está tudo bem: já o tens. Falta só ativá-lo.",
+    "Se mesmo assim falhar, o addon pode estar em baixo ou ter mudado de endereço. Experimenta mais tarde, ou usa outro endereço do mesmo addon."
+   ]
+  },
+  "addon_configurar": {
+   "t": "Configurar um addon",
+   "k": [
+    "configurar addon",
+    "botao configurar",
+    "configuracao do addon",
+    "addon pede configuracao",
+    "definir opcoes do addon",
+    "configure"
+   ],
+   "l": [
+    "Alguns addons têm uma página de configuração. Nas Definições, no separador Addons, aparece o botão \"Configurar\" nesses addons: abre a página do próprio addon, onde fazes as tuas escolhas."
+   ]
+  },
+  "addons_embutidos": {
+   "t": "Addons que já vêm na app",
+   "k": [
+    "layercatalog",
+    "layersubs",
+    "layertranslate",
+    "addons embutidos",
+    "addons da animelayer",
+    "addons que vem na app",
+    "o que sao estes addons"
+   ],
+   "l": [
+    "Vêm três na app, sempre prontos: o LayerCatalog (pesquisa, listas e páginas das obras), o LayerSubs (legendas extra em dezenas de línguas, com dados da OpenSubtitles) e o LayerTranslate (traduz tópicos, comentários e avaliações com um clique). Os addons de fontes de episódios são outra coisa: esses escolhes e instalas tu."
+   ]
+  },
+  "definicoes": {
+   "t": "O que há nas Definições",
+   "k": [
+    "definicoes",
+    "configuracoes",
+    "opcoes da app",
+    "onde fica nas definicoes",
+    "ajustes",
+    "settings"
+   ],
+   "l": [
+    "As Definições têm cinco separadores: Geral (bandeja, arranque, pasta dos downloads, cache), Addons, Notificações, Compras (o teu histórico) e Atualizações (versão atual e novidades)."
+   ]
+  },
+  "historico_compras": {
+   "t": "Ver as minhas compras",
+   "k": [
+    "historico de compras",
+    "ver compras",
+    "as minhas compras",
+    "compras feitas",
+    "recibo",
+    "fatura",
+    "comprovativo"
+   ],
+   "l": [
+    "Nas Definições, no separador Compras, vês o histórico das tuas compras de moedas. Se precisares de um comprovativo ou algo estiver errado, abre um pedido de suporte na categoria Compras."
+   ]
+  },
+  "limpar_cache": {
+   "t": "Limpar a cache",
+   "k": [
+    "limpar cache",
+    "cache",
+    "apagar cache",
+    "imagens nao carregam",
+    "imagens erradas",
+    "dados temporarios",
+    "a app ocupa espaco"
+   ],
+   "l": [
+    "Nas Definições, no separador Geral, há \"Limpar Cache Local\": apaga as imagens e os dados temporários guardados na app. É seguro; a app volta a descarregar o que precisar. Costuma resolver imagens que não aparecem."
+   ]
+  },
+  "versao_novidades": {
+   "t": "Que versão tenho / novidades",
+   "k": [
+    "que versao tenho",
+    "versao atual",
+    "novidades",
+    "changelog",
+    "o que mudou",
+    "notas da versao",
+    "patch notes",
+    "ultima versao"
+   ],
+   "l": [
+    "Nas Definições, no separador Atualizações, vês a versão que tens e as novidades de cada versão. Também dizem se tens a última."
+   ]
+  },
+  "card_novo_episodio": {
+   "t": "Aviso no ecrã de episódio novo",
+   "k": [
+    "aviso no ecra",
+    "popup novo episodio",
+    "card novo episodio",
+    "aviso aparece no ecra",
+    "desligar aviso de episodio",
+    "notificacao no ecra",
+    "cartao de novo episodio"
+   ],
+   "l": [
+    "Quando sai um episódio novo de uma obra que segues, aparece um aviso no ecrã. Se não gostas, nas Definições → Notificações desliga \"Card ao Vivo de Novo Episódio\": continuas a ver o aviso no sino."
+   ]
+  },
+  "tipos_notificacoes": {
+   "t": "Que avisos posso receber",
+   "k": [
+    "que notificacoes",
+    "tipos de notificacoes",
+    "quando recebo avisos",
+    "desligar notificacoes",
+    "configurar notificacoes",
+    "notificacoes demais",
+    "muitas notificacoes"
+   ],
+   "l": [
+    "Nas Definições → Notificações escolhes cada tipo: respostas aos teus posts, menções, novos seguidores, tópicos e avaliações de quem segues, e episódios novos. Podes ligar e desligar cada um."
+   ]
+  },
+  "abas_obra": {
+   "t": "Separadores da página de uma obra",
+   "k": [
+    "separadores",
+    "abas",
+    "o que ha na pagina do anime",
+    "pagina da obra",
+    "visao geral",
+    "onde ficam os filmes",
+    "onde ficam os especiais",
+    "onde ficam as ovas",
+    "filmes",
+    "ovas",
+    "ova",
+    "especiais"
+   ],
+   "l": [
+    "Na página de uma obra tens separadores: Visão geral (sinopse e trailers), Temporadas, Temas (aberturas e encerramentos), Especiais, Filmes, Elenco, Avaliações e Fórum. Os filmes, OVAs e especiais ficam nos separadores Especiais e Filmes."
+   ]
+  },
+  "trailers": {
+   "t": "Trailers",
+   "k": [
+    "trailer",
+    "trailers",
+    "ver trailer",
+    "onde esta o trailer",
+    "teaser",
+    "promo"
+   ],
+   "l": [
+    "Quando existem, os trailers aparecem na Visão geral da página da obra, com o vídeo a abrir ali mesmo."
+   ]
+  },
+  "temas_musicas": {
+   "t": "Músicas de abertura e encerramento",
+   "k": [
+    "temas",
+    "musicas",
+    "opening",
+    "ending",
+    "abertura musica",
+    "musica da abertura",
+    "qual a musica",
+    "nome da musica",
+    "banda sonora"
+   ],
+   "l": [
+    "No separador Temas da página da obra vês as aberturas e os encerramentos, com os nomes das músicas, quando a informação existe."
+   ]
+  },
+  "elenco": {
+   "t": "Elenco e personagens",
+   "k": [
+    "elenco",
+    "personagens",
+    "dobladores",
+    "atores",
+    "vozes",
+    "quem faz a voz",
+    "cast"
+   ],
+   "l": [
+    "No separador Elenco vês as personagens principais, secundárias e de fundo da obra, com quem lhes dá a voz."
+   ]
+  },
+  "obra_nao_encontrada": {
+   "t": "Não encontro uma obra",
+   "k": [
+    "nao encontro obra",
+    "nao existe no catalogo",
+    "falta um anime",
+    "anime nao aparece",
+    "obra nao aparece",
+    "catalogo incompleto",
+    "nao esta no catalogo",
+    "faltam animes"
+   ],
+   "l": [
+    "O catálogo é atualizado automaticamente, por isso uma obra muito recente (ou muito obscura) pode ainda não estar lá. Experimenta o nome em inglês ou em romaji, e confirma que não está dentro de uma franquia. Se continuar a faltar, diz à equipa o nome e eles veem."
+   ]
+  },
+  "titulo_errado": {
+   "t": "Título, imagem ou episódio errado",
+   "k": [
+    "titulo errado",
+    "imagem errada",
+    "capa errada",
+    "episodio errado",
+    "numeracao errada",
+    "descricao errada",
+    "informacao errada",
+    "ordem dos episodios",
+    "episodios trocados",
+    "temporada errada"
+   ],
+   "l": [
+    "Às vezes as fontes de dados trazem informação errada ou numeração diferente. A equipa consegue corrigir títulos, imagens e descrições à mão, por temporada ou episódio. Diz-me qual é a obra e o que está errado no pedido de suporte."
+   ]
+  },
+  "dados_internet": {
+   "t": "Gasto de internet",
+   "k": [
+    "dados moveis",
+    "consumo de dados",
+    "gasta muita internet",
+    "limite de dados",
+    "wifi ou dados",
+    "quantos dados",
+    "uso de internet",
+    "plafond"
+   ],
+   "l": [
+    "Ver um episódio descarrega-o e, como é uma partilha entre pessoas, também envia partes a outros enquanto vês, por isso usa bastante internet. Se tens limite de dados no telemóvel, é melhor ver em Wi-Fi."
+   ]
+  },
+  "velocidade_reproducao": {
+   "t": "Velocidade de reprodução",
+   "k": [
+    "velocidade de reproducao",
+    "1.5x",
+    "2x",
+    "acelerar",
+    "mais rapido o video",
+    "velocidade do video",
+    "ver mais depressa",
+    "ver mais devagar",
+    "camara lenta"
+   ],
+   "l": [
+    "No leitor há o botão da velocidade (mostra 1.0x). Carregas e escolhes mais rápido ou mais devagar."
+   ]
+  },
+  "lista_episodios_leitor": {
+   "t": "Mudar de episódio sem sair do leitor",
+   "k": [
+    "lista de episodios",
+    "mudar de episodio",
+    "saltar para o episodio",
+    "ir para outro episodio",
+    "escolher episodio no leitor"
+   ],
+   "l": [
+    "No leitor há a lista de episódios: abres, escolhes e mudas sem sair do vídeo. Os que já viste aparecem marcados."
+   ]
+  },
+  "forum_no_leitor": {
+   "t": "Fórum e avaliações no leitor",
+   "k": [
+    "forum no leitor",
+    "comentar no leitor",
+    "discutir episodio",
+    "avaliar no leitor",
+    "forum do episodio no leitor",
+    "ver o forum enquanto vejo"
+   ],
+   "l": [
+    "No leitor há botões para abrir o fórum e as avaliações do episódio que estás a ver, sem saíres do vídeo."
+   ]
+  },
+  "legendas_externas": {
+   "t": "Legendas extra",
+   "k": [
+    "legendas extra",
+    "legendas externas",
+    "opensubtitles",
+    "mais legendas",
+    "outra legenda",
+    "legenda em outra lingua",
+    "legenda nao existe"
+   ],
+   "l": [
+    "Além das legendas que vêm na fonte, o LayerSubs procura legendas extra em dezenas de línguas (dados da OpenSubtitles). Escolhe-as no botão das legendas do leitor. Se uma estiver fora de tempo, acerta-a ou experimenta outra."
+   ]
+  },
+  "traduzir_legendas": {
+   "t": "Traduzir legendas automaticamente",
+   "k": [
+    "traduzir legenda",
+    "traducao de legendas",
+    "layertranslate legendas",
+    "legenda traduzida",
+    "traduzir legendas automaticamente",
+    "sem legenda na minha lingua"
+   ],
+   "l": [
+    "Se não existe legenda na tua língua, há uma tradução automática (beta): pega numa legenda existente, em qualquer língua, e traduz mantendo os mesmos tempos. Podes ver uma pré-visualização para escolher a mais bem sincronizada."
+   ]
+  },
+  "termos_privacidade": {
+   "t": "Termos e privacidade",
+   "k": [
+    "termos",
+    "termos de servico",
+    "politica de privacidade",
+    "aceitar termos",
+    "condicoes de uso",
+    "protecao de dados",
+    "o que fazem com os meus dados"
+   ],
+   "l": [
+    "Ao entrar aceitas os Termos de Serviço e a Política de Privacidade (aparecem no ecrã de entrada). Não pedimos palavra-passe: entras com o Discord ou o Google. Se tens dúvidas sobre os teus dados, fala com a equipa."
+   ]
+  },
+  "criar_topico": {
+   "t": "Criar um tópico",
+   "k": [
+    "criar topico",
+    "crio topico",
+    "como crio um topico",
+    "novo topico",
+    "abrir topico",
+    "publicar topico",
+    "fazer um topico",
+    "criar discussao",
+    "iniciar discussao",
+    "postar no forum",
+    "criar um post",
+    "quero criar um topico",
+    "abrir uma discussao"
+   ],
+   "l": [
+    "Há três caminhos. 1) No Fórum, carrega em \"Novo Tópico\". 2) Na página da obra, no separador Fórum: o tópico já fica ligado àquela obra. 3) No leitor, o botão do fórum abre a discussão do episódio que estás a ver, e podes criar o tópico logo ali. Ao criar escolhes (ou já vem escolhido) o nível: geral, franquia, obra, temporada ou episódio.",
+    "Se estás a ver o Fórum filtrado por uma obra, temporada ou episódio, o tópico novo fica nesse contexto e o contexto aparece bloqueado. Para o mudar, limpa os filtros primeiro."
+   ]
+  },
+  "home": {
+   "t": "O que há na Home",
+   "k": [
+    "home",
+    "pagina inicial",
+    "ecra inicial",
+    "tendencias",
+    "populares",
+    "temporada atual",
+    "proxima temporada",
+    "trending",
+    "destaque da home",
+    "prateleiras",
+    "animes da temporada",
+    "anime da temporada",
+    "animes desta temporada",
+    "ver animes da temporada"
+   ],
+   "l": [
+    "A Home mostra um destaque grande no topo e várias prateleiras: Continuar a ver, Tendências atuais, Populares desta temporada, a próxima temporada e Populares de sempre."
+   ]
+  },
+  "barra_lateral_obra": {
+   "t": "O que vejo ao lado de uma obra",
+   "k": [
+    "barra lateral",
+    "ao lado da obra",
+    "proximo episodio contagem",
+    "contagem decrescente",
+    "o meu progresso na obra",
+    "cartoes da obra",
+    "detalhes tecnicos",
+    "quanto falta para o proximo episodio"
+   ],
+   "l": [
+    "Na página de uma obra, ao lado, vês o próximo episódio (com a contagem do que falta), o teu progresso, os detalhes técnicos, o que a comunidade acha, discussões em destaque e obras parecidas."
+   ]
+  },
+  "estudio": {
+   "t": "Estúdio da obra",
+   "k": [
+    "estudio",
+    "estudios",
+    "outros trabalhos do estudio",
+    "quem produziu",
+    "quem fez o anime",
+    "produtora"
+   ],
+   "l": [
+    "Na página da obra vês o estúdio e outros trabalhos dele. Esta lista vai crescendo à medida que as pessoas abrem mais obras do mesmo estúdio."
+   ]
+  },
+  "semelhantes": {
+   "t": "Obras parecidas",
+   "k": [
+    "semelhantes",
+    "parecidos",
+    "parecidas",
+    "obras parecidas",
+    "recomendados",
+    "recomendacoes",
+    "quero ver algo parecido",
+    "mais como este"
+   ],
+   "l": [
+    "Na barra lateral da página de uma obra aparecem as obras mais recomendadas pela comunidade a quem gostou daquela, com a percentagem de afinidade ao lado."
+   ]
+  },
+  "reputacao": {
+   "t": "Reputação",
+   "k": [
+    "reputacao",
+    "o que e reputacao",
+    "como ganho reputacao",
+    "sobe reputacao",
+    "karma"
+   ],
+   "l": [
+    "A reputação sobe quando outras pessoas dão \"gosto\" às tuas avaliações. É uma das categorias dos rankings."
+   ]
+  },
+  "modo_escuro": {
+   "t": "Modo claro ou escuro",
+   "k": [
+    "modo escuro",
+    "modo claro",
+    "tema claro",
+    "tema escuro",
+    "mudar o tema",
+    "fundo branco",
+    "cor da app",
+    "dark mode",
+    "light mode"
+   ],
+   "l": [
+    "A AnimeLayer usa só o tema escuro, por agora: é mais agradável para ver episódios. Se alguma vez houver tema claro, avisamos nas novidades."
+   ]
+  },
+  "baixar_episodio": {
+   "t": "Guardar episódios para ver depois",
+   "k": [
+    "baixar episodio",
+    "descarregar episodio",
+    "guardar episodio",
+    "download para ver depois",
+    "ver offline",
+    "transferir episodio",
+    "guardar para ver sem internet",
+    "guardar no telemovel"
+   ],
+   "l": [
+    "A app não guarda episódios para ver mais tarde: descarrega enquanto vês e depois limpa os ficheiros temporários sozinha. Para ver, precisas de internet."
+   ]
+  },
+  "transmitir_tv": {
+   "t": "Transmitir para a televisão",
+   "k": [
+    "chromecast",
+    "transmitir para a tv",
+    "cast",
+    "airplay",
+    "ligar a tv",
+    "ver na tv",
+    "ver na televisao",
+    "tv chromecast",
+    "espelhar ecra",
+    "ligar ao televisor",
+    "passar para a tv"
+   ],
+   "l": [
+    "Que eu saiba, a app ainda não transmite para a televisão (Chromecast ou AirPlay). Podes usá-la direto numa Android TV, ou ligar o computador ou o telemóvel à TV com um cabo."
+   ]
+  },
+  "o_que_ver": {
+   "t": "O que ver hoje",
+   "k": [
+    "o que ver hoje",
+    "quais animes ver",
+    "animes para ver hoje",
+    "quais os animes",
+    "recomenda anime",
+    "recomendar anime",
+    "sugestao de anime",
+    "sugere um anime",
+    "ideias de anime",
+    "o que vejo hoje",
+    "nao sei o que ver",
+    "para ver hoje",
+    "melhores animes",
+    "anime bom"
+   ],
+   "l": [
+    "Boa pergunta, e não sou grande crítico, mas sei onde procurar! 1) Na Home, vê as Tendências atuais e as Populares desta temporada. 2) No Calendário, vês o que estreia hoje nas obras da tua lista. 3) Na página de Animes, filtra por género e ordena por popularidade. E o \"Continuar a ver\" guarda o ponto onde ficaste."
+   ]
+  },
+  "spoilers": {
+   "t": "Evitar spoilers",
+   "k": [
+    "spoiler",
+    "spoilers",
+    "evitar spoilers",
+    "levei spoiler",
+    "fizeram spoiler",
+    "estragaram o final",
+    "ver final sem querer",
+    "esconder spoilers"
+   ],
+   "l": [
+    "O fórum está dividido em camadas (geral, franquia, obra, temporada e episódio) justamente para ajudar: o do episódio só fala daquele episódio. Quem posta deve ter cuidado; se vires spoilers sem aviso, denuncia."
+   ]
+  },
+  "perfil_publico": {
+   "t": "Quem vê o meu perfil",
+   "k": [
+    "perfil publico",
+    "quem ve o meu perfil",
+    "perfil privado",
+    "esconder perfil",
+    "meu perfil e visivel",
+    "o que os outros veem",
+    "privacidade do perfil"
+   ],
+   "l": [
+    "Os perfis são públicos: outras pessoas podem ver o teu nome, a bio, o banner, as conquistas em destaque e a vitrine. Por isso evita pôr dados pessoais na bio."
+   ]
+  },
+  "mudar_email": {
+   "t": "Mudar o email da conta",
+   "k": [
+    "mudar email",
+    "trocar email",
+    "alterar email",
+    "email da conta",
+    "esqueci a palavra passe",
+    "recuperar conta",
+    "esqueci a senha",
+    "trocar de conta",
+    "outra conta"
+   ],
+   "l": [
+    "A conta é a do Discord ou do Google com que entras, e não há palavra-passe da AnimeLayer. Para mudar o email, muda-o nessa conta. Para entrar com outra conta, sai e volta a entrar com a que quiseres."
+   ]
+  },
+  "varias_contas": {
+   "t": "Ter mais de uma conta",
+   "k": [
+    "duas contas",
+    "mais de uma conta",
+    "varias contas",
+    "segunda conta",
+    "conta secundaria",
+    "conta para a familia"
+   ],
+   "l": [
+    "Cada pessoa entra com o seu Discord ou Google, e cada conta pode ter vários perfis com lista e progresso próprios. Se vão partilhar a app em casa, os perfis resolvem: um por pessoa."
+   ]
+  },
+  "ver_perfil_outro": {
+   "t": "Ver o perfil de outra pessoa",
+   "k": [
+    "ver perfil de outra pessoa",
+    "perfil de um utilizador",
+    "procurar utilizador",
+    "encontrar uma pessoa",
+    "ver o perfil do",
+    "perfil de alguem",
+    "procurar perfil"
+   ],
+   "l": [
+    "Pesquisa o nome na barra lá em cima (procura obras e também perfis), ou carrega no nome da pessoa num tópico ou comentário. No perfil dela podes ver as conquistas e seguir."
+   ]
+  },
+  "forum_filtros": {
+   "t": "Ordenar e filtrar o fórum",
+   "k": [
+    "ordenar forum",
+    "topicos em alta",
+    "mais recentes",
+    "topicos populares",
+    "sem resposta",
+    "topicos sem resposta",
+    "procurar no forum",
+    "pesquisar no forum",
+    "filtrar forum",
+    "filtrar topicos",
+    "etiqueta",
+    "etiquetas",
+    "tag",
+    "tags"
+   ],
+   "l": [
+    "No Fórum podes ordenar os tópicos por recentes, populares ou em alta, filtrar por etiqueta, mostrar só os que ainda não têm resposta e pesquisar por texto. Também podes filtrar por obra, temporada ou episódio."
+   ]
+  },
+  "ordem_ver": {
+   "t": "Por que ordem ver uma franquia",
+   "k": [
+    "ordem para ver",
+    "por que ordem ver",
+    "ordem cronologica",
+    "ordem de visualizacao",
+    "o que ver primeiro",
+    "por onde comecar a ver",
+    "ordem das temporadas",
+    "ordem dos filmes"
+   ],
+   "l": [
+    "Dentro de uma franquia, a lista de Temporadas mostra a ordem de cada obra, e os filmes e especiais ficam nos separadores Filmes e Especiais. Para uma ordem especial (cronológica, sem fillers), pergunta no fórum da franquia: a comunidade adora esse assunto!"
+   ]
+  },
+  "addon_gerir": {
+   "t": "Ativar, desativar ou remover addons",
+   "k": [
+    "remover addon",
+    "removo addon",
+    "apagar addon",
+    "desinstalar addon",
+    "desativar addon",
+    "desativo addon",
+    "desligar addon",
+    "varios addons",
+    "mais de um addon",
+    "mais do que um addon",
+    "usar varios addons",
+    "dois addons",
+    "quantos addons",
+    "=mais de um addon",
+    "=mais do que um addon",
+    "=mais que um addon",
+    "=varios addons",
+    "=addon esta ativo",
+    "=addon esta desativado",
+    "=ativar e desativar"
+   ],
+   "l": [
+    "Nas Definições, no separador Addons, vês os que instalaste: tocas para ativar ou desativar e tens o ícone do caixote para remover. Podes ter vários ativos ao mesmo tempo: a app junta as fontes de todos e ordena-as para ti."
+   ]
+  },
+  "addon_que_usar": {
+   "t": "Que addon usar",
+   "k": [
+    "que addons devo usar",
+    "qual addon usar",
+    "onde arranjo addons",
+    "onde encontro addons",
+    "recomendar addon",
+    "melhor addon",
+    "sugere addon",
+    "addons recomendados",
+    "lista de addons",
+    "onde consigo addons",
+    "qual o melhor addon",
+    "onde baixar animes",
+    "sites para ver anime",
+    "site de torrents",
+    "onde ver anime gratis",
+    "download de animes gratis",
+    "melhor site para anime",
+    "site para ver anime",
+    "onde ver anime de graca",
+    "onde baixar episodios"
+   ],
+   "l": [
+    "Não indico nenhum, e é de propósito: a AnimeLayer não traz nem sugere addons, para ficar de fora das fontes. A escolha, e a responsabilidade, são de quem os instala.",
+    "Percebo a curiosidade, mas a resposta mantém-se: não indico sítios nem addons. O que consigo é mostrar-te, na página de cada série, os serviços oficiais onde ela está disponível (\"Onde ver\")."
+   ]
+  },
+  "qualidade_video": {
+   "t": "Qualidade do vídeo",
+   "k": [
+    "so aparece 480p",
+    "480p",
+    "qualidade baixa",
+    "baixa qualidade",
+    "imagem pixelizada",
+    "pixelizada",
+    "imagem desfocada",
+    "imagem tremida",
+    "ver em 4k",
+    "posso ver em 4k",
+    "tem 4k",
+    "resolucao",
+    "melhorar a qualidade"
+   ],
+   "l": [
+    "A qualidade depende da fonte: cada uma traz a sua (480p, 720p, 1080p, 4K…). Na lista de fontes há filtro por qualidade. Se só aparecem versões baixas, experimenta outro addon ou espera: episódios novos às vezes só têm versões baixas no início. A imagem pode parecer pixelizada em ecrã inteiro quando a fonte é de baixa qualidade."
+   ]
+  },
+  "legendas_duplicadas": {
+   "t": "Legendas repetidas",
+   "k": [
+    "legendas duplicadas",
+    "legendas aparecem duas vezes",
+    "legenda repetida",
+    "legenda em dobro",
+    "duas legendas",
+    "legendas sobrepostas",
+    "legenda duplicada",
+    "texto duplicado"
+   ],
+   "l": [
+    "Costuma acontecer quando há duas legendas ativas ao mesmo tempo (por exemplo, a da fonte e uma extra do LayerSubs). No botão das legendas escolhe só uma. Se for a mesma legenda repetida dentro da própria fonte, experimenta outra faixa ou outra fonte."
+   ]
+  },
+  "legendas_desligar": {
+   "t": "Tirar as legendas",
+   "k": [
+    "tirar legendas",
+    "tirar as legendas",
+    "desligar legendas",
+    "sem legendas",
+    "esconder legendas",
+    "nao quero legendas",
+    "tirar legenda",
+    "remover legendas",
+    "tiro legendas",
+    "tiro as legendas",
+    "como tiro as legendas",
+    "tiro a legenda",
+    "desligo as legendas",
+    "desligo legendas"
+   ],
+   "l": [
+    "No botão das legendas do leitor escolhe a opção para as desligar. Fica guardado para os próximos episódios."
+   ]
+  },
+  "audio_dessincronizado": {
+   "t": "Som fora de sincronia",
+   "k": [
+    "som atrasado",
+    "audio atrasado",
+    "audio dessincronizado",
+    "som dessincronizado",
+    "voz fora de tempo",
+    "audio fora de sincronia",
+    "som adiantado",
+    "som nao acompanha"
+   ],
+   "l": [
+    "Quando o som não acompanha a imagem, quase sempre é daquela fonte: experimenta outra. Se acontecer em todas, diz à equipa em que sistema estás e qual é a obra."
+   ]
+  },
+  "video_cortado": {
+   "t": "Imagem cortada ou com barras",
+   "k": [
+    "video cortado",
+    "imagem cortada",
+    "barras pretas",
+    "proporcao",
+    "ecra esticado",
+    "formato da imagem",
+    "ecra com barras",
+    "imagem esticada",
+    "imagem deformada"
+   ],
+   "l": [
+    "As barras pretas e a imagem cortada dependem do formato do vídeo e do ecrã (por exemplo, um vídeo 16:9 num ecrã mais largo). Experimenta o ecrã inteiro. Se a imagem aparecer sempre esticada ou cortada, diz-nos a obra e a fonte."
+   ]
+  },
+  "pausar": {
+   "t": "Pausar o vídeo",
+   "k": [
+    "pauso",
+    "pausar",
+    "pausa",
+    "como pauso o video",
+    "parar o video",
+    "retomar video",
+    "botao de pausa",
+    "play pause"
+   ],
+   "l": [
+    "No leitor, o botão de play/pausa fica ao centro dos controlos. Se os controlos estiverem escondidos, move o rato (ou toca no ecrã) para os mostrar."
+   ]
+  },
+  "ver_notificacoes": {
+   "t": "Ver as minhas notificações",
+   "k": [
+    "ver as minhas notificacoes",
+    "onde estao as notificacoes",
+    "sino das notificacoes",
+    "abrir notificacoes",
+    "notificacoes onde",
+    "minhas notificacoes",
+    "historico de notificacoes",
+    "vejo as minhas notificacoes",
+    "vejo notificacoes",
+    "onde vejo notificacoes",
+    "como vejo as minhas notificacoes"
+   ],
+   "l": [
+    "O sino lá em cima mostra as tuas notificações, com um contador do que ainda não viste. Também há uma página com todas."
+   ]
+  },
+  "seguranca": {
+   "t": "A app é segura?",
+   "k": [
+    "a app e segura",
+    "e segura",
+    "tem virus",
+    "virus",
+    "malware",
+    "confiavel",
+    "e de confianca",
+    "antivirus",
+    "perigosa",
+    "seguranca da app",
+    "roubam os meus dados"
+   ],
+   "l": [
+    "Nunca te pedimos a palavra-passe (entras com o Discord ou o Google), os pagamentos passam pelo Stripe e as atualizações vêm dos nossos canais. Se um antivírus avisar sobre a app, diz-nos qual e em que versão, para verificarmos."
+   ]
+  },
+  "cartoons": {
+   "t": "Desenhos animados (cartoons)",
+   "k": [
+    "desenhos animados",
+    "cartoon",
+    "cartoons",
+    "simpsons",
+    "series ocidentais",
+    "desenhos",
+    "animacao ocidental",
+    "tem series",
+    "tem desenhos"
+   ],
+   "l": [
+    "Sim! Para além dos animes, há uma secção CARTOONS na barra de cima, com desenhos animados e as suas franquias. Funcionam como os animes (lista, fórum, avaliações), mas ficam fora dos rankings de popularidade."
+   ]
+  },
+  "ios": {
+   "t": "iPhone e iPad",
+   "k": [
+    "iphone",
+    "ipad",
+    "ios",
+    "apple",
+    "funciona no iphone",
+    "tem app para iphone",
+    "versao para iphone",
+    "app store",
+    "tem na app store",
+    "=iphone",
+    "=ipad",
+    "=app store"
+   ],
+   "l": [
+    "Por agora não há versão para iPhone nem iPad. A AnimeLayer funciona em Windows, macOS, Linux, Android e Android TV."
+   ]
+  },
+  "controlo_parental": {
+   "t": "Controlo parental e perfil de criança",
+   "k": [
+    "controlo parental",
+    "modo kids",
+    "modo crianca",
+    "perfil de crianca",
+    "perfil crianca",
+    "filtro de idade",
+    "proteger criancas",
+    "para criancas",
+    "filhos"
+   ],
+   "l": [
+    "Por agora não há controlo parental nem perfil de criança. Há um aviso para maiores de idade antes de abrires obras adultas, e cada pessoa da família pode ter o seu perfil."
+   ]
+  },
+  "captura_ecra": {
+   "t": "Captura de ecrã",
+   "k": [
+    "captura de ecra",
+    "screenshot",
+    "print screen",
+    "gravar ecra",
+    "tirar foto ao ecra",
+    "gravar video",
+    "captura"
+   ],
+   "l": [
+    "A app não tem botão de captura: usa o atalho do teu sistema (no Windows, por exemplo, Windows + Shift + S)."
+   ]
+  },
+  "anuncios": {
+   "t": "Anúncios",
+   "k": [
+    "anuncios",
+    "publicidade",
+    "tem anuncios",
+    "tem ads",
+    "propagandas",
+    "banners publicitarios"
+   ],
+   "l": [
+    "Que eu saiba, a app não tem anúncios nem publicidade."
+   ]
+  },
+  "discord_convite": {
+   "t": "Servidor de Discord",
+   "k": [
+    "convite",
+    "convite do discord",
+    "link do discord",
+    "servidor de discord",
+    "servidor discord",
+    "entrar no discord",
+    "link do servidor",
+    "tem discord",
+    "discord da animelayer",
+    "comunidade discord",
+    "canal de novidades",
+    "qual o convite",
+    "convite para o servidor",
+    "discord"
+   ],
+   "l": [
+    "Sim! O convite do nosso servidor de Discord é https://discord.gg/EFaM4h4mXp 🎉 Lá saem os anúncios de cada versão nova e a comunidade conversa."
+   ]
+  },
+  "redes_sociais": {
+   "t": "Redes sociais",
+   "k": [
+    "redes sociais",
+    "instagram",
+    "twitter",
+    "facebook",
+    "tiktok",
+    "youtube",
+    "reddit",
+    "onde vos sigo",
+    "contas oficiais",
+    "x twitter"
+   ],
+   "l": [
+    "Que eu saiba, por agora a comunidade está no Discord. Se houver outras redes, anunciamos lá."
+   ]
+  },
+  "site_oficial": {
+   "t": "Site oficial",
+   "k": [
+    "site oficial",
+    "website",
+    "pagina web",
+    "site da animelayer",
+    "endereco do site",
+    "onde e o site",
+    "link do site",
+    "sitio da animelayer"
+   ],
+   "l": [
+    "O nosso site é https://animelayer.vercel.app 🌐"
+   ]
+  },
+  "fixar_seguir_topico": {
+   "t": "Fixar ou seguir um tópico",
+   "k": [
+    "fixar topico",
+    "fixo um topico",
+    "desafixar topico",
+    "seguir topico",
+    "sigo um topico",
+    "seguir uma discussao",
+    "avisos de um topico",
+    "topico fixado"
+   ],
+   "l": [
+    "Podes seguir um tópico para receberes avisos de respostas: procura o botão \"Seguir tópico\". Fixar tópicos (no topo da lista) só a equipa consegue."
+   ]
+  },
+  "bloquear": {
+   "t": "Bloquear alguém",
+   "k": [
+    "bloquear",
+    "bloquear alguem",
+    "bloqueio",
+    "nao quero ver esta pessoa",
+    "silenciar pessoa",
+    "esconder utilizador",
+    "bloquear utilizador",
+    "bloqueio alguem",
+    "como bloqueio alguem",
+    "posso bloquear",
+    "bloqueio um utilizador"
+   ],
+   "l": [
+    "Que eu saiba, ainda não há uma opção de bloquear pessoas. Se alguém te incomoda, denuncia o que for ofensivo: a equipa analisa e pode agir."
+   ]
+  },
+  "ser_moderador": {
+   "t": "Ser moderador",
+   "k": [
+    "ser moderador",
+    "tornar me moderador",
+    "como me torno moderador",
+    "candidatar moderador",
+    "quero ajudar a moderar",
+    "fazer parte da equipa",
+    "trabalhar na animelayer",
+    "ser staff"
+   ],
+   "l": [
+    "Os moderadores são escolhidos pela equipa. Se quiseres ajudar, fala com a equipa pelo suporte (categoria Outro) e conta-lhes o que gostavas de fazer."
+   ]
+  },
+  "quantos_perfis": {
+   "t": "Quantos perfis posso ter",
+   "k": [
+    "quantos perfis",
+    "limite de perfis",
+    "numero de perfis",
+    "perfis por conta",
+    "posso ter mais perfis",
+    "mais de tres perfis",
+    "maximo de perfis"
+   ],
+   "l": [
+    "Cada conta pode ter até 3 perfis, cada um com a sua lista, o seu progresso e o seu XP."
+   ]
+  },
+  "criar_conta": {
+   "t": "Criar conta",
+   "k": [
+    "criar conta",
+    "crio conta",
+    "como crio conta",
+    "registo",
+    "registar",
+    "inscrever",
+    "fazer registo",
+    "nova conta",
+    "sign up",
+    "como me registo"
+   ],
+   "l": [
+    "Não há um registo à parte: quando entras pela primeira vez com o Discord ou o Google, a conta fica criada. Depois crias o teu primeiro perfil e já podes começar."
+   ]
+  },
+  "permissoes": {
+   "t": "Permissões da app",
+   "k": [
+    "permissoes",
+    "porque pede permissoes",
+    "permissao",
+    "que permissoes pede",
+    "acesso a camara",
+    "acesso a microfone",
+    "acesso aos contactos",
+    "acesso a localizacao",
+    "acesso as fotos",
+    "a app pede acesso",
+    "instalar apps desconhecidas",
+    "fontes desconhecidas"
+   ],
+   "l": [
+    "A app pede só o essencial: ligação à internet (e ver o estado da rede) e, no Android, a permissão para instalar as próprias atualizações (por isso o Android pode pedir para autorizares a AnimeLayer a \"instalar apps\"). Não pede câmara, microfone, contactos, localização nem fotografias."
+   ]
+  },
+  "notificacoes_telemovel": {
+   "t": "Avisos no ecrã do telemóvel",
+   "k": [
+    "notificacao no telemovel",
+    "notificacoes push",
+    "push",
+    "aviso no telemovel",
+    "avisar com a app fechada",
+    "receber aviso fora da app",
+    "alerta no telemovel",
+    "notificacao com a app fechada"
+   ],
+   "l": [
+    "Que eu saiba, os avisos aparecem dentro da app (no sino) e no aviso que surge no ecrã enquanto a usas. Não há notificações no sistema para quando a app está fechada, por agora."
+   ]
+  },
+  "barra_controlos": {
+   "t": "Os controlos do leitor desapareceram",
+   "k": [
+    "barra de progresso desapareceu",
+    "controlos desapareceram",
+    "nao vejo os controlos",
+    "barra desapareceu",
+    "esconder controlos",
+    "controlos do video",
+    "onde estao os controlos",
+    "barra de progresso",
+    "controlos escondidos"
+   ],
+   "l": [
+    "Os controlos do leitor escondem-se sozinhos passado um bocado: move o rato (ou toca no ecrã) para os voltares a ver."
+   ]
+  },
+  "responder_comentario": {
+   "t": "Responder a um comentário",
+   "k": [
+    "respondo a um comentario",
+    "responder a um comentario",
+    "responder comentario",
+    "respondo comentario",
+    "como respondo",
+    "responder a alguem",
+    "responder no forum"
+   ],
+   "l": [
+    "Em cada comentário há a opção de responder: a tua resposta fica por baixo do comentário a que respondeste, em conversa. A pessoa que escreveu recebe um aviso (se tiver essa notificação ligada)."
+   ]
+  },
+  "meus_topicos": {
+   "t": "Ver os meus tópicos e comentários",
+   "k": [
+    "meus topicos",
+    "os meus topicos",
+    "vejo os meus topicos",
+    "topicos que criei",
+    "meus comentarios",
+    "o que escrevi",
+    "historico no forum",
+    "a minha atividade no forum"
+   ],
+   "l": [
+    "No teu perfil vês a tua atividade e as tuas estatísticas do fórum, como os tópicos que criaste. Se procuras uma conversa em concreto, usa a pesquisa do Fórum."
+   ]
+  },
+  "sair_conta": {
+   "t": "Sair da conta",
+   "k": [
+    "saio da conta",
+    "sair da conta",
+    "terminar sessao",
+    "logout",
+    "fazer logout",
+    "como saio",
+    "desligar a conta",
+    "sair da animelayer",
+    "fechar sessao"
+   ],
+   "l": [
+    "Carrega no teu avatar, lá em cima, e escolhe \"Sair da conta\" no menu."
+   ]
+  },
+  "bateria": {
+   "t": "Bateria e aquecimento",
+   "k": [
+    "bateria",
+    "gasta bateria",
+    "usa bateria",
+    "consome bateria",
+    "telemovel aquece",
+    "aquece",
+    "aquecimento",
+    "esgota a bateria",
+    "usa muita bateria"
+   ],
+   "l": [
+    "Ver vídeo gasta bateria em qualquer app, e aqui há ainda a partilha de dados em segundo plano. Para poupar, baixa o brilho e usa Wi-Fi; no computador, liga-o à corrente. Não tenho números exatos de consumo."
+   ]
+  },
+  "quem_criou": {
+   "t": "Quem faz a AnimeLayer",
+   "k": [
+    "quem criou a animelayer",
+    "quem fez a animelayer",
+    "quem desenvolveu",
+    "quem e o dono",
+    "quem esta por tras",
+    "equipa da animelayer",
+    "quem sao voces",
+    "quem faz parte",
+    "quem programou",
+    "criadores"
+   ],
+   "l": [
+    "A AnimeLayer é feita pela nossa equipa e melhora com as sugestões da comunidade. Para conversares com quem a faz, passa pelo nosso Discord."
+   ]
+  },
+  "legal": {
+   "t": "É legal? É pirata?",
+   "k": [
+    "e legal",
+    "legalidade",
+    "direitos de autor",
+    "copyright",
+    "pirataria",
+    "pirata",
+    "e pirata",
+    "ilegal",
+    "e crime",
+    "e seguro",
+    "posso ser processado",
+    "de onde vem os videos",
+    "origem dos videos",
+    "quem fornece os videos",
+    "onde estao os videos",
+    "alojam videos",
+    "hospedam videos",
+    "vocês alojam",
+    "plataforma pirata",
+    "e pirata a plataforma",
+    "app pirata",
+    "a app e pirata",
+    "esta plataforma e pirata",
+    "=pirat",
+    "=ilegal",
+    "app de pirataria",
+    "site de pirataria",
+    "plataforma de pirataria",
+    "isto e pirataria",
+    "piratas",
+    "e roubo",
+    "e um roubo",
+    "e crime usar",
+    "=processad",
+    "=ser preso",
+    "=ter problemas legais"
+   ],
+   "l": [
+    "A AnimeLayer não aloja nem distribui vídeos e não traz fontes: é uma app para organizares e acompanhares o que vês, com uma comunidade. As fontes vêm de addons de terceiros, escolhidos e instalados por quem usa a app, que também é responsável pelo que vê. Isto não é aconselhamento jurídico: informa-te sobre as regras do teu país."
+   ]
+  }
+ }
+}
